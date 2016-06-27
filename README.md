@@ -288,6 +288,9 @@
 ## Футболку про D&D Party, мужскую, размера «S»
 ![](https://pbs.twimg.com/media/BxTkv3pCMAAe-Wp.jpg)
 
+## Абстрактную фанатскую футболку группы Gorgoroth, мужскую, размера «S»
+![](https://1.bp.blogspot.com/-0OoUNKpWjnQ/VdP55_kwweI/AAAAAAAAAhI/BPpq4M62K3w/s1600/IMG_20150819_112031.jpg)
+
 # Кухня  
 
 ## Термокружка Starbucks Stainless Steel Tumbler 
