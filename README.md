@@ -64,6 +64,13 @@
 
 # Гаджеты и прочая техника  
 
+## Фитнесс-браслет
+
+![](http://galagram.com/wp-content/uploads/2015/01/xiaomi-mi-band-2-2015.jpg)
+
+Без наворотов, но (!) с гарантировано работающей функцией умного будильника (и вибрацией).
+Синхронизирующийся с iOS.
+
 ## Plantronics BackBeat 216 for iPhone
 
 ![](https://mdata.yandex.net/i?path=b0214144021_img_id6874603701126518003.jpg)
