@@ -354,6 +354,11 @@
 
 # Прочее
 
+## Жёлтого резинового утёнка
+![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rubber_duck_assisting_with_debugging.jpg)
+
+Или двух (пригодятся [для отладки кода](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D1%83%D1%82%D1%91%D0%BD%D0%BA%D0%B0).
+
 ## Подарочные сертификаты в какой-нибудь екатеринбуржский Tattoo-салон
 ![sample blackwork](https://c2.staticflickr.com/4/3535/5795678761_36bc8c2a91_z.jpg)
 
