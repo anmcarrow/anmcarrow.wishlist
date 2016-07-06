@@ -354,6 +354,14 @@
 
 # Прочее
 
+## Велосипедное седло Brooks Flyer
+![](http://brookssaddles.ru/common/upload/images/full/1345111932502cc77c12745.jpg)
+
+Да, оно недешёвое и на любителя.
+Но тем не менее.
+
+[](http://brookssaddles.ru/saddles/touring/brooks-flyer)
+
 ## Жёлтого резинового утёнка
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rubber_duck_assisting_with_debugging.jpg)
 
