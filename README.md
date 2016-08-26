@@ -71,12 +71,6 @@
 Без наворотов, но (!) с гарантировано работающей функцией умного будильника (и вибрацией).
 Синхронизирующийся с iOS.
 
-## Plantronics BackBeat 216 for iPhone
-
-![](https://mdata.yandex.net/i?path=b0214144021_img_id6874603701126518003.jpg)
-
-Чёрного цвета. Доступны [НА YANDEX.MARKET](http://anmcarrow.me/://market.yandex.ru/product/7857921?hid=90555&show-uid=58538159005579819837001)
-
 ## UAGear Composite Case for 13-Inch Macbook (Ash)
 ![](http://ecx.images-amazon.com/images/I/81FPe4L-h%2BL._SL1500_.jpg)
 
@@ -93,16 +87,6 @@
 > "For those who use computer in alternative ways."©
 
 Брать [здесь](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-pedal/) или, на худой конец — [здесь](http://www.dx.com/p/usb-triple-action-foot-switch-keyboard-control-foot-pedal-56508#.VmFnZFjhDRY).
-
-## "Однорукая" клавиатура
-![](http://www.hwp.ru/Joysticks/Cybersnipa.gamepad/0.jpg)
-
-[Belkin Nostromo n52](https://market.yandex.ru/product/3606350?hid=723088&show-uid=019760414388542251), 
-[ErgoMedia 500](https://market.yandex.ru/product/1015955?hid=723088&nid=55335&text=Genius%20ErgoMedia%20500&srnum=1),
-[Cyber Snipa Game Pad](http://www.hwp.ru/articles/Igrovaya_klaviatura_Cyber_Snipa_Game_Pad/)
-или простецкие [WolfKing DK-2388U](https://market.yandex.ru/product/2334424?clid=604&utm_source=adw_kms&utm_medium=cpc&utm_campaign=dynrem_msk_visitors&utm_term=computer)/[X7-G100](https://market.yandex.ru/product/986018?hid=723088&track=alts).  
-*Razer и Logitech не предлагать!*  
-Зачем? В дополнение к wacom-дигитайзеру, конечно.
 
 ## Убермышь "Swiftpoint GT"
 ![Swiftpoint Mouse as IS](http://cdn.wccftech.com/wp-content/uploads/2015/07/Swiftpoint-GT.jpg)
@@ -124,7 +108,7 @@
 Для моей Apple-техники (не USB-версию!).  
 [Есть на e-bay.](http://www.ebay.com/sch/i.html?_odkw=SteelSeries+7H+iphone+ipad&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.XSteelSeries+7H+ipad.TRS0&_nkw=SteelSeries+7H+ipad&_sacat=0)
 
-## Аудио-гарнитуру, беспроводную, USB, с мониторными наушниками  
+## Аудио-гарнитуру, беспроводную, USB, с закрытыми наушниками  
 ![Creative Sound Blaster Tactic 3D Wrath](http://mdata.yandex.net/i?path=b1225125238_img_id5052509219088001043.jpg)
 
 Например — Creative Sound Blaster Tactic 3D Wrath  
@@ -164,11 +148,6 @@
 
 [Купить тут](http://cvp.com/index.php?t=product/wacom_wacack40801)
 
-## Переходник Mini Displayport > VGA
-![](https://s1.mmr.ms/i/1284224/0/1000x1000.png)
-
-[Вот этот,например](https://www.mediamarkt.ru/item/1284224/isy-imd-1000-adapter-mini-displayport-vga?utm_medium=cpc&utm_content=1284224&location=shop_R001&utm_campaign=yandex_market&utm_source=yandexmarket.ekb&utm_term=comp_nopc_Isy_IMD1000&_openstat=bWFya2V0LnlhbmRleC5ydTvQkNC00LDQv9GC0LXRgCBNaW5pIERpc3BsYXlQb3J0IC0gVkdBIElzeSBJTUQgMTAwMDtmMWhNN1N3NUh6Nk5ycU5TT3hwQkVnOw)
-
 ## Триммер для усов и бороды
 ![](http://s3.thcdn.com/productimg/0/600/600/04/10885504-1387302272-848057.jpg)
 
@@ -188,24 +167,7 @@
 Для рисования руками по бумаге всяких многослойных конструкций.  
 [Например, вот этот](http://www.amazon.co.uk/MiniSun-Modern-Ultra-Slim-Design-LightPad/dp/B00AYXR7CW/ref=sr_1_1?s=lighting&ie=UTF8&qid=1433242974&sr=1-1&keywords=MiniSun+A3+LED)
 
-# Разные подкастерские штуки:
-
-## Tascam US-122MKII
-![Tascam US-122MKII](http://mdata.yandex.net/i?path=b0325143226_img_id7096962840364666549.jpg)
-
-[Купить тут](http://market.yandex.ru/search.xml?text=Tascam+US-122MKII)  
-
-## Или AKG Perception 120
-![AKG Perception 120](http://recordinghacks.com/microphone-photo/00899/AKG-Acoustics/Perception-120-USB.jpg)
-
-[Купить тут](http://market.yandex.ru/search.xml?text=AKG+Perception+120)  
-
-## Поп-фильтр, например
-![Simple Pop Filter](http://media.musiciansfriend.com/is/image/MMGS7/Pop-Killer-Double-Layer-Pop-Filter-Black/621102000001000-00-500x500.jpg)
-
-[Купить тут](http://www.xcom-hobby.ru/proaudio_hfm050_318905.html)
-
-## И настольную микрофонную стойку 
+## Настольную микрофонную стойку 
 ![Просто, изящно и усточиво](http://konsonans-ekb.ru/upload/iblock/901/90142d9c35a2d47646923837ea6dc037.jpeg)
 
 [Например – такую](http://konsonans-ekb.ru/shop/stoyki_mikrofonnye/stoyka_mikrofonnaya_force_msc_10/)  
