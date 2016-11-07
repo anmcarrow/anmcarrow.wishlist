@@ -30,11 +30,6 @@
 ## Или Flambeau 8010 FRONT LOADER  
 ![Flambeau 8010 FRONT LOADER](http://www.vseinstrumenti.ru/images/goods/sadovaya_tehnika/tovary_dlya_otdyha/532209/490x280/899141.jpg)
 
-## Курвиметр
-![](http://www.mapshop.com/map-measurer/MapMeasurer1.jpg)
-
-Чтобы по картам маршруты мерять. Покупается много где, [но и тут - тоже](https://market.yandex.ru/search.xml?cvredirect=2&text=%D0%BA%D1%83%D1%80%D0%B2%D0%B8%D0%BC%D0%B5%D1%82%D1%80+%D0%BA%D0%B0%D1%80%D1%82&suggest_reqid=123104690144887546955857132058955)
-
 ## Stack the Bones game от Kickerland
 ![Stack the bones!](https://lh3.googleusercontent.com/-lpBgjVBVrU4/VAN5rDSFd3I/AAAAAAAAPSo/ZyF6SkHEu38/w448-h597-no/14%2B-%2B1)
 
@@ -149,7 +144,7 @@
 Чёрный или серебристый.  
 [Например, отсюда.](http://market.yandex.ru/search.xml?hid=91461&text=%D1%81%D1%82%D0%B8%D0%BB%D1%83%D1%81%D1%8B%20jot%20mini&srnum=25&ortext=c%D1%82%D0%B8%D0%BB%D1%83%D1%8B%20jot%20mini)
 
-## Wacon Intuos Personalisation Kit
+## Wacom Intuos Personalisation Kit
 ![](http://cdn.cvp.com/images/products/altimage/12%2012%2020141418385631Wacom%20Intuos%20Personalisation%20Kit.jpg)
 
 [Купить тут](http://cvp.com/index.php?t=product/wacom_wacack40801)
@@ -295,12 +290,6 @@
 [Тоже от IKEA](http://www.ikea.com/ru/ru/catalog/products/30233442/)  
 
 # DIY  
-
-## Коврик для резки самовосстанавливающийся
-![Нужная, между прочим вещь](http://www.shop-tilda.ru/images/201305/goods_img/18995_G_1368840681735.jpg)
-
-Скажем, А3 формата (или около того).
-Купить можно, например в [komus.ru](http://komus.ru)
 
 ## Пила ручная, складная-садовая
 ![](http://www.bohero.eu/Repository/Cached/ProductPictures_Fiskars_Garden_V1/FISKARS_123860_123870_123880-canvas-640.jpg)
