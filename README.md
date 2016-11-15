@@ -311,6 +311,13 @@
 
 # Прочее
 
+## Штамп "ПОТРАЧЕНО"
+
+![](http://www.grm.ru/pic_archive/jpg/grm-ruch-1540.jpg)
+
+Компактный прямоугольный штамп с надписью "ПОТРАЧЕНО" и подушечку с тушью.
+Для рабочих надобностей.
+
 ## Велосипедное седло Brooks Flyer
 ![](http://brookssaddles.ru/common/upload/images/full/1345111932502cc77c12745.jpg)
 
