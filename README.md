@@ -72,6 +72,18 @@
 Без наворотов, но (!) с гарантировано работающей функцией умного будильника (и вибрацией).
 Синхронизирующийся с iOS.
 
+## mStand360 for laptop
+
+![](https://images-na.ssl-images-amazon.com/images/I/41x-EX-TZ7L._SL1000_.jpg)
+
+[Например на Amazon](https://www.amazon.com/Rain-Design-10032-mStand-Laptop/dp/B000OOYECC/ref=nosim&tag=sweetsetup-20).
+
+## Или, на крайний случай — AmazonBasics Laptop Stand (black)
+
+![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjAqun3la_QAhUGVSwKHTDOC5AQjRwIBw&url=http%3A%2F%2Fshopdealz.net%2Fproduct%2Famazonbasics-laptop-stand-black%2F&psig=AFQjCNHEBbFHh-qfqFujrHtKhMhfApRLrA&ust=1479450812101309)
+
+[[Вот отсюда]](https://www.amazon.com/dp/B00WRDRRWW/ref=twister_B011KOHEXU?_encoding=UTF8&psc=1)
+
 ## UAGear Composite Case for 13-Inch Macbook (Ash)
 ![](http://ecx.images-amazon.com/images/I/81FPe4L-h%2BL._SL1500_.jpg)
 
