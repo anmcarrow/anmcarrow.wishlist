@@ -84,10 +84,10 @@
 
 [[Вот отсюда]](https://www.amazon.com/dp/B00WRDRRWW/ref=twister_B011KOHEXU?_encoding=UTF8&psc=1)
 
-## UAGear Composite Case for 13-Inch Macbook (Ash)
-![](http://ecx.images-amazon.com/images/I/81FPe4L-h%2BL._SL1500_.jpg)
+## Mobee Technology Power Bar
+![](http://apple-relationship.com/wp-content/uploads/2014/12/DSC_0041.jpg?be2082)
 
-Доступен [здесь](http://www.amazon.co.uk/Urban-Armor-Gear-Composite-13-Inch/dp/B015IGWTWC/ref=pd_sim_sbs_147_2?ie=UTF8&dpID=41wI4XwwzxL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1D0MEAXRSM959603ZJDC)
+Доступен [здесь](https://www.amazon.com/Mobee-Technology-Power-Bar-Rechargable/dp/B006W5FIJK/ref=sr_1_1?ie=UTF8).
 
 ## Чехол для PSP, "жёсткий"
 ![](https://mmedia2.ozone.ru/multimedia/spare_covers/1005478726.jpg)
