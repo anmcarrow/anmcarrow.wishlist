@@ -112,9 +112,6 @@
 
 [Купить тут](https://market.yandex.ru/product/7869695?hid=723088)
 
-## Трекбол Logitech TrackMan Trackball 
-![Logitech TrackMan Trackball](http://i.testfreaks.com/images/products/600x400/234/logitech-cordless-trackman-optical.9370346.jpg)
-
 ## SteelSeries 7h for iPad, iPod и iPhone  
 ![](https://mdata.yandex.net/i?path=b0402191235_img_id4797168154703977373.jpg)
 
