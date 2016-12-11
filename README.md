@@ -164,10 +164,16 @@
 Какой-нибудь небольшой и аккуратный. 
 Например – [Braun CruZer 6 Precision](http://ekb.onlinetrade.ru/catalogue/trimmer_dlya_litsa_i_tela-c1326/braun/trimmer_dlya_borodi_i_usov_braun_cruzer_6_precision-133061.html?from=yamekb&utm_source=yamarket&utm_medium=cpc&_openstat=bWFya2V0LnlhbmRleC5ydTvQotGA0LjQvNC80LXRgCDQtNC70Y8g0LHQvtGA0L7QtNGLINC4INGD0YHQvtCyIEJSQVVOIENydVplciA2IFByZWNpc2lvbjszbW96YzBqRkNSTXYyTDhmRTZWU1BnOw)
 
-## Не гаджет, но тем не менее
+### Не гаджеты, но тем не менее
 ![iPay](http://www.iphones.ru/wp-content/uploads/2012/12/card.jpg)
 
 Подарочные карты App Store. Всегда актуально (я ведь покупаю софт и всё такое).
+
+![Just Steam it](https://derpicdn.net/img/2015/6/12/915375/full.png)
+
+Что угодно из моего "wishlist" на Steam.
+
+[Смотреть wishlist здесь](https://steamcommunity.com/id/anmcarrow/wishlist/)
 
 # Карторисовательное
 
