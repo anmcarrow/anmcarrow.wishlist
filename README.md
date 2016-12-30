@@ -65,13 +65,6 @@
 
 # Гаджеты и прочая техника  
 
-## Фитнесс-браслет
-
-![](http://galagram.com/wp-content/uploads/2015/01/xiaomi-mi-band-2-2015.jpg)
-
-Без наворотов, но (!) с гарантировано работающей функцией умного будильника (и вибрацией).
-Синхронизирующийся с iOS.
-
 ## mStand360 for laptop
 
 ![](https://images-na.ssl-images-amazon.com/images/I/41x-EX-TZ7L._SL1000_.jpg)
