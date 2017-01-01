@@ -30,6 +30,14 @@
 ## Или Flambeau 8010 FRONT LOADER  
 ![Flambeau 8010 FRONT LOADER](http://www.vseinstrumenti.ru/images/goods/sadovaya_tehnika/tovary_dlya_otdyha/532209/490x280/899141.jpg)
 
+## Crystal Caste Mini BattleTop
+
+![](http://www.vicpylon.com/livingdice_wp/wp-content/uploads/2010/12/BattleTop_portable_game_table2.jpg)
+
+Вот такой вот спец. столик. Можно два.
+
+[Есть на eBay](http://www.ebay.com/sch/i.html?_odkw=Crystal+Caste+Mini+Battletop-&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.XCrystal+Caste+Mini+Battletop.TRS0&_nkw=Crystal+Caste+Mini+Battletop&_sacat=0)
+
 ## Stack the Bones game от Kickerland
 ![Stack the bones!](https://lh3.googleusercontent.com/-lpBgjVBVrU4/VAN5rDSFd3I/AAAAAAAAPSo/ZyF6SkHEu38/w448-h597-no/14%2B-%2B1)
 
