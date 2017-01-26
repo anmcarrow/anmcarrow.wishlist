@@ -223,11 +223,6 @@
 
 [Купить тут](http://shopcriticalhit.com/collections/apparel/products/cthuloids-shirt)
 
-## Футболку «Dungeon crawlers», мужскую, размер «S»
-![](https://cdn-images.threadless.com/threadless-shop/products/3300/1272x920shirt_guys_03.jpg?w=1272&h=920)
-
-[Купить тут](https://www.threadless.com/product/3300) 
-
 ## Футболку «Platonic love», мужскую, размер «S»
 ![](http://shirtoid.com/wp-content/uploads/2013/04/Platonic-Love.jpg)
 
