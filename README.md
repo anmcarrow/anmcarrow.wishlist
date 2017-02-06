@@ -180,6 +180,11 @@
 
 # Карторисовательное
 
+## Мега-набор линеров от Stabilo
+![](https://www.komus.ru/medias/sys_master/root/hc7/h2d/9167398076446.jpg)
+
+[Можно купить в Комус](https://www.komus.ru/katalog/pismennye-prinadlezhnosti/linery/nabor-linerov-stabilo-point-8820-02-tolshhina-linii-0-4-mm-20-tsvetov-/p/105985/)
+
 ## Портативный световой стол A3-формата
 ![](http://ecx.images-amazon.com/images/I/61giKcNUt3L._SL1000_.jpg)
 
