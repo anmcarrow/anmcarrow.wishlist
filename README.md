@@ -283,6 +283,7 @@
 ## Множество отличных футболок с Zazzle.com
 ![](https://rlv.zcache.com/have_you_found_the_yellow_sign_symbol_on_back_t_shirt-rf02aba802a03499b95cf756da7d3522f_k2gm8_540.jpg)
 
+- <https://www.zazzle.com/kali_t_shirt-235854008983640786>
 - <https://www.zazzle.com/miskatonic_university_t_shirt-235430999754366098>
 - <https://www.zazzle.com/cthulhu_caution_t_shirt-235279601253633822>
 - <https://www.zazzle.com/postmodern_summoning_t_shirt-235066430517886001>
