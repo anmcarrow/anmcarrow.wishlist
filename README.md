@@ -397,6 +397,11 @@
 
 Лепка, керамика, плетение из лозы/бересты, плотницкие работы, вот это всё.
 
+## Паяльную станцию с феном
+![](http://siriust.ru/images/detailed/18/0949053.png)
+
+[Например, такую](http://siriust.ru/oborudovanie/payalnoe-oborudovanie/payalnye-stancii/stanciya-payalnaya-wep-852/)
+
 ## Банджо (и колечки к нему)
 ![sample banjo](http://upload.wikimedia.org/wikipedia/commons/3/30/Don_Wayne_Reno_playing_the_banjo_with_fingerpicks.jpg)
 
