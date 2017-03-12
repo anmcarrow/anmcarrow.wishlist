@@ -174,7 +174,7 @@
 
 #### Что угодно из моего "wishlist" на Steam.
 
-![Just Steam it](https://derpicdn.net/img/2015/6/12/915375/full.png)
+![Just Steam it](https://cdn.everypony.ru/storage/03/10/51/2016/07/04/aa789390f7.png)
 
 [Смотреть wishlist здесь](https://steamcommunity.com/id/anmcarrow/wishlist/)
 
@@ -355,13 +355,6 @@
 Т.к. постоянно забываю его купить.
 
 # Прочее
-
-## Штамп "ПОТРАЧЕНО"
-
-![](http://www.grm.ru/pic_archive/jpg/grm-ruch-1540.jpg)
-
-Компактный прямоугольный штамп с надписью "ПОТРАЧЕНО" и подушечку с тушью.
-Для рабочих надобностей.
 
 ## Велосипедное седло Brooks Flyer
 ![](http://brookssaddles.ru/common/upload/images/full/1345111932502cc77c12745.jpg)
