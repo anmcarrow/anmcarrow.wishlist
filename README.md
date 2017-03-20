@@ -358,7 +358,7 @@
 ## Жёлтого резинового утёнка
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rubber_duck_assisting_with_debugging.jpg)
 
-Или двух (пригодятся [для отладки кода](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D1%83%D1%82%D1%91%D0%BD%D0%BA%D0%B0).
+Или двух (пригодятся [для отладки кода](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D1%83%D1%82%D1%91%D0%BD%D0%BA%D0%B0)).
 Или не жёлтого [а какого-нибудь ещё](https://catchy.io/slides/img/debugging/rubber-duck-killed.jpg).
 
 ## Подарочные сертификаты в какой-нибудь екатеринбуржский Tattoo-салон
