@@ -238,18 +238,13 @@
 
 [Купить тут](http://shirt.woot.com/offers/fellowship-of-the-dungeon?utm_campaign=Commission+Junction+-+10836837&utm_source=Commission+Junction+Publisher+-+3497954&utm_medium=affiliate+-+shirt.woot) 
 
-## Футболку «Beholder Metal», мужскую, серого цвета, размер «S»
-![](http://image.welovefine.com/image/cache/data/p/02/9102-22910-1000x1000.jpg)
-
-[Купить тут](http://www.welovefine.com/t-shirts-425-434/beholdermetal-9102/sort/p.sort_order.html?order=DESC) 
-
 ## Футболку «Me and Ms.Tiamat», мужскую, бежевого цвета, размер «S»
-![](http://image.welovefine.com/image/cache/data/p/08/8408-20553-1000x1000.jpg)
+![](http://www.welovefine.com/image/cache/data/p/08/8408-20553-1000x1000.jpg)
 
 [Купить тут](http://www.welovefine.com/t-shirts-425-434/me-ms-tiamat-8408/sort/p.sort_order.html?order=DESC) 
 
 ## Футболку «Dragon of few words», мужскую, серого цвета, размер «S»
-![](http://image.welovefine.com/image/cache/data/productimages/DnD/Mens_Tees/MDDG133GL1_Dragon%20of%20Few%20Words_CHA-1000x1000.jpg)
+![](http://www.welovefine.com/image/cache/data/productimages/DnD/Mens_Tees/MDDG133GL1_Dragon%20of%20Few%20Words_CHA-1000x1000.jpg)
 [Купить тут](http://www.welovefine.com/t-shirts-425-434/dragon-of-few-words-10325/sort/p.sort_order.html?order=DESC) 
 
 ## Футболку «Roll your dice», мужскую, серого цвета, размер «S»
@@ -263,10 +258,6 @@
 
 [Купить тут](http://shirt.woot.com/offers/cubicles-and-coworkers?ref=cnt_ctlg_dgn_2) 
 
-## Футболку «Hide & Seeker», мужскую, размер «S»
-![](https://d3gqasl9vmjfd8.cloudfront.net/237907ef-c4dc-4c5d-9f04-02bc0bd29736.png)
-
-[Купить тут](http://shirt.woot.com/offers/hide-and-seeker?ref=cnt_ctlg_dgn_6) 
 
 ## Любую футболку от Shiroi Neko, мужскую, размера «S»
 ![Nya, desu!](http://t09.co.kr/product_img/20090818/t06/01.jpg)
@@ -357,7 +348,7 @@
 # Прочее
 
 ## Велосипедное седло Brooks Flyer
-![](http://brookssaddles.ru/common/upload/images/full/1345111932502cc77c12745.jpg)
+![](http://sheldonbrown.com/harris/images/sa081.jpg)
 
 Да, оно недешёвое и на любителя.
 Но тем не менее.
@@ -398,4 +389,4 @@
 ## Банджо (и колечки к нему)
 ![sample banjo](http://upload.wikimedia.org/wikipedia/commons/3/30/Don_Wayne_Reno_playing_the_banjo_with_fingerpicks.jpg)
 
-Cерьёзно, мэн. Банджо это супер.
+Cерьёзно, чав, банджо это супер.
