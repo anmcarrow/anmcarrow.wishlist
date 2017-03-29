@@ -386,6 +386,11 @@
 
 [Например, такую](http://siriust.ru/oborudovanie/payalnoe-oborudovanie/payalnye-stancii/stanciya-payalnaya-wep-852/)
 
+## Мультитул от HexFlex
+![](https://www.hexflex.com/wp-content/uploads/2013/10/SSS-1-400x400.jpg)
+
+[Покупать здесь](https://www.hexflex.com/shop/?v=f24485ae434a)
+
 ## Банджо (и колечки к нему)
 ![sample banjo](http://upload.wikimedia.org/wikipedia/commons/3/30/Don_Wayne_Reno_playing_the_banjo_with_fingerpicks.jpg)
 
