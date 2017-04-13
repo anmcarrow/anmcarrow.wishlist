@@ -5,6 +5,8 @@
 
 Не обязательно на русском. Не брендированные. Забавные.
 
+- [Есть, например, на Zazzle.com](https://www.redbubble.com/shop/stickers+tabletop+rpg?cat_context=u-stationery&page=1&accordion=product)
+
 ## Календарик от ArtSCP
 ![](http://artscp.com/images/stories/virtuemart/product/00-Cover.jpg)
 
