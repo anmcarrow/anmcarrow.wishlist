@@ -149,13 +149,6 @@
 Для моих традиционных операторских развлечений.  
 Купить можно, [например здесь](http://www.bymobile.ru/bluetoothknopka_dlja_ipad_iphone_samsung_i_htc_dlja_sozdanija_selfie_black/goods/10665/).
 
-## Стилус Adonit Jot Mini
-
-![](http://static.svyaznoy.ru/upload/iblock/ddd/4111293_2.jpg/resize/400x400/)
-
-Чёрный или серебристый.  
-[Например, отсюда.](http://market.yandex.ru/search.xml?hid=91461&text=%D1%81%D1%82%D0%B8%D0%BB%D1%83%D1%81%D1%8B%20jot%20mini&srnum=25&ortext=c%D1%82%D0%B8%D0%BB%D1%83%D1%8B%20jot%20mini)
-
 ## Wacom Intuos Personalisation Kit
 ![](http://cdn.cvp.com/images/products/altimage/12%2012%2020141418385631Wacom%20Intuos%20Personalisation%20Kit.jpg)
 
