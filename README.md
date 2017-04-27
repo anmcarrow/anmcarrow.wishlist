@@ -69,6 +69,14 @@
 
 # Гаджеты и прочая техника  
 
+## The Ergonimic Touchpad
+
+![](http://www.ergonomictouchpad.com/images/ergonomictouchpad3.jpg)
+
+Небольшой гибкий тачпэд в дополнение к моим странным клавиатурам.
+
+[Покупать у производителя](http://www.ergonomictouchpad.com/ergonomic_touchpad.php)
+
 ## mStand360 for laptop
 
 ![](https://images-na.ssl-images-amazon.com/images/I/41x-EX-TZ7L._SL1000_.jpg)
