@@ -3,7 +3,9 @@
 ## Всеразличные настольно-ролевые наклейки
 ![](https://s-media-cache-ak0.pinimg.com/736x/0d/0c/50/0d0c500288b6500cf0d5f89be3898cff.jpg)
 
-Не обязательно на русском. Не брендированные. Забавные.
+Не обязательно на русском. Не брендированные. Забавные. 
+
+[Например, с Redbubble](https://www.redbubble.com/shop/dnd+stickers?cat_context=u-stationery&page=1&accordion=product)
 
 - [Есть, например, на Zazzle.com](https://www.redbubble.com/shop/stickers+tabletop+rpg?cat_context=u-stationery&page=1&accordion=product)
 
