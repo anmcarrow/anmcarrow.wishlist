@@ -1,9 +1,40 @@
+# Мероприятия
+
+## Новый игровой опыт
+Игровая встреча или короткая сюжетная кампания по любой системе правил для НРИ из списка:
+
+1. [Ars Magica](http://www.atlas-games.com/arm5/)
+2. [FFG SW: Edge of Empire](https://www.fantasyflightgames.com/en/products/star-wars-edge-of-the-empire/)
+3. [FFG WH40k: Only War](https://www.fantasyflightgames.com/en/products/only-war/)
+4. [FFG WH40k: Black Crusade](https://www.fantasyflightgames.com/en/products/Black-Crusade/)
+5. [Weird Fantasy Role-Playing (LoTFP)](http://www.lotfp.com/RPG/)
+6. [Torchbearer](https://www.torchbearerrpg.com/)
+7. [Mouse Guard](http://www.mouseguard.net/)
+8. [Eclipse Phase](http://www.eclipsephase.com/)
+9. [The Black Hack](https://the-black-hack.jehaisleprintemps.net/)
+10. [HeroQuest](https://www.chaosium.com/heroquest/)
+11. [Technoir](http://www.technoirrpg.com/)
+12. [Kult](http://kultdivinitylost.com/)
+13. [PbTA tremulus](https://realityblurs.com/shop/product/tremulus-hardcover-print-pdf/)
+14. [PbTA Monsterhearts](https://buriedwithoutceremony.com/monsterhearts/)
+15. [PbTA Городские легенды](https://studio101.ru/ST1001)
+16. [PbTA Monsters of the week](http://www.evilhat.com/home/monster-of-the-week/)
+17. [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/)
+18. [The Mountain Witch](https://sites.google.com/site/mountainwitchrpg/)
+19. [Blades in the dark](http://www.evilhat.com/home/blades-in-the-dark/)
+20. [All flesh must be eaten](http://www.allflesh.com/flesh.html)
+21. [Malifaux: Through The Breach](https://www.wyrd-games.net/through-the-breach/)
+22. [Ultima Forsan: Макабрическая Русь](https://studio101.ru/savageworlds/ultimaforsan/ST5702)
+23. [Hot boys making out](http://www.drivethrurpg.com/product/156244/Hot-Guys-Making-Out)
+24. [S/Lay w/Me](http://adept-press.com/games-fantasy-horror/slay-wme/)
+25. [Delta Green](http://www.delta-green.com/)
+
 # Декор
 
 ## Всеразличные настольно-ролевые наклейки
 ![](https://s-media-cache-ak0.pinimg.com/736x/0d/0c/50/0d0c500288b6500cf0d5f89be3898cff.jpg)
 
-Не обязательно на русском. Не брендированные. Забавные. 
+Не обязательно на русском. Не брендированные. Забавные.
 
 [Например, с Redbubble](https://www.redbubble.com/shop/dnd+stickers?cat_context=u-stationery&page=1&accordion=product)
 
@@ -30,7 +61,7 @@
 ![Plano storage box model 737](http://learningdm.files.wordpress.com/2011/05/imgp3431.jpg?w=640&h=480)
 
 [Купить, например, тут](http://www.voblera.net/catalog/yaschiki/plano-737-001)
- 
+
 ## Или Flambeau 8010 FRONT LOADER  
 ![Flambeau 8010 FRONT LOADER](http://www.vseinstrumenti.ru/images/goods/sadovaya_tehnika/tovary_dlya_otdyha/532209/490x280/899141.jpg)
 
@@ -147,7 +178,7 @@
 
 Ну и аналогичный [мини-док для путешествий](http://www.radtech.us/products/bluelounge-minidock-usb-30pin-dock) (для розеток стандарта US).
 
-## Bluetooth selfie button 
+## Bluetooth selfie button
 ![](http://product-images.imshopping.com/nimblebuy/bluetooth-selfie-button-1009082-2298682-regular.jpg)
 
 Для моих традиционных операторских развлечений.  
@@ -161,7 +192,7 @@
 ## Триммер для усов и бороды
 ![](http://s3.thcdn.com/productimg/0/600/600/04/10885504-1387302272-848057.jpg)
 
-Какой-нибудь небольшой и аккуратный. 
+Какой-нибудь небольшой и аккуратный.
 Например – [Braun CruZer 6 Precision](http://ekb.onlinetrade.ru/catalogue/trimmer_dlya_litsa_i_tela-c1326/braun/trimmer_dlya_borodi_i_usov_braun_cruzer_6_precision-133061.html?from=yamekb&utm_source=yamarket&utm_medium=cpc&_openstat=bWFya2V0LnlhbmRleC5ydTvQotGA0LjQvNC80LXRgCDQtNC70Y8g0LHQvtGA0L7QtNGLINC4INGD0YHQvtCyIEJSQVVOIENydVplciA2IFByZWNpc2lvbjszbW96YzBqRkNSTXYyTDhmRTZWU1BnOw)
 
 ### Не гаджеты, но тем не менее
@@ -190,7 +221,7 @@
 Для рисования руками по бумаге всяких многослойных конструкций.  
 [Например, вот этот](http://www.amazon.co.uk/MiniSun-Modern-Ultra-Slim-Design-LightPad/dp/B00AYXR7CW/ref=sr_1_1?s=lighting&ie=UTF8&qid=1433242974&sr=1-1&keywords=MiniSun+A3+LED)
 
-## Настольную микрофонную стойку 
+## Настольную микрофонную стойку
 ![Просто, изящно и усточиво](http://konsonans-ekb.ru/upload/iblock/901/90142d9c35a2d47646923837ea6dc037.jpeg)
 
 [Например – такую](http://konsonans-ekb.ru/shop/stoyki_mikrofonnye/stoyka_mikrofonnaya_force_msc_10/)  
@@ -230,32 +261,32 @@
 ## Футболку «Platonic love», мужскую, размер «S»
 ![](http://shirtoid.com/wp-content/uploads/2013/04/Platonic-Love.jpg)
 
-[Купить тут](http://shirt.woot.com/offers/platonic-love?utm_campaign=Commission+Junction+-+10836837&utm_source=Commission+Junction+Publisher+-+3497954&utm_medium=affiliate+-+shirt.woot) 
+[Купить тут](http://shirt.woot.com/offers/platonic-love?utm_campaign=Commission+Junction+-+10836837&utm_source=Commission+Junction+Publisher+-+3497954&utm_medium=affiliate+-+shirt.woot)
 
 ## Футболку «Fellowship of the dungeon», мужскую, размер «S»
 ![](http://shirtoid.com/wp-content/uploads/2015/11/Fellowship-of-the-Dungeon.jpg)
 
-[Купить тут](http://shirt.woot.com/offers/fellowship-of-the-dungeon?utm_campaign=Commission+Junction+-+10836837&utm_source=Commission+Junction+Publisher+-+3497954&utm_medium=affiliate+-+shirt.woot) 
+[Купить тут](http://shirt.woot.com/offers/fellowship-of-the-dungeon?utm_campaign=Commission+Junction+-+10836837&utm_source=Commission+Junction+Publisher+-+3497954&utm_medium=affiliate+-+shirt.woot)
 
 ## Футболку «Me and Ms.Tiamat», мужскую, бежевого цвета, размер «S»
 ![](http://www.welovefine.com/image/cache/data/p/08/8408-20553-1000x1000.jpg)
 
-[Купить тут](http://www.welovefine.com/t-shirts-425-434/me-ms-tiamat-8408/sort/p.sort_order.html?order=DESC) 
+[Купить тут](http://www.welovefine.com/t-shirts-425-434/me-ms-tiamat-8408/sort/p.sort_order.html?order=DESC)
 
 ## Футболку «Dragon of few words», мужскую, серого цвета, размер «S»
 ![](http://www.welovefine.com/image/cache/data/productimages/DnD/Mens_Tees/MDDG133GL1_Dragon%20of%20Few%20Words_CHA-1000x1000.jpg)
-[Купить тут](http://www.welovefine.com/t-shirts-425-434/dragon-of-few-words-10325/sort/p.sort_order.html?order=DESC) 
+[Купить тут](http://www.welovefine.com/t-shirts-425-434/dragon-of-few-words-10325/sort/p.sort_order.html?order=DESC)
 
 ## Футболку «Roll your dice», мужскую, серого цвета, размер «S»
 ![](https://d3gqasl9vmjfd8.cloudfront.net/dd9a65a4-e826-4442-a165-1ad492376286.png)
 
-[Купить тут](http://shirt.woot.com/offers/roll-your-dice?ref=cnt_ctlg_dgn_8) 
+[Купить тут](http://shirt.woot.com/offers/roll-your-dice?ref=cnt_ctlg_dgn_8)
 
 
 ## Футболку «Cubicles & Coworkers», мужскую, серого цвета, размер «S»
 ![](https://d3gqasl9vmjfd8.cloudfront.net/22d79b69-f9be-4be7-8cff-ad686791da73.png)
 
-[Купить тут](http://shirt.woot.com/offers/cubicles-and-coworkers?ref=cnt_ctlg_dgn_2) 
+[Купить тут](http://shirt.woot.com/offers/cubicles-and-coworkers?ref=cnt_ctlg_dgn_2)
 
 
 ## Любую футболку от Shiroi Neko, мужскую, размера «S»
@@ -298,7 +329,7 @@
 
 # Кухня  
 
-## Термокружка Starbucks Stainless Steel Tumbler 
+## Термокружка Starbucks Stainless Steel Tumbler
 ![](http://ecx.images-amazon.com/images/I/81AAzD%2BUCML._SL1500_.jpg)
 Матовый, чёрный, модели «Stealth» (на фото)  
 
@@ -309,7 +340,7 @@
 
 Можно [заказать у китайцев](http://ru.aliexpress.com/wholesale?catId=0&initiative_id=SB_20160621232952&SearchText=pomodoro+timer)
 
-## Фартук 
+## Фартук
 ![IKEA Gunsig](http://www.ikea.com/ca/en/images/products/ikea-gunstig-apron-gray__0244820_PE384555_S4.JPG)
 
 [IKEA Гунстиг из серии "365+"](http://www.ikea.com/ru/ru/catalog/products/60182115/)  
@@ -319,7 +350,7 @@
 
 Конкретно – [IKEA Гнистра из серии "365+"](http://www.ikea.com/ru/ru/catalog/products/20149321/)  
 
-## Поварской нож-топорик 
+## Поварской нож-топорик
 ![Chop-chop-chop](http://www.ikea.com/PIAimages/0245184_PE384479_S5.JPG)
 
 [Тоже от IKEA](http://www.ikea.com/ru/ru/catalog/products/30233442/)  
@@ -333,7 +364,7 @@
 Для походов в леса – самое оно.
 
 ## Набор для заточки инструмента от Lansky
-![Весчь!](http://www.sld.ru/imgtmk7.php?pic=files/good_big/277_00000000.jpg&v=0) 
+![Весчь!](http://www.sld.ru/imgtmk7.php?pic=files/good_big/277_00000000.jpg&v=0)
 
 [Суперская штука](http://www.sld.ru/catalog/nozhi/prisposobleniya-dlya-zatochki/nabor-dlya-zatochki-lansky-lkc03-standard.html)
 
