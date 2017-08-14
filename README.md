@@ -1,6 +1,8 @@
 # Мероприятия
 
 ## Новый игровой опыт
+![](http://cdn2.thr.com/sites/default/files/imagecache/landscape_928x523/2014/10/zero_charisma_still.jpg.jpg)
+
 Игровая встреча или короткая сюжетная кампания по любой системе правил для НРИ из списка:
 
 1. [Ars Magica](http://www.atlas-games.com/arm5/)
@@ -28,6 +30,10 @@
 23. [Hot boys making out](http://www.drivethrurpg.com/product/156244/Hot-Guys-Making-Out)
 24. [S/Lay w/Me](http://adept-press.com/games-fantasy-horror/slay-wme/)
 25. [Delta Green](http://www.delta-green.com/)
+26. [Misspent Youth](http://misspentyouth.robertbohl.com/)
+27. [Driftwood Verses](https://www.kickstarter.com/projects/464014331/the-driftwood-verses)
+28. [Mutant: Year Zero](http://www.modiphius.com/mutant.html)
+29. [Night’s Black Agents](http://site.pelgranepress.com/index.php/nights-black-agents/)
 
 # Декор
 
