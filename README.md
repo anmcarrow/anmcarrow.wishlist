@@ -1,7 +1,5 @@
-# Мероприятия
-
-## Новый игровой опыт
-![](http://cdn2.thr.com/sites/default/files/imagecache/landscape_928x523/2014/10/zero_charisma_still.jpg.jpg)
+# Новый игровой опыт
+![](https://i1.wp.com/www.nowverybad.com/wp-content/uploads/zero-charisma_still4.jpg)
 
 Игровая встреча или короткая сюжетная кампания по любой системе правил для НРИ из списка:
 
