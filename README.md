@@ -32,6 +32,20 @@
 27. [Driftwood Verses](https://www.kickstarter.com/projects/464014331/the-driftwood-verses)
 28. [Mutant: Year Zero](http://www.modiphius.com/mutant.html)
 29. [Night’s Black Agents](http://site.pelgranepress.com/index.php/nights-black-agents/)
+30. [Conspiracy X](http://www.edenstudios.net/conspiracyx.html)
+31. [Don't rest your head](http://www.evilhat.com/home/dont-rest-your-head-2/)
+32. [The Whispering Vault](http://paizo.com/products/btpy7fk1?The-Whispering-Vault)
+33. [OWoD Changeling: The Dreaming](http://www.drivethrurpg.com/browse/pub/1/White-Wolf/subcategory/1_14/Changeling-The-Dreaming)
+34. [NWoD Changeling: The Lost](http://theonyxpath.com/category/worlds/chroniclesofdarkness/changelingthelost/)
+35. [OWoD Wraith: the Oblivion](http://www.drivethrurpg.com/browse/pub/1/White-Wolf/subcategory/1_43/Wraith-The-Oblivion)
+36. [Ten Candles](http://cavalrygames.com/ten-candles/)
+37. [Murderous Ghosts](https://payhip.com/b/jGPB)
+38. [Over The Edge](http://www.atlas-games.com/overtheedge/)
+39. [Sorcerer](http://adept-press.com/games-fantasy-horror/sorcerer/)
+40. [Ocean](http://www.drivethrurpg.com/product/63429/Ocean?manufacturers_id=385)
+41. [Open Adventure](http://geekguild.com/openadventure/)
+42. [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year/)
+43. [The Shadow Theory](http://www.giantitp.com/forums/showthread.php?147142-Shadow-Theory-(d20-Modern-Horror)
 
 # Декор
 
