@@ -45,7 +45,7 @@
 40. [Ocean](http://www.drivethrurpg.com/product/63429/Ocean?manufacturers_id=385)
 41. [Open Adventure](http://geekguild.com/openadventure/)
 42. [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year/)
-43. [The Shadow Theory](http://www.giantitp.com/forums/showthread.php?147142-Shadow-Theory-(d20-Modern-Horror)
+43. [The Shadow Theory](http://www.giantitp.com/forums/showthread.php?147142-Shadow-Theory-(d20-Modern-Horror))
 
 # Декор
 
