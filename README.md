@@ -191,17 +191,6 @@
 
 [Посмотреть на Yandex.Market](https://market.yandex.ru/product/9263633?hid=723087&track=tabs)
 
-## MiniDock
-![MiniDock by RadTech](http://www.radtech.us/images/product/15212/736211527677-3.jpg)
-
-Ну и аналогичный [мини-док для путешествий](http://www.radtech.us/products/bluelounge-minidock-usb-30pin-dock) (для розеток стандарта US).
-
-## Bluetooth selfie button
-![](http://product-images.imshopping.com/nimblebuy/bluetooth-selfie-button-1009082-2298682-regular.jpg)
-
-Для моих традиционных операторских развлечений.  
-Купить можно, [например здесь](http://www.bymobile.ru/bluetoothknopka_dlja_ipad_iphone_samsung_i_htc_dlja_sozdanija_selfie_black/goods/10665/).
-
 ## Wacom Intuos Personalisation Kit
 ![](http://cdn.cvp.com/images/products/altimage/12%2012%2020141418385631Wacom%20Intuos%20Personalisation%20Kit.jpg)
 
