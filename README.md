@@ -25,7 +25,7 @@
 20. [All flesh must be eaten](http://www.allflesh.com/flesh.html)
 21. [Malifaux: Through The Breach](https://www.wyrd-games.net/through-the-breach/)
 22. [Ultima Forsan: Макабрическая Русь](https://studio101.ru/savageworlds/ultimaforsan/ST5702)
-23. [Hot boys making out](http://www.drivethrurpg.com/product/156244/Hot-Guys-Making-Out)
+23. [Hot guys making out](http://www.drivethrurpg.com/product/156244/Hot-Guys-Making-Out)
 24. [S/Lay w/Me](http://adept-press.com/games-fantasy-horror/slay-wme/)
 25. [Delta Green](http://www.delta-green.com/)
 26. [Misspent Youth](http://misspentyouth.robertbohl.com/)
