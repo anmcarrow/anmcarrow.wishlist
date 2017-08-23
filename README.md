@@ -46,6 +46,7 @@
 41. [Open Adventure](http://geekguild.com/openadventure/)
 42. [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year/)
 43. [The Shadow Theory](http://www.giantitp.com/forums/showthread.php?147142-Shadow-Theory-(d20-Modern-Horror))
+44. [Каждый -- Джон](http://archive.pnprpg.ru/layouts/EverythingIsJohn/John_RPG_example.pdf) 
 
 # Декор
 
