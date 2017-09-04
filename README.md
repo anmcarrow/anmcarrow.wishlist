@@ -117,6 +117,12 @@
 
 # Гаджеты и прочая техника  
 
+## Внешний аккумулятор для мобильных устройств
+
+![](img/hiper15k.jpg)
+
+[Например, HIPER MP15000](https://market.yandex.ru/product/10776475/offers?hid=8353924&track=srchbtn&local-offers-first=1&deliveryincluded=0)
+
 ## The Ergonimic Touchpad
 
 ![](http://www.ergonomictouchpad.com/images/ergonomictouchpad3.jpg)
