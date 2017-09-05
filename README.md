@@ -263,7 +263,7 @@
 
 Точнее, любую [из этого  списка](https://www.evernote.com/shard/s278/sh/7017da53-f9cd-4948-be86-2627fc7a4002/3af1e1f76b23666019606b7dce29068b)  
 
-## Абстрактную фанатскую футболку группы Gorgoroth, мужскую, размера «S»
+## Мерчевую футболку группы Gorgoroth, мужскую, размера «S»
 ![](img/gorgoroth_tshirt.jpg)
 
 [Есть на Amazon](https://www.amazon.com/Gorgoroth-Under-Sign-Hell-t-shirt/dp/B01H4LC5S2/ref=sr_1_43?ie=UTF8&qid=1487409843&sr=8-43&keywords=gorgoroth+tshirt)
@@ -312,6 +312,13 @@
 [IKEA Гунстиг из серии "365+"](http://www.ikea.com/ru/ru/catalog/products/60182115/)  
 
 # DIY  
+
+## Leatherman Surge Multitool (black)
+![](img/leatherman.jpg)
+
+Просто хороший мультитул.
+
+[Есть на Amazon.](https://www.amazon.com/dp/B00WL3MS0O/_encoding=UTF8?coliid=I2L3FXQ4DGUPV3&colid=3D5OKPNL4HSFZ)
 
 ## Пила ручная, складная-садовая
 ![](img/fiskars_saw.jpg)
