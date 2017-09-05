@@ -326,6 +326,16 @@
 [Fiskars Xtract™ SW75](http://market.yandex.ru/search.xml?hid=90666&text=fiskars%20sw75&srnum=3&ortext=fiskars%20sw75)  
 Для походов в леса – самое оно.
 
+## Паяльная станция с феном
+![](img/solderindg_station.png)
+
+[Например, такую](http://siriust.ru/oborudovanie/payalnoe-oborudovanie/payalnye-stancii/stanciya-payalnaya-wep-852/)
+
+## Мультитул от HexFlex
+![](img/snowflake_tool.jpg)
+
+[Покупать здесь](https://www.hexflex.com/shop/?v=f24485ae434a)
+
 ## Набор для заточки инструмента от Lansky
 ![Весчь!](img/knife_kit.jpg)
 
@@ -373,16 +383,6 @@
 ![](img/ceramic_courses.jpg)
 
 Лепка, керамика, плетение из лозы/бересты, плотницкие работы, вот это всё.
-
-## Паяльную станцию с феном
-![](img/solderindg_station.png)
-
-[Например, такую](http://siriust.ru/oborudovanie/payalnoe-oborudovanie/payalnye-stancii/stanciya-payalnaya-wep-852/)
-
-## Мультитул от HexFlex
-![](img/snowflake_tool.jpg)
-
-[Покупать здесь](https://www.hexflex.com/shop/?v=f24485ae434a)
 
 ## Банджо (и колечки к нему)
 ![sample banjo](img/banjo.jpg)
