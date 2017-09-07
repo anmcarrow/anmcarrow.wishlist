@@ -48,6 +48,7 @@
 43. [The Shadow Theory](http://www.giantitp.com/forums/showthread.php?147142-Shadow-Theory-(d20-Modern-Horror))
 44. [Каждый -- Джон](http://archive.pnprpg.ru/layouts/EverythingIsJohn/John_RPG_example.pdf)
 45. [Savage Flower Kingdom](http://experimentalplayground.blogspot.ru/2013/08/savage-flower-kingdom.html)
+46. [Dogs in the Vineyard](http://www.lumpley.com/dogs.html)
 
 
 # Декор
