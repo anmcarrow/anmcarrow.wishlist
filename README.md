@@ -49,7 +49,7 @@
 44. [Каждый -- Джон](http://archive.pnprpg.ru/layouts/EverythingIsJohn/John_RPG_example.pdf)
 45. [Savage Flower Kingdom](http://experimentalplayground.blogspot.ru/2013/08/savage-flower-kingdom.html)
 46. [Dogs in the Vineyard](http://www.lumpley.com/dogs.html)
-
+47. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
 
 # Декор
 
