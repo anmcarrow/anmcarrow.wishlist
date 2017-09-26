@@ -124,6 +124,14 @@
 
 [Например, HIPER MP15000](https://market.yandex.ru/product/10776475/offers?hid=8353924&track=srchbtn&local-offers-first=1&deliveryincluded=0)
 
+
+## Logitech Spotlight Advanced Presentation Remote
+![](img/presenter.jpg)
+
+Дистанционный пульт для презентаций от Logitech.
+
+[Есть много где.](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Logitech+Spotlight+Advanced+Presentation+Remote&rh=i%3Aaps%2Ck%3ALogitech+Spotlight+Advanced+Presentation+Remote)
+
 ## The Ergonimic Touchpad
 
 ![](http://www.ergonomictouchpad.com/images/ergonomictouchpad3.jpg)
@@ -155,12 +163,6 @@
 
 Реально крутая и чертовски удобная для меня мышь.  
 [Купить тут](https://www.swiftpoint.com/product/swiftpoint-gt-mouse-2/)
-
-## SteelSeries 7h for iPad, iPod и iPhone  
-![](img/ss_7h.jpg)
-
-Для моей Apple-техники (не USB-версию!).  
-[Есть на e-bay.](http://www.ebay.com/sch/i.html?_odkw=SteelSeries+7H+iphone+ipad&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.XSteelSeries+7H+ipad.TRS0&_nkw=SteelSeries+7H+ipad&_sacat=0)
 
 ## Аудио-гарнитуру, беспроводную, USB, с закрытыми наушниками  
 ![Creative Sound Blaster Tactic 3D Wrath](img/sound_wrath.jpg)
