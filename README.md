@@ -131,7 +131,6 @@
 
 [Например, HIPER MP15000](https://market.yandex.ru/product/10776475/offers?hid=8353924&track=srchbtn&local-offers-first=1&deliveryincluded=0)
 
-
 ## Logitech Spotlight Advanced Presentation Remote
 ![](img/presenter.jpg)
 
@@ -185,6 +184,7 @@
 
 ### Huawei E5756
 ![](img/mobile_router.jpg)
+Или аналогичный универсальный 3G-роутер.
 
 [Посмотреть на Yandex.Market](https://market.yandex.ru/product/9263633?hid=723087&track=tabs)
 
@@ -350,13 +350,6 @@
 ![Весчь!](img/knife_kit.jpg)
 
 [Суперская штука](http://www.sld.ru/catalog/nozhi/prisposobleniya-dlya-zatochki/nabor-dlya-zatochki-lansky-lkc03-standard.html)
-
-# Кулинария
-
-## Мате/кудин и ройбуш
-![](img/mate.jpg)
-
-Т.к. постоянно забываю его купить.
 
 # Прочее
 
