@@ -310,11 +310,6 @@
 
 [Купить тут](http://goo.gl/V0uUMi)
 
-## Кухонный таймер в виде помидора
-![](img/pomodoro_timer.png)
-
-Можно [заказать у китайцев](http://ru.aliexpress.com/wholesale?catId=0&initiative_id=SB_20160621232952&SearchText=pomodoro+timer)
-
 ## Фартук
 ![IKEA Gunsig](img/ikea_gunstig.jpg)
 
