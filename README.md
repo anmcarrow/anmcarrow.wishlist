@@ -124,6 +124,11 @@
 
 # Гаджеты и прочая техника  
 
+## Стабилизатор движения для смартфона
+![](img/stabilizer.jpg)
+
+[Например, Zhiyun Smooth-Q 3-Axis Handheld Gimbal Stabilizer ](https://www.amazon.com/Zhiyun-Smooth-Q-Stabilizer-Smartphone-Featuring/dp/B073WR6YKJ/ref=pd_sbs_421_5?_encoding=UTF8&psc=1&refRID=FVKPNHBEVR3W587WJZMT) 
+
 ## Внешний аккумулятор для мобильных устройств
 
 ![](img/hiper15k.jpg)
