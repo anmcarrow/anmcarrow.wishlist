@@ -126,7 +126,8 @@
 
 ## Apple iPod nano 3 Black
 ![](img/ipod.jpg)
-Такая, винтажная, штука. Можно б/у, х/с
+
+Такая винтажная штука. Можно б/у, х/с
 
 - [Например, на Amazon ](https://www.amazon.com/Apple-Generation-Black-Discontinued-Manufacturer/dp/B000JO3N3S/ref=sr_1_7?s=mp3&ie=UTF8&qid=1511646448&sr=1-7&keywords=ipod+nano+3+black)
 - [Например на eBay](https://www.ebay.com/sch/i.html?_odkw=apple+ipod+nano+3+black&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xapple+ipod+nano+3rd+black.TRS1&_nkw=apple+ipod+nano+3rd+black&_sacat=0)
