@@ -78,6 +78,11 @@
 
 # Инвентарь для НРИ
 
+## Доску для нард
+![](img/nards.jpg)
+
+Винтажную. Можно даже без самих нард. 
+
 ## Plano storage box model 737  
 ![Plano storage box model 737](img/box1.jpg)
 
