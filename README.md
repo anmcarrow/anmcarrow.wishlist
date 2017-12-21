@@ -1,3 +1,4 @@
+
 # Новый игровой опыт
 ![](img/new_experience.jpg)
 
@@ -81,7 +82,7 @@
 ## Доску для нард
 ![](img/nards.jpg)
 
-Винтажную. Можно даже без самих нард. 
+Винтажную. Можно даже без самих нард.
 
 ## Plano storage box model 737  
 ![Plano storage box model 737](img/box1.jpg)
@@ -353,10 +354,30 @@
 
 [Покупать здесь](https://www.hexflex.com/shop/?v=f24485ae434a)
 
-## Набор для заточки инструмента от Lansky
-![Весчь!](img/knife_kit.jpg)
+## Точилка карманная Lansky Quadsharp (QSHARP)
+![](img/qsharp.jpg)
 
-[Суперская штука](http://www.sld.ru/catalog/nozhi/prisposobleniya-dlya-zatochki/nabor-dlya-zatochki-lansky-lkc03-standard.html)
+Есть [много где](https://market.yandex.ru/search?cvredirect=2&text=%20Lansky%20Quadsharp%20(QSHARP)&local-offers-first=0&deliveryincluded=0&onstock=0)
+
+## Камень для точильной системы Lansky ультра тонкий (S1000)
+![Весчь!](img/s1000.jpg)
+
+Тоже [много где](https://market.yandex.ru/catalog/68155/list?text=Lansky%20s1000&hid=14246003&rt=11&was_redir=1&rs=eJwzileS5uLxScwrzq5UKDY0MDAQOPboIbMSCweDAJsGg5EDlx0XL8eqI6wCTBIMqvfuLN0H5B4BcpmBXN1wuf1cfBwLtuxnFmAE8pP_PN0L5H8-8JRNgEGCXTX22Q57AOE3G5k%2C&glfilter=7893318%3A12184754&local-offers-first=0&deliveryincluded=0&onstock=0)
+
+## Камень для точильной системы Lansky ультра-ультра тонкий (LS2000)
+![Весчь!](img/ls2000.jpg)
+
+Есть [на Amazon](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dsporting&field-keywords=LS2000-BRK+Sharpening+Hone)
+
+## Полировочный брусок для точильной системы Lansky
+![Весчь!](img/lansky_leather.jpg)
+
+Есть [на Amazon](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Lansky+Leather+Stropping+Polishing+Hone&rh=i%3Aaps%2Ck%3ALansky+Leather+Stropping+Polishing+Hone)
+
+## Универсальный стенд для точильной системы Lansky
+![Весчь!](img/lansky_stand.jpg.jpg)
+
+Есть [на Amazon](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dsporting&field-keywords=Lansky+Universal+Mount)
 
 # Прочее
 
