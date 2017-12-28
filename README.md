@@ -367,17 +367,17 @@
 ## Камень для точильной системы Lansky ультра-ультра тонкий (LS2000)
 ![Весчь!](img/ls2000.jpg)
 
-Есть [на Amazon](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dsporting&field-keywords=LS2000-BRK+Sharpening+Hone)
+Есть [на Rezat.ru](http://rezat.ru/instrumenty_dlja_zatochki/komplektujushchie_k_tochilkam/kamen_keramicheskij_dlja_tochil_nogo_nabora_lansky_super_sapphire_polishing_grit_s2000)
 
 ## Полировочный брусок для точильной системы Lansky
 ![Весчь!](img/lansky_leather.jpg)
 
-Есть [на Amazon](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Lansky+Leather+Stropping+Polishing+Hone&rh=i%3Aaps%2Ck%3ALansky+Leather+Stropping+Polishing+Hone)
+Есть [Rezat.ru](http://rezat.ru/instrumenty_dlja_zatochki/komplektujushchie_k_tochilkam/kamen_polirovochnyj_kozha_dlja_tochil_nogo_nabora_lansky_hstrop)
 
 ## Универсальный стенд для точильной системы Lansky
-![Весчь!](img/lansky_stand.jpg.jpg)
+![Весчь!](img/lansky_stand.jpg)
 
-Есть [на Amazon](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dsporting&field-keywords=Lansky+Universal+Mount)
+Есть [на Rezat.ru](http://rezat.ru/instrumenty_dlja_zatochki/komplektujushchie_k_tochilkam/p_edestal_dlja_zatochnyh_sistem_lansky_lm009)
 
 # Прочее
 
