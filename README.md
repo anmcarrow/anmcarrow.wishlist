@@ -52,6 +52,7 @@
 46. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
 
 # А также немного про видеоигры
+![](img/ds3.jpg)
 
 1. Кооперативная кампания в Dead Space 3 (потому, что Карвер видит мир немного не так как Кларк)
 2. Кооперативная кампания в Spec Ops: The Line (потому, что война это ад)
