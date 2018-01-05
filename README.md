@@ -51,11 +51,10 @@
 45. [Dogs in the Vineyard](http://www.lumpley.com/dogs.html)
 46. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
 
-# А также немного про видеоигры
+# А также, немного про видеоигры
 ![](img/ds3.jpg)
 
 1. Кооперативная кампания в Dead Space 3 (потому, что Карвер видит мир немного не так как Кларк)
-2. Кооперативная кампания в Spec Ops: The Line (потому, что война это ад)
 
 # Декор
 
@@ -133,6 +132,11 @@
 Исключительно ради карточек.
 
 Есть [в Мосигре](http://www.mosigra.ru/Face/Show/Jackal_podzemelie/).
+
+## Настолка "Это моя война"
+![](img/this_war.jpg)
+
+[Есть много где.](https://market.yandex.ru/search?cvredirect=2&text=%D0%AD%D1%82%D0%BE%20%D0%BC%D0%BE%D1%8F%20%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0&local-offers-first=0&deliveryincluded=0&onstock=0)
 
 # Гаджеты и прочая техника  
 
