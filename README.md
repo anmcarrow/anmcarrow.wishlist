@@ -235,7 +235,7 @@
 
 [Смотреть wishlist здесь](https://steamcommunity.com/id/anmcarrow/wishlist/)
 
-# Карторисовательное
+# Другие хобби
 
 ## Портативный световой стол A3-формата
 ![](img/light_table.jpg)
