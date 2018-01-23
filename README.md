@@ -194,7 +194,7 @@
 [Купить тут](https://www.swiftpoint.com/product/swiftpoint-gt-mouse-2/)
 
 ## SteelSeries Siberia 650 Gaming Headset - Black
-[](img/headset1.jpg)
+![](img/headset1.jpg)
 
 #### Есть много где:
 - [Подороже](https://market.yandex.ru/product/13340611?show-uid=162166163238064981616002&nid=55353&glfilter=13887626%3A13899071&glfilter=7893318%3A1611750&context=search)
