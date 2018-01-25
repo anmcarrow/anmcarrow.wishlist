@@ -67,6 +67,12 @@
 
 - [Ещё есть на Zazzle.com](https://www.redbubble.com/shop/stickers+tabletop+rpg?cat_context=u-stationery&page=1&accordion=product)
 
+## Любой мерч от GLVRD.ru
+![](img/glvrd.jpg)
+_Кроме чехлов на для мобилок._
+
+[Покупается тут](https://glvrd.ru/lvk/)
+
 ## Календарик от ArtSCP
 ![](img/artscp.jpg)
 
