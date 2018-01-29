@@ -51,6 +51,11 @@
 45. [Dogs in the Vineyard](http://www.lumpley.com/dogs.html)
 46. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
 
+## То же самое, но из списка Дж. Харпера
+![](img/harper.jpg)
+
+[Вот тут этот список](https://docs.google.com/document/d/1DPUbBT35AfH3GdwNQgge3zDQE5Bz3HNSUnvCc6mF1mc/edit)
+
 # А также, немного про видеоигры
 ![](img/ds3.jpg)
 
