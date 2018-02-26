@@ -50,7 +50,7 @@
 44. [Savage Flower Kingdom](http://experimentalplayground.blogspot.ru/2013/08/savage-flower-kingdom.html)
 45. [Dogs in the Vineyard](http://www.lumpley.com/dogs.html)
 46. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
-47. [Cryptomancer RPG](http://cryptorpg.com/) 
+47. [Cryptomancer RPG](http://cryptorpg.com/)
 
 ## То же самое, но из списка Дж. Харпера
 ![](img/harper.jpg)
@@ -73,11 +73,11 @@
 
 - [Ещё есть на Zazzle.com](https://www.redbubble.com/shop/stickers+tabletop+rpg?cat_context=u-stationery&page=1&accordion=product)
 
-## Любой мерч от GLVRD.ru
+## Плакат-справочник от GLVRD.ru
 ![](img/glvrd.jpg)
 _Кроме чехлов на для мобилок._
 
-[Покупается тут](https://glvrd.ru/lvk/)
+[Покупается тут](http://printdirect.ru/storefront/shared_info/6613891?override_option=1091)
 
 ## Календарик от ArtSCP
 ![](img/artscp.jpg)
