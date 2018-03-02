@@ -172,7 +172,7 @@ _Кроме чехлов на для мобилок._
 Новый или не очень или вообще бу/хс.
 
 #### LGA1150, Sandy Bridge, что-нибудь из вот этого списка:
-- Xeon E3-1220, Xeon E3-1220L, Xeon E3-1225, Xeon E3-1230, Xeon E3-1235, Xeon E3-1240, Xeon E3-1245, Xeon E3-1270, Xeon E3-1275, Xeon E3-1280, Xeon E3-1290;
+- Xeon E3-1220 v3, Xeon E3-1220L v3, Xeon E3-1225 v3, Xeon E3-1230 v3, Xeon E3-1235 v3, Xeon E3-1240 v3, Xeon E3-1245 v3, Xeon E3-1270 v3, Xeon E3-1275 v3, Xeon E3-1280 v3, Xeon E3-1290 v3;
 - Core i7-2600, Core i7-2600K, Core i7-2600S, Core i7-2700K, Core i7-3770,  i7-3770K, Core i7-3770S, Core i7-3770T
 
 ## Внешний аккумулятор для мобильных устройств
