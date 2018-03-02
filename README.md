@@ -166,6 +166,15 @@ _Кроме чехлов на для мобилок._
 - [Например, на Amazon ](https://www.amazon.com/Apple-Generation-Black-Discontinued-Manufacturer/dp/B000JO3N3S/ref=sr_1_7?s=mp3&ie=UTF8&qid=1511646448&sr=1-7&keywords=ipod+nano+3+black)
 - [Например на eBay](https://www.ebay.com/sch/i.html?_odkw=apple+ipod+nano+3+black&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xapple+ipod+nano+3rd+black.TRS1&_nkw=apple+ipod+nano+3rd+black&_sacat=0)
 
+## Центральный процессор для моего стендового PC
+![](img/cpu.jpg)
+
+Новый или не очень или вообще бу/хс.
+
+#### LGA1150, Sandy Bridge, что-нибудь из вот этого списка:
+- Xeon E3-1220, Xeon E3-1220L, Xeon E3-1225, Xeon E3-1230, Xeon E3-1235, Xeon E3-1240, Xeon E3-1245, Xeon E3-1270, Xeon E3-1275, Xeon E3-1280, Xeon E3-1290;
+- Core i7-2600, Core i7-2600K, Core i7-2600S, Core i7-2700K, Core i7-3770,  i7-3770K, Core i7-3770S, Core i7-3770T
+
 ## Внешний аккумулятор для мобильных устройств
 
 ![](img/hiper15k.jpg)
