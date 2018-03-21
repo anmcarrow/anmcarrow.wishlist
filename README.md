@@ -214,6 +214,11 @@ _Кроме чехлов на для мобилок._
 
 Брать [здесь](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-pedal/) или, на худой конец — [здесь](http://www.dx.com/p/usb-triple-action-foot-switch-keyboard-control-foot-pedal-56508#.VmFnZFjhDRY).
 
+## Мини-мышь Super Tiny Wireless Mouse
+![](img/tinymouse.jpg)
+
+[Купить здесь](https://usb.brando.com/usb-super-tiny-wireless-mouse_p03046c0037d015.html)
+
 ## Убермышь "Swiftpoint GT"
 ![Swiftpoint Mouse as IS](img/swiftpoint_mouse.jpg)
 
