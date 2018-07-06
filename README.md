@@ -296,6 +296,11 @@ _Кроме чехлов на для мобилок._
 
 Размера S. [Есть на сайте автора.](http://mushroomova.printdirect.ru/index.php?action=addtocart&product=5929098&override_item=784&use_blank_item=0)
 
+# Украшения
+![](img/hatchet.jpg)
+
+Кулон с цепочкой ["ICP Hatchet man"](https://www.amazon.com/dp/B01ACRI4EO/ref=cm_wl_huc_continue).
+
 # Футболки
 <small>**Примечание:** Все нижеперечисленные футболки также вполне актуальны в виде «longsleeve» (с длинным рукавом), если такая опция вообще доступна на сайте магазина.</small>
 
