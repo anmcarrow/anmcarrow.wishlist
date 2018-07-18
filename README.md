@@ -285,10 +285,20 @@ _Кроме чехлов на для мобилок._
 
 # Одежда и аксессуары  
 
+## Пафосную робу телемиста-любителя от Killstar
+![](img/robe_kult.jpg)
+
+Размера "S". [Покупать здесь.](https://us.killstar.com//products/cult-ritual-hoodie-b?redirect=true&variant=36615570372)
+
+## Ну и вообще всякое от Killstar
+-  https://us.killstar.com/collections/mens-clearance-tops/products/voodoo-sweatshirt-b
+- https://us.killstar.com/collections/mens-clearance-tops/products/story-time-sweatshirt-b
+- https://us.killstar.com/collections/mens-tops/products/go-to-hell-t-shirt-b
+
 ## Пафосную рабочую робу «хозяина подземелья»
 ![](img/gmrobe.jpg)
 
-Из естественных материалов, тёмно-серую или тёмно-красную (бордо), отороченную золотой тесьмой, с глубоким капюшоном, запахивающуюся,  на мальчика с размером торса 44 и ростом 170. Наличие подкладки опционально, но желательно.
+- Из естественных материалов, тёмно-серую или ёмно-красную (бордо), отороченную золотой тесьмой, с глубоким капюшоном, запахивающуюся,  на мальчика с размером торса 44 и ростом 170. Наличие подкладки опционально, но желательно.
 
 Зачем? <s>Во славу...!</s> Например, [чтобы делать так](http://www.kingofrpgs.com/the-street-master-2/).
 
