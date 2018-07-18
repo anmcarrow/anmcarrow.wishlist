@@ -47,10 +47,11 @@
 41. [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year/)
 42. [The Shadow Theory](http://www.giantitp.com/forums/showthread.php?147142-Shadow-Theory-(d20-Modern-Horror))
 43. [Каждый -- Джон](http://archive.pnprpg.ru/layouts/EverythingIsJohn/John_RPG_example.pdf)
-44. [Savage Flower Kingdom](http://experimentalplayground.blogspot.ru/2013/08/savage-flower-kingdom.html)
-45. [Dogs in the Vineyard](http://www.lumpley.com/dogs.html)
-46. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
-47. [Cryptomancer RPG](http://cryptorpg.com/)
+44. [44: A Game of Automatic Fear](https://www.drivethrurpg.com/product/79290/44-A-Game-of-Automatic-Fear)
+45. [Savage Flower Kingdom](http://experimentalplayground.blogspot.ru/2013/08/savage-flower-kingdom.html)
+46. [Dogs in the Vineyard](http://www.lumpley.com/dogs.html)
+47. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
+48. [Cryptomancer RPG](http://cryptorpg.com/)
 
 ## То же самое, но из списка Дж. Харпера
 ![](img/harper.jpg)
