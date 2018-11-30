@@ -251,12 +251,6 @@ _Кроме чехлов на для мобилок._
 
 [Купить тут](http://cvp.com/index.php?t=product/wacom_wacack40801)
 
-## Триммер для усов и бороды
-![](img/trimmer.jpg)
-
-Какой-нибудь небольшой и аккуратный.
-Например – [Braun CruZer 6 Precision](http://ekb.onlinetrade.ru/catalogue/trimmer_dlya_litsa_i_tela-c1326/braun/trimmer_dlya_borodi_i_usov_braun_cruzer_6_precision-133061.html?from=yamekb&utm_source=yamarket&utm_medium=cpc&_openstat=bWFya2V0LnlhbmRleC5ydTvQotGA0LjQvNC80LXRgCDQtNC70Y8g0LHQvtGA0L7QtNGLINC4INGD0YHQvtCyIEJSQVVOIENydVplciA2IFByZWNpc2lvbjszbW96YzBqRkNSTXYyTDhmRTZWU1BnOw)
-
 ### Не гаджеты, но тем не менее
 
 #### Подарочные карты App Store. Всегда актуально (я ведь покупаю софт и всё такое).
