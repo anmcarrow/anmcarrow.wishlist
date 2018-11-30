@@ -149,7 +149,7 @@ _Кроме чехлов на для мобилок._
 # Гаджеты и прочая техника  
 
 ## Sensu brush
-![img/sensu.jpg]
+![](img/sensu.jpg)
 Такая вот кисточка для рисования по iPad-у.
 
 [Есть на Amazon](https://www.amazon.com/Sensu-Stylus-Brush-Tablets-creative/dp/B00BZFXXRG/)
