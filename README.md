@@ -76,14 +76,8 @@
 
 ## Плакат-справочник от GLVRD.ru
 ![](img/glvrd.jpg)
-_Кроме чехлов на для мобилок._
 
 [Покупается тут](http://printdirect.ru/storefront/shared_info/6613891?override_option=1091)
-
-## Календарик от ArtSCP
-![](img/artscp.jpg)
-
-[Вот отсюда](http://artscp.com/calendar)
 
 ## Постер "Through the gateway" от Palehorse
 ![](img/kali_poster.jpg)
@@ -97,54 +91,11 @@ _Кроме чехлов на для мобилок._
 
 # Инвентарь для НРИ
 
-## Plano storage box model 737  
-![Plano storage box model 737](img/box1.jpg)
-
-[Купить, например, тут](http://www.voblera.net/catalog/yaschiki/plano-737-001)
-
-## Или Flambeau 8010 FRONT LOADER  
-![Flambeau 8010 FRONT LOADER](img/box2.jpg)
-
-## Crystal Caste Mini BattleTop
-
-![](img/game_table.jpg)
-
-Вот такой вот спец. столик. Можно два.
-
-[Есть на eBay](http://www.ebay.com/sch/i.html?_odkw=Crystal+Caste+Mini+Battletop-&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.XCrystal+Caste+Mini+Battletop.TRS0&_nkw=Crystal+Caste+Mini+Battletop&_sacat=0)
-
-## Stack the Bones game от Kickerland
-![Stack the bones!](img/bones_game.jpg)
-
-[Купить, например, тут](http://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=Stack+the+Bones+Game&_sop=15)
-
-## D&D-совместимые миниатюрки Всякие (но лучше - крашеные), можно даже Б/У  
-
-![Миниатюрки, тысячи их!](img/miniatures.jpg)
-
 ## Антуражно-винтажную монохромную колоду таро
 ![](img/tarot_cards.jpg)
 
 В качестве оракулов и генератора случайностей.  
 [Есть на Etsy](https://www.etsy.com/ru/listing/166592386/gothic-tarot-deck-78-cards?ref=market)
-
-## Настолка "Космическая тревога"
-![](img/space_alert.jpg)
-
-Для эффективной симуляции <s>*полной опы*</s> критической ситуации в условиях открытого космоса.  
-[Брать здесь](http://www.eburg.mosigra.ru/Face/Show/space_alert/)
-
-## Настолка "Шакал: Подземелье"
-![](img/jackal.jpg)
-
-Исключительно ради карточек.
-
-Есть [в Мосигре](http://www.mosigra.ru/Face/Show/Jackal_podzemelie/).
-
-## Настолка "Это моя война"
-![](img/this_war.jpg)
-
-[Есть много где.](https://market.yandex.ru/search?cvredirect=2&text=%D0%AD%D1%82%D0%BE%20%D0%BC%D0%BE%D1%8F%20%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0&local-offers-first=0&deliveryincluded=0&onstock=0)
 
 # Гаджеты и прочая техника  
 
@@ -170,12 +121,6 @@ _Кроме чехлов на для мобилок._
 #### LGA1150, Sandy Bridge, что-нибудь из вот этого списка:
 - Xeon E3-1220 v3, Xeon E3-1220L v3, Xeon E3-1225 v3, Xeon E3-1230 v3, Xeon E3-1235 v3, Xeon E3-1240 v3, Xeon E3-1245 v3, Xeon E3-1270 v3, Xeon E3-1275 v3, Xeon E3-1280 v3, Xeon E3-1290 v3;
 - Core i7-2600, Core i7-2600K, Core i7-2600S, Core i7-2700K, Core i7-3770,  i7-3770K, Core i7-3770S, Core i7-3770T
-
-## Внешний аккумулятор для мобильных устройств
-
-![](img/hiper15k.jpg)
-
-[Например, HIPER MP15000](https://market.yandex.ru/product/10776475/offers?hid=8353924&track=srchbtn&local-offers-first=1&deliveryincluded=0)
 
 ## Logitech Spotlight Advanced Presentation Remote
 ![](img/presenter.jpg)
@@ -210,11 +155,6 @@ _Кроме чехлов на для мобилок._
 
 Брать [здесь](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-pedal/) или, на худой конец — [здесь](http://www.dx.com/p/usb-triple-action-foot-switch-keyboard-control-foot-pedal-56508#.VmFnZFjhDRY).
 
-## Мини-мышь Super Tiny Wireless Mouse
-![](img/tinymouse.jpg)
-
-[Купить здесь](https://usb.brando.com/usb-super-tiny-wireless-mouse_p03046c0037d015.html)
-
 ## Убермышь "Swiftpoint GT"
 ![Swiftpoint Mouse as IS](img/swiftpoint_mouse.jpg)
 
@@ -227,18 +167,6 @@ _Кроме чехлов на для мобилок._
 #### Есть много где:
 - [Подороже](https://market.yandex.ru/product/13340611?show-uid=162166163238064981616002&nid=55353&glfilter=13887626%3A13899071&glfilter=7893318%3A1611750&context=search)
 - [Подешевле](https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cn%3A3015405011%2Ck%3A%22SteelSeries+Siberia+650%22+Black&keywords=%22SteelSeries+Siberia+650%22+Black&ie=UTF8&qid=1516216682&rnid=493964)
-
-## Аудио-гарнитуру, беспроводную, USB, с закрытыми наушниками  
-![Creative Sound Blaster Tactic 3D Wrath](img/sound_wrath.jpg)
-
-Например — Creative Sound Blaster Tactic 3D Wrath  
-[Купить тут](http://market.yandex.ru/model.xml?modelid=7808503&hid=6368403&text=Creative%20Sound%20Blaster%20Tactic%203D%20Wrath&srnum=2)  
-
-##  Стереоколонки  
-![Microlab Pro](img/sound_microlab.jpg)
-
-Например, «Microlab Pro 1» или «Microlab Pro 2»  
-[Купить тут](http://market.yandex.ru/search.xml?text=microlab+pro&cvredirect=2)  
 
 ### Huawei E5756
 ![](img/mobile_router.jpg)
@@ -264,19 +192,6 @@ _Кроме чехлов на для мобилок._
 
 [Смотреть wishlist здесь](https://steamcommunity.com/id/anmcarrow/wishlist/)
 
-# Другие хобби
-
-## Портативный световой стол A3-формата
-![](img/light_table.jpg)
-
-Для рисования руками по бумаге всяких многослойных конструкций.  
-[Например, вот этот](http://www.amazon.co.uk/MiniSun-Modern-Ultra-Slim-Design-LightPad/dp/B00AYXR7CW/ref=sr_1_1?s=lighting&ie=UTF8&qid=1433242974&sr=1-1&keywords=MiniSun+A3+LED)
-
-## Настольную микрофонную стойку
-![Просто, изящно и усточиво](img/consonans.jpg)
-
-[Например – такую](http://konsonans-ekb.ru/shop/stoyki_mikrofonnye/stoyka_mikrofonnaya_force_msc_10/)  
-
 # Одежда и аксессуары  
 
 ## Пафосную робу телемиста-любителя от Killstar
@@ -289,25 +204,23 @@ _Кроме чехлов на для мобилок._
 - https://us.killstar.com/collections/mens-clearance-tops/products/story-time-sweatshirt-b
 - https://us.killstar.com/collections/mens-tops/products/go-to-hell-t-shirt-b
 
-## Пафосную рабочую робу «хозяина подземелья»
-![](img/gmrobe.jpg)
-
-- Из естественных материалов, тёмно-серую или ёмно-красную (бордо), отороченную золотой тесьмой, с глубоким капюшоном, запахивающуюся,  на мальчика с размером торса 44 и ростом 170. Наличие подкладки опционально, но желательно.
-
-Зачем? <s>Во славу...!</s> Например, [чтобы делать так](http://www.kingofrpgs.com/the-street-master-2/).
-
-## Пассивно-агрессивную фуфайку с пушным зверем
-![](img/bad_fox.jpg)
-
-Размера S. [Есть на сайте автора.](http://mushroomova.printdirect.ru/index.php?action=addtocart&product=5929098&override_item=784&use_blank_item=0)
-
 # Украшения
 ![](img/hatchet.jpg)
 
 Кулон с цепочкой ["ICP Hatchet man"](https://www.amazon.com/dp/B01ACRI4EO/ref=cm_wl_huc_continue).
 
 # Футболки
-<small>**Примечание:** Все нижеперечисленные футболки также вполне актуальны в виде «longsleeve» (с длинным рукавом), если такая опция вообще доступна на сайте магазина.</small>
+<small>**Примечание:** Все нижеперечисленные футболки также актуальны в виде «longsleeve» (с длинным рукавом), если такая опция вообще доступна на сайте магазина.</small>
+
+## Любую футболку от Shiroi Neko, мужскую, размера «S»
+![Nya, desu!](img/shiroi_neko.jpg)
+
+Точнее, любую [из этого  списка](https://www.evernote.com/shard/s278/sh/7017da53-f9cd-4948-be86-2627fc7a4002/3af1e1f76b23666019606b7dce29068b)  
+
+## Мерчевую футболку группы Gorgoroth "Under the sign of Hell", мужскую, размера «S»
+![](img/gorgoroth_tshirt.jpg)
+
+[Есть на Amazon](https://www.amazon.com/Gorgoroth-Under-Sign-Hell-t-shirt/dp/B01H4LC5S2/ref=sr_1_43?ie=UTF8&qid=1487409843&sr=8-43&keywords=gorgoroth+tshirt)
 
 ## Футболку с тонкими аллюзиями...
 ![](img/hookups.jpg)
@@ -315,35 +228,6 @@ _Кроме чехлов на для мобилок._
 ...а точнее — вот с такой картинкой.
 
 [Есть, например, вот здесь](https://printio.ru/tees/150714)
-
-## Футболку «Fellowship of the dungeon», мужскую, размер «S»
-![](img/fellow_tshirt.jpg)
-
-[Купить тут](http://shirt.woot.com/offers/fellowship-of-the-dungeon?utm_campaign=Commission+Junction+-+10836837&utm_source=Commission+Junction+Publisher+-+3497954&utm_medium=affiliate+-+shirt.woot)
-
-## Футболку «Me and Ms.Tiamat», мужскую, бежевого цвета, размер «S»
-![](img/tiamat_shirt.jpg)
-
-[Купить тут](https://www.amazon.com/Dungeons-Dragons-Mens-T-Shirt-Tiamat/dp/B01MTIRDXF?th=1&psc=1)
-
-## Футболку «Dragon of few words», мужскую, серого цвета, размер «S»
-![](img/dragon_words.jpg)
-[Купить тут](http://www.welovefine.com/t-shirts-425-434/dragon-of-few-words-10325/sort/p.sort_order.html?order=DESC)
-
-## Футболку «Cubicles & Coworkers», мужскую, серого цвета, размер «S»
-![](img/cubicles_and_coworkers.png)
-
-[Купить тут](http://shirt.woot.com/offers/cubicles-and-coworkers?ref=cnt_ctlg_dgn_2)
-
-## Любую футболку от Shiroi Neko, мужскую, размера «S»
-![Nya, desu!](img/shiroi_neko.jpg)
-
-Точнее, любую [из этого  списка](https://www.evernote.com/shard/s278/sh/7017da53-f9cd-4948-be86-2627fc7a4002/3af1e1f76b23666019606b7dce29068b)  
-
-## Мерчевую футболку группы Gorgoroth, мужскую, размера «S»
-![](img/gorgoroth_tshirt.jpg)
-
-[Есть на Amazon](https://www.amazon.com/Gorgoroth-Under-Sign-Hell-t-shirt/dp/B01H4LC5S2/ref=sr_1_43?ie=UTF8&qid=1487409843&sr=8-43&keywords=gorgoroth+tshirt)
 
 ## Множество отличных футболок с Zazzle.com
 ![](img/zazzle_tshirt.jpg)
@@ -370,13 +254,26 @@ _Кроме чехлов на для мобилок._
 - <https://www.zazzle.com/osr_dark_edition_t_shirt-235056116775382095>
 - <https://www.zazzle.com/isometric_osr_t_shirt-235653562529271801>
 
+## Футболку «Fellowship of the dungeon», мужскую, размер «S»
+![](img/fellow_tshirt.jpg)
+
+[Купить тут](http://shirt.woot.com/offers/fellowship-of-the-dungeon?utm_campaign=Commission+Junction+-+10836837&utm_source=Commission+Junction+Publisher+-+3497954&utm_medium=affiliate+-+shirt.woot)
+
+## Футболку «Me and Ms.Tiamat», мужскую, бежевого цвета, размер «S»
+![](img/tiamat_shirt.jpg)
+
+[Купить тут](https://www.amazon.com/Dungeons-Dragons-Mens-T-Shirt-Tiamat/dp/B01MTIRDXF?th=1&psc=1)
+
+## Футболку «Dragon of few words», мужскую, серого цвета, размер «S»
+![](img/dragon_words.jpg)
+[Купить тут](http://www.welovefine.com/t-shirts-425-434/dragon-of-few-words-10325/sort/p.sort_order.html?order=DESC)
+
+## Футболку «Cubicles & Coworkers», мужскую, серого цвета, размер «S»
+![](img/cubicles_and_coworkers.png)
+
+[Купить тут](http://shirt.woot.com/offers/cubicles-and-coworkers?ref=cnt_ctlg_dgn_2)
+
 # Кухня  
-
-## Термокружка Starbucks Stainless Steel Tumbler
-![](img/coffee_mug.jpg)
-Матовый, чёрный, модели «Stealth» (на фото)  
-
-[Купить тут](http://goo.gl/V0uUMi)
 
 ## Фартук
 ![IKEA Gunsig](img/ikea_gunstig.jpg)
@@ -385,25 +282,7 @@ _Кроме чехлов на для мобилок._
 
 # DIY  
 
-## Leatherman Surge Multitool (black)
-![](img/leatherman.jpg)
-
-Просто хороший мультитул.
-
-[Есть на Amazon.](https://www.amazon.com/dp/B00WL3MS0O/_encoding=UTF8?coliid=I2L3FXQ4DGUPV3&colid=3D5OKPNL4HSFZ)
-
-## Пила ручная, складная-садовая
-![](img/fiskars_saw.jpg)
-
-[Fiskars Xtract™ SW75](http://market.yandex.ru/search.xml?hid=90666&text=fiskars%20sw75&srnum=3&ortext=fiskars%20sw75)  
-Для походов в леса – самое оно.
-
-## Паяльная станция с феном
-![](img/solderindg_station.png)
-
-[Например, такую](http://siriust.ru/oborudovanie/payalnoe-oborudovanie/payalnye-stancii/stanciya-payalnaya-wep-852/)
-
-## Мультитул от HexFlex
+## Мультитул-снежинка от HexFlex
 ![](img/snowflake_tool.jpg)
 
 [Покупать здесь](https://www.hexflex.com/shop/?v=f24485ae434a)
@@ -435,41 +314,7 @@ _Кроме чехлов на для мобилок._
 
 # Прочее
 
-## Велосипедное седло Brooks Flyer
-![](img/bike_seat.jpg)
-
-Да, оно недешёвое и на любителя.
-Но тем не менее.
-
-[](http://brookssaddles.ru/saddles/touring/brooks-flyer)
-
-## Жёлтого резинового утёнка
-![](img/rubber_duck.jpg)
-
-Или двух (пригодятся [для отладки кода](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D1%83%D1%82%D1%91%D0%BD%D0%BA%D0%B0)).
-Или не жёлтого [а какого-нибудь ещё](https://catchy.io/slides/img/debugging/rubber-duck-killed.jpg).
-
-## Подарочные сертификаты в какой-нибудь екатеринбуржский Tattoo-салон
-![sample blackwork](img/tattoo.jpg)
-
-Желательно тот, в котором хорошо умеют работать с [blackwork](http://www.furfur.me/furfur/all/culture/164137-blackwork) по эскизам заказчика.
-
-## Сертификаты-билеты на IT-курсы
-![](img/learn_it.jpg)
-
-Особенно, если они связаны с Unix/Linux и сетями.
-
 ## Сертификаты на языковые курсы (английского языка)
 ![](img/language_courses.jpg)
 
-Онлайн или локально в Екатеринбурге.
-
-## Сертификаты на курсы по изучению традиционных ремёсел
-![](img/ceramic_courses.jpg)
-
-Лепка, керамика, плетение из лозы/бересты, плотницкие работы, вот это всё.
-
-## Банджо (и колечки к нему)
-![sample banjo](img/banjo.jpg)
-
-Cерьёзно, чав, банджо это супер.
+Только онлайн.
