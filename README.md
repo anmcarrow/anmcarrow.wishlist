@@ -287,6 +287,11 @@
 
 [Покупать здесь](https://www.hexflex.com/shop/?v=f24485ae434a)
 
+## Мультитул VICTORINOX Bike Tool PB 470
+![](img/victorinox_pb470.jpg)
+
+[Встречается повсеместно](https://market.yandex.ru/catalog--nozhi-i-multituly/70890/list?text=%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D1%82%D1%83%D0%BB%20VICTORINOX%20Bike%20Tool%20PB%20470&hid=15032315&rt=11&was_redir=1&srnum=25&rs=eJwzWsSoZMuld2HOxeYLuy_2XGy6sONiE4itEObpHOIf5OnnH6HglJmdqhCSn5-jEOCkYGJuIHDs0UNmJRYOLgERDQajeK5YLl6OH6dYBZgkGFTtJPfZAbn_gFxGINcyVtGei4_j9_6p7AIMEhKqh9fxOgClO06zCrAApe__vLMfKD3p0Cc2AVYg_07SAxB_etcTNgFmCUbVQ-uv7w9gBACr5TYw&glfilter=7893318%3A991935&onstock=1&local-offers-first=1)
+
 ## Точилка карманная Lansky Quadsharp (QSHARP)
 ![](img/qsharp.jpg)
 
