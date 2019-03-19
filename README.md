@@ -161,13 +161,6 @@
 Реально крутая и чертовски удобная для меня мышь.  
 [Купить тут](https://www.swiftpoint.com/product/swiftpoint-gt-mouse-2/)
 
-## SteelSeries Siberia 650 Gaming Headset - Black
-![](img/headset1.jpg)
-
-#### Есть много где:
-- [Подороже](https://market.yandex.ru/product/13340611?show-uid=162166163238064981616002&nid=55353&glfilter=13887626%3A13899071&glfilter=7893318%3A1611750&context=search)
-- [Подешевле](https://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A172282%2Cn%3A3015405011%2Ck%3A%22SteelSeries+Siberia+650%22+Black&keywords=%22SteelSeries+Siberia+650%22+Black&ie=UTF8&qid=1516216682&rnid=493964)
-
 ### Huawei E5756
 ![](img/mobile_router.jpg)
 Или аналогичный универсальный 3G-роутер.
