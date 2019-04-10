@@ -318,6 +318,6 @@
 [Продаются здесь.](https://school.skyeng.ru/gift/)
 
 ## Массажёр Corden Yoga
-![](img/corden.hpg)
+![](img/corden.jpg)
 
 [Легко гуглится.](https://www.google.com/search?q=corden+yoga+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C&oq=corden+yoga+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C&aqs=chrome..69i57.6772j0j9&sourceid=chrome&ie=UTF-8)
