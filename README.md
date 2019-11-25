@@ -21,7 +21,7 @@
 15. [PbTA Monsters of the week](http://www.evilhat.com/home/monster-of-the-week/)
 16. [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/)
 17. [The Mountain Witch](https://sites.google.com/site/mountainwitchrpg/)
-18. [Blades in the dark](http://www.evilhat.com/home/blades-in-the-dark/)
+18. [Root RPG](https://www.magpiegames.com/category/root-rpg/)
 19. [All flesh must be eaten](http://www.allflesh.com/flesh.html)
 20. [Malifaux: Through The Breach](https://www.wyrd-games.net/through-the-breach/)
 21. [Ultima Forsan: Макабрическая Русь](https://studio101.ru/savageworlds/ultimaforsan/ST5702)
@@ -52,7 +52,6 @@
 46. [Dogs in the Vineyard](http://www.lumpley.com/dogs.html)
 47. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
 48. [Cryptomancer RPG](http://cryptorpg.com/)
-49. [Do Not Let Us Die In The Dark Night Of This Cold Winter](https://www.drivethrurpg.com/product/198895/Do-Not-Let-Us-Die-In-The-Dark-Night-Of-This-Cold-Winter)
 
 ## То же самое, но из списка Дж. Харпера
 ![](img/harper.jpg)
