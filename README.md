@@ -52,6 +52,7 @@
 46. [Dogs in the Vineyard](http://www.lumpley.com/dogs.html)
 47. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
 48. [Cryptomancer RPG](http://cryptorpg.com/)
+49. [Esoteric Enterprises RPG](https://drive.google.com/file/d/1-TNP-a4JHBtS7iJUZD9Amt5RunIPA-yX/view?usp=sharing)
 
 ## То же самое, но из списка Дж. Харпера
 ![](img/harper.jpg)
