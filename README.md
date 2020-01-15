@@ -53,6 +53,10 @@
 47. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
 48. [Cryptomancer RPG](http://cryptorpg.com/)
 49. [Esoteric Enterprises RPG](https://drive.google.com/file/d/1-TNP-a4JHBtS7iJUZD9Amt5RunIPA-yX/view?usp=sharing)
+50. [English Eeie](https://www.drivethrurpg.com/product/225811/English-Eerie-Rural-Horror-Storytelling-Game-for-One-Player?src=also_purchased)
+51. [City Planning Department](https://www.drivethrurpg.com/product/264075/City-Planning-Department?src=also_purchased)
+52. [Red Markets](https://www.drivethrurpg.com/product/226794/Red-Markets-A-Game-of-Economic-Horror?src=also_purchased)
+
 
 ## То же самое, но из списка Дж. Харпера
 ![](img/harper.jpg)
