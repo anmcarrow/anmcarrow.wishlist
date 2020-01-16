@@ -11,7 +11,7 @@
 5. [Weird Fantasy Role-Playing (LoTFP)](http://www.lotfp.com/RPG/)
 6. [Torchbearer](https://www.torchbearerrpg.com/)
 7. [Eclipse Phase](http://www.eclipsephase.com/)
-8. [The Black Hack](https://the-black-hack.jehaisleprintemps.net/)
+8. [Red Markets](https://www.drivethrurpg.com/product/226794/Red-Markets-A-Game-of-Economic-Horror?src=also_purchased)
 9. [HeroQuest](https://www.chaosium.com/heroquest/)
 10. [Technoir](http://www.technoirrpg.com/)
 11. [Kult](http://kultdivinitylost.com/)
@@ -55,7 +55,6 @@
 49. [Esoteric Enterprises RPG](https://drive.google.com/file/d/1-TNP-a4JHBtS7iJUZD9Amt5RunIPA-yX/view?usp=sharing)
 50. [English Eeie](https://www.drivethrurpg.com/product/225811/English-Eerie-Rural-Horror-Storytelling-Game-for-One-Player?src=also_purchased)
 51. [City Planning Department](https://www.drivethrurpg.com/product/264075/City-Planning-Department?src=also_purchased)
-52. [Red Markets](https://www.drivethrurpg.com/product/226794/Red-Markets-A-Game-of-Economic-Horror?src=also_purchased)
 
 
 ## То же самое, но из списка Дж. Харпера
@@ -165,12 +164,6 @@
 
 Реально крутая и чертовски удобная для меня мышь.  
 [Купить тут](https://www.swiftpoint.com/product/swiftpoint-gt-mouse-2/)
-
-### Huawei E5756
-![](img/mobile_router.jpg)
-Или аналогичный универсальный 3G-роутер.
-
-[Посмотреть на Yandex.Market](https://market.yandex.ru/product/9263633?hid=723087&track=tabs)
 
 ## Wacom Intuos Personalisation Kit
 ![](img/wacom_custom_kit.jpg)
