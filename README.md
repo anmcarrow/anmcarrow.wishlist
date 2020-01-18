@@ -245,6 +245,16 @@
 - <https://www.zazzle.com/osr_dark_edition_t_shirt-235056116775382095>
 - <https://www.zazzle.com/isometric_osr_t_shirt-235653562529271801>
 
+## Штуки от Rogue + Wolf
+
+- <https://rogueandwolf.com/collections/show-me-everything/products/witch-cauldron-mug>
+- <https://rogueandwolf.com/collections/show-me-everything/products/crystal-queen-long-sleeve-tee-men>
+
+## Штуки от Disturbia
+
+- <https://www.disturbia.co.uk/products/womens-new/nebula-sweatshirt>
+- <https://www.disturbia.co.uk/products/mens-new/Lightning-sweatshirt>
+
 ## Футболку «Fellowship of the dungeon», мужскую, размер «S»
 ![](img/fellow_tshirt.jpg)
 
