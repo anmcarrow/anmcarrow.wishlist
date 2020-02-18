@@ -93,6 +93,12 @@
 
 [Вот отсюда](http://manalanextdoor.com/shop/manala-poster)
 
+## Постеры от romanticallyapocalyptic.com
+
+![](img/romac.jpg)
+
+С <http://romanticallyapocalyptic.com>, соответственно
+
 # Инвентарь для НРИ
 
 ## Антуражно-винтажную монохромную колоду таро
