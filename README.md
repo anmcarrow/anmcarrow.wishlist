@@ -55,6 +55,7 @@
 49. [Esoteric Enterprises RPG](https://drive.google.com/file/d/1-TNP-a4JHBtS7iJUZD9Amt5RunIPA-yX/view?usp=sharing)
 50. [English Eeie](https://www.drivethrurpg.com/product/225811/English-Eerie-Rural-Horror-Storytelling-Game-for-One-Player?src=also_purchased)
 51. [City Planning Department](https://www.drivethrurpg.com/product/264075/City-Planning-Department?src=also_purchased)
+52. [Dont Walk in Winter Wood](https://www.drivethrurpg.com/product/104196/Dont-Walk-in-Winter-Wood?manufacturers_id=584)
 
 
 ## То же самое, но из списка Дж. Харпера
