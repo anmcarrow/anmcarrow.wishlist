@@ -58,7 +58,9 @@
 52. [Dont Walk in Winter Wood](https://www.drivethrurpg.com/product/104196/Dont-Walk-in-Winter-Wood?manufacturers_id=584)
 53. [Bards Doing Normal Things](https://awaywardwriter.itch.io/bards-doing-normal-things?fbclid=IwAR20l_p-EvkcOHV0gbY2xA4M5HdlW5rVrQE76EL7fbLL2xIB23O1ImWB37g)
 54. [Rust Hulks](https://www.drivethrurpg.com/product/300564/Rust-Hulks)
-55. [Dark Ages: Fae](https://www.drivethrurpg.com/product/710/Dark-Ages-Fae)z
+55. [Dark Ages: Fae](https://www.drivethrurpg.com/product/710/Dark-Ages-Fae)
+56. [Degenesis](https://degenesis.com/)
+
 
 ## То же самое, но из списка Дж. Харпера
 ![](img/harper.jpg)
