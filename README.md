@@ -60,6 +60,7 @@
 54. [Rust Hulks](https://www.drivethrurpg.com/product/300564/Rust-Hulks)
 55. [Dark Ages: Fae](https://www.drivethrurpg.com/product/710/Dark-Ages-Fae)
 56. [Degenesis](https://degenesis.com/)
+57. [Shadow of The Demon Lord](https://schwalbentertainment.com/shadow-of-the-demon-lord/)
 
 
 ## То же самое, но из списка Дж. Харпера
