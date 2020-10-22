@@ -61,6 +61,7 @@
 55. [Dark Ages: Fae](https://www.drivethrurpg.com/product/710/Dark-Ages-Fae)
 56. [Degenesis](https://degenesis.com/)
 57. [Shadow of The Demon Lord](https://schwalbentertainment.com/shadow-of-the-demon-lord/)
+58. [PbTA: Палеолит](https://www.drivethrurpg.com/product/322672/)
 
 
 ## То же самое, но из списка Дж. Харпера
