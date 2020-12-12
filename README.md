@@ -101,14 +101,6 @@
 
 С <http://romanticallyapocalyptic.com>, соответственно
 
-# Инвентарь для НРИ
-
-## Антуражно-винтажную монохромную колоду таро
-![](img/tarot_cards.jpg)
-
-В качестве оракулов и генератора случайностей.  
-[Есть на Etsy](https://www.etsy.com/ru/listing/166592386/gothic-tarot-deck-78-cards?ref=market)
-
 # Гаджеты и прочая техника  
 
 ## Sensu brush
@@ -148,17 +140,6 @@
 Небольшой гибкий тачпэд в дополнение к моим странным клавиатурам.
 
 [Покупать у производителя](http://www.ergonomictouchpad.com/ergonomic_touchpad.php)
-
-## mStand360 for laptop
-
-![](img/laptop_stand.jpg)
-
-[Например на Amazon](https://www.amazon.com/Rain-Design-10032-mStand-Laptop/dp/B000OOYECC/ref=nosim&tag=sweetsetup-20).
-
-## Mobee Technology Power Bar
-![](img/power_bar.jpg)
-
-Доступен [здесь](https://www.amazon.com/Mobee-Technology-Power-Bar-Rechargable/dp/B006W5FIJK/ref=sr_1_1?ie=UTF8).
 
 ## Педали для ПК
 ![](http://img.dxcdn.com/productimages/sku_56508_1.jpg)
