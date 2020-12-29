@@ -53,7 +53,7 @@
 47. [Dresden files](https://www.evilhat.com/home/dresden-files-rpg/)
 48. [Cryptomancer RPG](http://cryptorpg.com/)
 49. [Esoteric Enterprises RPG](https://drive.google.com/file/d/1-TNP-a4JHBtS7iJUZD9Amt5RunIPA-yX/view?usp=sharing)
-50. [English Eeie](https://www.drivethrurpg.com/product/225811/English-Eerie-Rural-Horror-Storytelling-Game-for-One-Player?src=also_purchased)
+50. [English Eerie](https://www.drivethrurpg.com/product/225811/English-Eerie-Rural-Horror-Storytelling-Game-for-One-Player?src=also_purchased)
 51. [City Planning Department](https://www.drivethrurpg.com/product/264075/City-Planning-Department?src=also_purchased)
 52. [Dont Walk in Winter Wood](https://www.drivethrurpg.com/product/104196/Dont-Walk-in-Winter-Wood?manufacturers_id=584)
 53. [Bards Doing Normal Things](https://awaywardwriter.itch.io/bards-doing-normal-things?fbclid=IwAR20l_p-EvkcOHV0gbY2xA4M5HdlW5rVrQE76EL7fbLL2xIB23O1ImWB37g)
