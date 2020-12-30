@@ -63,6 +63,7 @@
 57. [Shadow of The Demon Lord](https://schwalbentertainment.com/shadow-of-the-demon-lord/)
 58. [PbTA: Палеолит](https://www.drivethrurpg.com/product/322672/)
 59. [Mausritter](https://mausritter.com/)
+60. [PbTA: Злодеяние](https://indigogames.ru/shop/zlodeyanie-pdf/)
 
 
 ## То же самое, но из списка Дж. Харпера
