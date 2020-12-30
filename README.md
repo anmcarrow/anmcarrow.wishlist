@@ -16,7 +16,7 @@
 10. [Technoir](http://www.technoirrpg.com/)
 11. [Kult](http://kultdivinitylost.com/)
 12. [PbTA tremulus](https://realityblurs.com/shop/product/tremulus-hardcover-print-pdf/)
-13. [PbTA Monsterhearts](https://buriedwithoutceremony.com/monsterhearts/)
+13. [PbTA Monsterhearts](https://buriedwithoutceremony.com/monsterhearts/)'
 14. [PbTA Городские легенды](https://studio101.ru/ST1001)
 15. [PbTA Monsters of the week](http://www.evilhat.com/home/monster-of-the-week/)
 16. [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/)
@@ -62,6 +62,7 @@
 56. [Degenesis](https://degenesis.com/)
 57. [Shadow of The Demon Lord](https://schwalbentertainment.com/shadow-of-the-demon-lord/)
 58. [PbTA: Палеолит](https://www.drivethrurpg.com/product/322672/)
+59. [Mausritter](https://mausritter.com/)
 
 
 ## То же самое, но из списка Дж. Харпера
