@@ -107,6 +107,11 @@
 
 # Гаджеты и прочая техника  
 
+## Вещательная гарнитура Razer Ifrit
+![image](https://user-images.githubusercontent.com/968194/113412834-f26af880-93c1-11eb-85a9-bc5b584daf2d.png)
+
+Есть на https://www.razer.ru/ и Amazon
+
 ## Sensu brush
 ![](img/sensu.jpg)
 Такая вот кисточка для рисования по iPad-у.
