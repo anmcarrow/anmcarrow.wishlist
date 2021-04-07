@@ -107,10 +107,25 @@
 
 # Гаджеты и прочая техника  
 
+## Elgato stream deck (обычную или XL)
+![image](https://user-images.githubusercontent.com/968194/113795400-7a9c2580-9755-11eb-80b9-f35f8a5e9821.png)
+
+Есть [много где](https://market.yandex.ru/search?text=Elgato%20stream%20deck&cvredirect=2&cpa=0&onstock=0&local-offers-first=0)
+
 ## Вещательная гарнитура Razer Ifrit
 ![image](https://user-images.githubusercontent.com/968194/113412834-f26af880-93c1-11eb-85a9-bc5b584daf2d.png)
 
 Есть на https://www.razer.ru/ и Amazon
+
+## Компактная BT/USB клавиатура Motospeed ck62 bs
+![image](https://user-images.githubusercontent.com/968194/113795556-e3839d80-9755-11eb-9516-47673c71eeaf.png)
+
+В чёрном цвете. Есть [на Aliexpress](https://aliexpress.ru/item/32958185753.html), например.
+
+## USB3-карта видеозахвата для HDMI
+![image](https://user-images.githubusercontent.com/968194/113795770-4f660600-9756-11eb-9743-b544bd6907ae.png)
+
+Есть [много где и много какие](https://market.yandex.ru/catalog--videozakhvat/17444163/list?text=%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D0%B0%20hdmi&hid=17444162&suggest=2&rt=9&was_redir=1&srnum=236&rs=eJwzYgpgBAABcwCG)
 
 ## Sensu brush
 ![](img/sensu.jpg)
