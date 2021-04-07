@@ -117,6 +117,11 @@
 
 Есть на https://www.razer.ru/ и Amazon
 
+## Ну или AfterShokz OpenComm 
+![image](https://user-images.githubusercontent.com/968194/113945126-5fd9b780-980e-11eb-9a33-9e3336357c47.png)
+
+Есть [на оффсайте](https://us.aftershokz.com/products/opencomm) и [на Amazon](https://www.amazon.com/AfterShokz-Conduction-Noise-Canceling-Microphone-Commercial/dp/B08DW2SJCQ)
+
 ## Компактная BT/USB клавиатура Motospeed ck62 bs
 ![image](https://user-images.githubusercontent.com/968194/113795556-e3839d80-9755-11eb-9516-47673c71eeaf.png)
 
