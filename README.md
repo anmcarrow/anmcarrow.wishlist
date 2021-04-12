@@ -107,7 +107,7 @@
 
 # Гаджеты и прочая техника  
 
-## Электроотвёртка Xiaomi Mijia Wiha Electric
+## Электроотвёртка Xiaomi Mijia Wiha Electric 24-in-1
 ![image](https://user-images.githubusercontent.com/968194/114421235-c4ee2e00-9bbd-11eb-8f67-70081b999479.png)
 
 Есть [много где](https://market.yandex.ru/offer/a7ZDCU1PUhpUyHhEFCe4fg?lr=194&cpa=0&onstock=1)
