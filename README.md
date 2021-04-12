@@ -107,6 +107,11 @@
 
 # Гаджеты и прочая техника  
 
+## Электроотвёртка Xiaomi Mijia Wiha Electric
+![image](https://user-images.githubusercontent.com/968194/114421235-c4ee2e00-9bbd-11eb-8f67-70081b999479.png)
+
+Есть [много где](https://market.yandex.ru/offer/a7ZDCU1PUhpUyHhEFCe4fg?lr=194&cpa=0&onstock=1)
+
 ## Elgato stream deck (обычную или XL)
 ![image](https://user-images.githubusercontent.com/968194/113795400-7a9c2580-9755-11eb-80b9-f35f8a5e9821.png)
 
