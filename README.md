@@ -118,6 +118,11 @@
 Slim fit, XS/42-44/44, с кармашками под косточки в воротнике. 
 Ну или хоть подскажите, где такие взять...
 
+## Кожаная дорожная сумка
+![image](https://user-images.githubusercontent.com/968194/114938605-fb3ede00-9e47-11eb-91c3-f05bf03958d8.png)
+
+Например, [такая](https://www.wildberries.ru/catalog/8000522/detail.aspx?size=27368602) или [такая](https://www.wildberries.ru/catalog/14892824/detail.aspx?size=43758700). С кожаным же ремнём, без яркой контрасной или цветной прострочки.
+
 # Гаджеты и прочая техника  
 
 ## Электроотвёртка Xiaomi Mijia Wiha Electric 24-in-1
