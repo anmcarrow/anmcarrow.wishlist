@@ -150,6 +150,11 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 
 Есть [на оффсайте](https://us.aftershokz.com/products/opencomm) и [на Amazon](https://www.amazon.com/AfterShokz-Conduction-Noise-Canceling-Microphone-Commercial/dp/B08DW2SJCQ)
 
+## Ну или Plantronics Voyager Legend UC
+![image](https://user-images.githubusercontent.com/968194/115165671-ae613e80-a0b7-11eb-95fe-e3d80fb95a01.png)
+
+Например [отсюда](https://market.yandex.ru/product--kompiuternaia-garnitura-plantronics-voyager-legend-uc/9238351)
+
 ## Компактная BT/USB клавиатура Motospeed ck62 bs
 ![image](https://user-images.githubusercontent.com/968194/113795556-e3839d80-9755-11eb-9516-47673c71eeaf.png)
 
