@@ -126,6 +126,11 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 
 # Гаджеты и прочая техника  
 
+## Смазка для механической клавиатуры от Kryptox
+![image](https://user-images.githubusercontent.com/968194/115989275-47b3b780-a5c6-11eb-9dec-5163de7d5100.png)
+
+Например, [такая](https://geekboards.ru/product/smazka-krytox-205g2).
+
 ## Мини-popfilter от Samson
 ![image](https://user-images.githubusercontent.com/968194/115162812-3f331c80-a0ae-11eb-9920-538fabb8ca8c.png)
 
