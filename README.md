@@ -85,27 +85,6 @@
 
 - [Ещё есть на Zazzle.com](https://www.redbubble.com/shop/stickers+tabletop+rpg?cat_context=u-stationery&page=1&accordion=product)
 
-## Плакат-справочник от GLVRD.ru
-![](img/glvrd.jpg)
-
-[Покупается тут](http://printdirect.ru/storefront/shared_info/6613891?override_option=1091)
-
-## Постер "Through the gateway" от Palehorse
-![](img/kali_poster.jpg)
-
-[Вот отсюда](https://palehorse.myshopify.com/collections/prints/products/through-the-gateway-print)
-
-## Постер от "Manalanextdoor"
-![](img/manala-poster.png)
-
-[Вот отсюда](http://manalanextdoor.com/shop/manala-poster)
-
-## Постеры от romanticallyapocalyptic.com
-
-![](img/romac.jpg)
-
-С <http://romanticallyapocalyptic.com>, соответственно
-
 # Стиль
 
 ## Среднеценовые механические часы 
@@ -143,6 +122,8 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 
 ## Viozon Selfie Desktop Live Stand
 ![image](https://user-images.githubusercontent.com/968194/117597141-a859fd00-b14d-11eb-96df-45a6879cf70e.png)
+
+[Обзор и ссылки на доп. аксессуары](https://www.youtube.com/watch?v=xrWpkZix_sI)
 
 Есть [на Amazon](https://www.amazon.com/Viozon-Desktop-Microphone-competiable-Teaching/dp/B086W3L2XB/ref=as_li_ss_tl?ref_=ast_sto_dp&linkCode=sl1&tag=tecbri-20&linkId=0bde27c83a9f70ca1bc682f65f123908&language=en_US)
 
