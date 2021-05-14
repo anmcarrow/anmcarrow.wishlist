@@ -127,6 +127,10 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 
 Есть [на Amazon](https://www.amazon.com/Viozon-Desktop-Microphone-competiable-Teaching/dp/B086W3L2XB/ref=as_li_ss_tl?ref_=ast_sto_dp&linkCode=sl1&tag=tecbri-20&linkId=0bde27c83a9f70ca1bc682f65f123908&language=en_US)
 
+## Genovation CP48 USB Controlpad
+
+Есть [на Amazon](https://www.amazon.com/Genovation-CP48-USBHID-48KEY-CONTROLPAD-BLACK/dp/B00UH3E23G/ref=sr_1_4?dchild=1&keywords=Genovation&qid=1621025167&sr=8-4)
+
 ## Elgato stream deck (обычную или XL)
 ![image](https://user-images.githubusercontent.com/968194/113795400-7a9c2580-9755-11eb-80b9-f35f8a5e9821.png)
 
