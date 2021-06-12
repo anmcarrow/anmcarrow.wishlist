@@ -274,13 +274,6 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 
 [Есть на Amazon](https://www.amazon.com/Gorgoroth-Under-Sign-Hell-t-shirt/dp/B01H4LC5S2/ref=sr_1_43?ie=UTF8&qid=1487409843&sr=8-43&keywords=gorgoroth+tshirt)
 
-## Футболку с тонкими аллюзиями...
-![](img/hookups.jpg)
-
-...а точнее — вот с такой картинкой.
-
-[Есть, например, вот здесь](https://printio.ru/tees/150714)
-
 ## Множество отличных футболок с Zazzle.com
 ![](img/zazzle_tshirt.jpg)
 
