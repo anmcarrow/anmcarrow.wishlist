@@ -67,6 +67,7 @@
 61. [Cold City](https://www.drivethrurpg.com/product/20677/Cold-City-v11)
 62. [Let These Mermaids Touch Your Dick Maybe](https://riverhousegames.itch.io/let-these-mermaids-touch-your-dick-maybe)
 63. [The Zone](https://laughingkaiju.com/games/the-zone/)
+64. [Гусь-Хрустальный 2096](https://www.drivethrurpg.com/product/371634/-2096?manufacturers_id=19142)
 
 
 ## То же самое, но из списка Дж. Харпера
