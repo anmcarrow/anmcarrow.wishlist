@@ -64,7 +64,7 @@
 58. [PbTA: Палеолит](https://www.drivethrurpg.com/product/322672/)
 59. [Mausritter](https://mausritter.com/)
 60. [PbTA: Злодеяние](https://indigogames.ru/shop/zlodeyanie-pdf/)
-61. [Cold City](https://www.drivethrurpg.com/product/20677/Cold-City-v11)
+61. [Cold City](https://www.indiepressrevolution.com/xcart/Cold-City-PDF.html)
 62. [Let These Mermaids Touch Your Dick Maybe](https://riverhousegames.itch.io/let-these-mermaids-touch-your-dick-maybe)
 63. [The Zone](https://laughingkaiju.com/games/the-zone/)
 64. [Гусь-Хрустальный 2096](https://www.drivethrurpg.com/product/371634/-2096?manufacturers_id=19142)
