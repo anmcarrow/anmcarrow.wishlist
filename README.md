@@ -17,7 +17,7 @@
 11. [Kult](http://kultdivinitylost.com/)
 12. [PbTA tremulus](https://realityblurs.com/shop/product/tremulus-hardcover-print-pdf/)
 13. [PbTA Monsterhearts](https://buriedwithoutceremony.com/monsterhearts/)'
-14. [PbTA Городские легенды](https://studio101.ru/ST1001)
+14. [Mindjammer](https://mindjammerpress.com/mindjammer/)
 15. [PbTA Monsters of the week](http://www.evilhat.com/home/monster-of-the-week/)
 16. [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/)
 17. [The Mountain Witch](https://sites.google.com/site/mountainwitchrpg/)
@@ -25,7 +25,7 @@
 19. [All flesh must be eaten](http://www.allflesh.com/flesh.html)
 20. [Malifaux: Through The Breach](https://www.wyrd-games.net/through-the-breach/)
 21. [Ultima Forsan: Макабрическая Русь](https://studio101.ru/savageworlds/ultimaforsan/ST5702)
-22. [Hot guys making out](http://lavikandia.ru/sites/default/files/books/lgp.pdf)
+22. [Bulldogs!](https://www.drivethrurpg.com/product/94493/Bulldogs-d20-Edition)
 23. [S/Lay w/Me](http://adept-press.com/games-fantasy-horror/slay-wme/)
 24. [Delta Green](http://www.delta-green.com/)
 25. [Misspent Youth](http://misspentyouth.robertbohl.com/)
