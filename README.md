@@ -132,18 +132,10 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 
 Есть [много где](https://market.yandex.ru/search?text=Elgato%20stream%20deck&cvredirect=2&cpa=0&onstock=0&local-offers-first=0)
 
-## Вещательная гарнитура Razer Ifrit
-![image](https://user-images.githubusercontent.com/968194/113412834-f26af880-93c1-11eb-85a9-bc5b584daf2d.png)
-
-Есть на https://www.razer.ru/ и Amazon
-
-## Ну или AfterShokz OpenComm 
+## AfterShokz OpenComm 
 ![image](https://user-images.githubusercontent.com/968194/113945126-5fd9b780-980e-11eb-9a33-9e3336357c47.png)
 
 Есть [на оффсайте](https://us.aftershokz.com/products/opencomm) и [на Amazon](https://www.amazon.com/AfterShokz-Conduction-Noise-Canceling-Microphone-Commercial/dp/B08DW2SJCQ)
-
-## Ну или Plantronics Voyager Legend UC
-![image](https://user-images.githubusercontent.com/968194/115165671-ae613e80-a0b7-11eb-95fe-e3d80fb95a01.png)
 
 Например [отсюда](https://market.yandex.ru/product--kompiuternaia-garnitura-plantronics-voyager-legend-uc/9238351)
 
@@ -151,11 +143,6 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 ![image](https://user-images.githubusercontent.com/968194/113795556-e3839d80-9755-11eb-9516-47673c71eeaf.png)
 
 В чёрном цвете. Есть [на Aliexpress](https://aliexpress.ru/item/32958185753.html), например.
-
-## USB3-карта видеозахвата для HDMI
-![image](https://user-images.githubusercontent.com/968194/113795770-4f660600-9756-11eb-9743-b544bd6907ae.png)
-
-Есть [много где и много какие](https://market.yandex.ru/catalog--videozakhvat/17444163/list?text=%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D0%B0%20hdmi&hid=17444162&suggest=2&rt=9&was_redir=1&srnum=236&rs=eJwzYgpgBAABcwCG)
 
 ## Sensu brush
 ![](img/sensu.jpg)
