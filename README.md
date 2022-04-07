@@ -96,6 +96,12 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 
 # Гаджеты и прочая техника  
 
+
+## Azeron Keypad
+![image](https://user-images.githubusercontent.com/968194/162276982-a2e05c79-68b4-4899-a28b-bf9dfe35763e.png)
+
+Собственно [тут](https://www.azeron.eu/)
+
 ## Смазка для механической клавиатуры от Kryptox
 ![image](https://user-images.githubusercontent.com/968194/115989275-47b3b780-a5c6-11eb-9dec-5163de7d5100.png)
 
