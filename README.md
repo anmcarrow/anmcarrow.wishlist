@@ -68,6 +68,7 @@
 62. [Let These Mermaids Touch Your Dick Maybe](https://riverhousegames.itch.io/let-these-mermaids-touch-your-dick-maybe)
 63. [The Zone](https://laughingkaiju.com/games/the-zone/)
 64. [Гусь-Хрустальный 2096](https://www.drivethrurpg.com/product/371634/-2096?manufacturers_id=19142)
+65. [Space Bounty Blues](https://nerdypapergames.itch.io/sbb)
 
 
 ## То же самое, но из списка Дж. Харпера
