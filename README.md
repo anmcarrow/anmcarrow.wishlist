@@ -382,8 +382,3 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 ![](img/language_courses.jpg)
 
 [Продаются здесь.](https://school.skyeng.ru/gift/)
-
-## Массажёр Corden Yoga
-![](img/corden.jpg)
-
-[Например, тут.](https://www.corden.ru/corden-yoga)
