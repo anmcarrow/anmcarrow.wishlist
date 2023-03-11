@@ -313,6 +313,11 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 - <https://www.disturbia.co.uk/products/womens-new/nebula-sweatshirt>
 - <https://www.disturbia.co.uk/products/mens-new/Lightning-sweatshirt>
 
+## Мерч от fcknzs.co.uk
+![image](https://user-images.githubusercontent.com/968194/224489299-d751afc6-7502-4bad-af6f-a91a4a65658d.png)
+
+[Лонгслив](https://fcknzs.co.uk/product/antifa-iron-front-3-arrows-3-4-sleeve-raglan-shirt) или [свитшот](https://fcknzs.co.uk/product/fck-ptn-fuck-putin-unisex-organic-sweatshirt), например.
+
 ## Футболку «Fellowship of the dungeon», мужскую, размер «S»
 ![](img/fellow_tshirt.jpg)
 
