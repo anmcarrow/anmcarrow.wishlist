@@ -76,24 +76,20 @@
 
 [Вот тут этот список](https://docs.google.com/document/d/1DPUbBT35AfH3GdwNQgge3zDQE5Bz3HNSUnvCc6mF1mc/edit)
 
+## Ну и настолки
+1. [Exploding Kittens](https://www.explodingkittens.com/)
+2. [Cards Against Humanity](https://www.cardsagainsthumanity.com/)
+
 # Декор
 
 ## Всеразличные настольно-ролевые наклейки
 ![](img/rpg_sticker.jpg)
 
-Не обязательно на русском. Не брендированные. Забавные.
+Не обязательно, на русском. Не брендированные. Забавные.
 
 [Например, с Redbubble](https://www.redbubble.com/shop/dnd+stickers?cat_context=u-stationery&page=1&accordion=product)
 
 - [Ещё есть на Zazzle.com](https://www.redbubble.com/shop/stickers+tabletop+rpg?cat_context=u-stationery&page=1&accordion=product)
-
-# Стиль
-
-## Классические белые сорочки
-![image](https://user-images.githubusercontent.com/968194/114934308-6a193880-9e42-11eb-9265-59b5a796e9f8.png)
-
-Slim fit, XS/42-44/44, с кармашками под косточки в воротнике. 
-Ну или хоть подскажите, где такие взять...
 
 # Гаджеты и прочая техника  
 
@@ -132,7 +128,7 @@ Slim fit, XS/42-44/44, с кармашками под косточки в вор
 ## 8Bitdo Wireless Bluetooth USB Adapter
 ![image](https://user-images.githubusercontent.com/968194/128595007-cae86e7b-b0fc-4324-8232-3324f84a755d.png)
 
-Например, [с оффициального сайта](https://shop.8bitdo.com/products/8bitdo-wireless-bluetooth-adapter-for-nintendo-switch-windows-mac-raspberry-pi).
+Например, [с официального сайта](https://shop.8bitdo.com/products/8bitdo-wireless-bluetooth-adapter-for-nintendo-switch-windows-mac-raspberry-pi).
 
 ## Genovation CP48 USB Controlpad
 
