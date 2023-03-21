@@ -207,11 +207,6 @@
 
 ### Не гаджеты, но тем не менее
 
-#### Подарочные карты App Store. Всегда актуально (я ведь покупаю софт и всё такое).
-
-![iPay](img/itunes_card.jpg)
-
-
 #### Что угодно из моего "wishlist" на Steam.
 
 ![Just Steam it](img/steam_pony.png)
@@ -261,6 +256,11 @@
 
 # Футболки
 <small>**Примечание:** Все нижеперечисленные футболки также актуальны в виде «longsleeve» (с длинным рукавом), если такая опция вообще доступна на сайте магазина.</small>
+
+## Футболку "Antisocial media"
+![image](https://user-images.githubusercontent.com/968194/226492327-3de38b0c-84cf-4828-a447-74c8d428a138.png)
+
+[Есть на Bonfire](https://www.bonfire.com/one-million-dead-birdsites/)
 
 ## Любую футболку от Shiroi Neko, мужскую, размера «S»
 ![Nya, desu!](img/shiroi_neko.jpg)
