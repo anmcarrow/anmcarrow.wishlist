@@ -257,6 +257,11 @@
 # Футболки
 <small>**Примечание:** Все нижеперечисленные футболки также актуальны в виде «longsleeve» (с длинным рукавом), если такая опция вообще доступна на сайте магазина.</small>
 
+## Футболку "Дёшево и сердито"
+![image](https://user-images.githubusercontent.com/968194/227749509-c0f8ab91-5129-45f9-b470-78045bcfbd89.png)
+
+[Например, отсюда](https://hiphoptochka.com/YUG_Deshevo_y_Serdito_tee_ru)
+
 ## Футболку "Antisocial media"
 ![image](https://user-images.githubusercontent.com/968194/226492327-3de38b0c-84cf-4828-a447-74c8d428a138.png)
 
