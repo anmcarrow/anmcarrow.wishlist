@@ -67,6 +67,7 @@
 63. [The Zone](https://laughingkaiju.com/games/the-zone/)
 64. [Гусь-Хрустальный 2096](https://www.drivethrurpg.com/product/371634/-2096?manufacturers_id=19142)
 65. [Space Bounty Blues](https://nerdypapergames.itch.io/sbb)
+66. [The company RPG](https://mega-corp.itch.io/the-company) и, в особенности [Project Ricochet](https://meatcastlegameware.itch.io/project-ricochet)
 
 
 ## То же самое, но из списка Дж. Харпера
