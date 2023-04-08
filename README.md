@@ -14,7 +14,7 @@
 8. [Red Markets](https://www.drivethrurpg.com/product/226794/Red-Markets-A-Game-of-Economic-Horror?src=also_purchased)
 9. [HeroQuest](https://www.chaosium.com/heroquest/)
 10. [Technoir](http://www.technoirrpg.com/)
-11. [Kult](http://kultdivinitylost.com/)
+11. [The company RPG](https://mega-corp.itch.io/the-company) и, в особенности [Project Ricochet](https://meatcastlegameware.itch.io/project-ricochet)
 12. [PbTA tremulus](https://realityblurs.com/shop/product/tremulus-hardcover-print-pdf/)
 14. [Mindjammer](https://mindjammerpress.com/mindjammer/)
 15. [PbTA Monsters of the week](http://www.evilhat.com/home/monster-of-the-week/)
@@ -67,7 +67,6 @@
 63. [The Zone](https://laughingkaiju.com/games/the-zone/)
 64. [Гусь-Хрустальный 2096](https://www.drivethrurpg.com/product/371634/-2096?manufacturers_id=19142)
 65. [Space Bounty Blues](https://nerdypapergames.itch.io/sbb)
-66. [The company RPG](https://mega-corp.itch.io/the-company) и, в особенности [Project Ricochet](https://meatcastlegameware.itch.io/project-ricochet)
 
 
 ## То же самое, но из списка Дж. Харпера
