@@ -101,7 +101,7 @@
 95. [The World Wide Wrestrling RPG](https://ndpdesign.com/wwwrpg)
 96. [Contenders](https://www.drivethrurpg.com/product/20233/Contenders)
 97.  [Geiger Counter](http://www.jwalton.media/geiger)
-98.  [Beast Friends](https://www.drivethrurpg.com/product/20630/Best-Friends)
+98.  [Best Friends](https://www.drivethrurpg.com/product/20630/Best-Friends)
 
 
 ## Ну и настолки
