@@ -104,11 +104,6 @@
 98.  [Beast Friends](https://www.drivethrurpg.com/product/20630/Best-Friends)
 
 
-## То же самое, но из списка Дж. Харпера
-![](img/harper.jpg)
-
-[Вот тут этот список](https://docs.google.com/document/d/1DPUbBT35AfH3GdwNQgge3zDQE5Bz3HNSUnvCc6mF1mc/edit)
-
 ## Ну и настолки
 1. [Exploding Kittens](https://www.explodingkittens.com/)
 2. [Cards Against Humanity](https://www.cardsagainsthumanity.com/)
