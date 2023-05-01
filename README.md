@@ -18,7 +18,7 @@
 12. [PbTA tremulus](https://realityblurs.com/shop/product/tremulus-hardcover-print-pdf/)
 14. [Mindjammer](https://mindjammerpress.com/mindjammer/)
 15. [PbTA Monsters of the week](http://www.evilhat.com/home/monster-of-the-week/)
-16. [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/)
+16. [Space Bounty Blues](https://nerdypapergames.itch.io/sbb)
 17. [The Mountain Witch](https://sites.google.com/site/mountainwitchrpg/)
 18. [Root RPG](https://www.magpiegames.com/category/root-rpg/)
 19. [All flesh must be eaten](http://www.allflesh.com/flesh.html)
@@ -66,7 +66,6 @@
 62. [Let These Mermaids Touch Your Dick Maybe](https://riverhousegames.itch.io/let-these-mermaids-touch-your-dick-maybe)
 63. [The Zone](https://laughingkaiju.com/games/the-zone/)
 64. [Гусь-Хрустальный 2096](https://www.drivethrurpg.com/product/371634/-2096?manufacturers_id=19142)
-65. [Space Bounty Blues](https://nerdypapergames.itch.io/sbb)
 
 
 ## То же самое, но из списка Дж. Харпера
