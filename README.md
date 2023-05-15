@@ -5,7 +5,7 @@
 Игровая встреча или короткая, в пределах пяти встреч, сюжетная кампания по любой системе правил для НРИ из ниже приведённого списка.
 
 <details>
-  <summary>Аж 98 пунктов совершенно проклятого списка...</summary>
+  <summary><em>Щёлкните, чтобы развернуть список...</em></summary>
 
 1. [Ars Magica](http://www.atlas-games.com/arm5/)
 2. [FFG SW: Edge of Empire](https://www.fantasyflightgames.com/en/products/star-wars-edge-of-the-empire/)
