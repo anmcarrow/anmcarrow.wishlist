@@ -4,6 +4,8 @@
 
 Игровая встреча или короткая сюжетная кампания по любой системе правил для НРИ из списка:
 
+<details>
+  <summary>Совершенно проклятый список...</summary>
 1. [Ars Magica](http://www.atlas-games.com/arm5/)
 2. [FFG SW: Edge of Empire](https://www.fantasyflightgames.com/en/products/star-wars-edge-of-the-empire/)
 3. [FFG WH40k: Only War](https://www.fantasyflightgames.com/en/products/only-war/)
@@ -102,7 +104,7 @@
 96. [Contenders](https://www.drivethrurpg.com/product/20233/Contenders)
 97.  [Geiger Counter](http://www.jwalton.media/geiger)
 98.  [Best Friends](https://www.drivethrurpg.com/product/20630/Best-Friends)
-
+</details>
 
 ## Ну и настолки
 1. [Exploding Kittens](https://www.explodingkittens.com/)
