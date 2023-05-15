@@ -1,11 +1,11 @@
 
-# Новый игровой опыт
+# Новый настолльно-ролевой опыт
 ![](img/new_experience.jpg)
 
-Игровая встреча или короткая сюжетная кампания по любой системе правил для НРИ из списка:
+Игровая встреча или короткая сюжетная кампания по любой системе правил для НРИ из ниже приведённого списка.
 
 <details>
-  <summary>Совершенно проклятый список...</summary>
+  <summary>Ну совершенно проклятый список...</summary>
 1. [Ars Magica](http://www.atlas-games.com/arm5/)
 2. [FFG SW: Edge of Empire](https://www.fantasyflightgames.com/en/products/star-wars-edge-of-the-empire/)
 3. [FFG WH40k: Only War](https://www.fantasyflightgames.com/en/products/only-war/)
