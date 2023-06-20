@@ -383,11 +383,6 @@
 
 [Покупать здесь](https://www.hexflex.com/shop/?v=f24485ae434a)
 
-## Точилка карманная Lansky Quadsharp (QSHARP)
-![](img/qsharp.jpg)
-
-Есть [много где](https://market.yandex.ru/search?cvredirect=2&text=%20Lansky%20Quadsharp%20(QSHARP)&local-offers-first=0&deliveryincluded=0&onstock=0)
-
 ## Камень для точильной системы Lansky ультра тонкий (S1000)
 ![Весчь!](img/s1000.jpg)
 
