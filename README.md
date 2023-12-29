@@ -337,7 +337,6 @@
 
 ## Штуки от Rogue + Wolf
 
-- <https://rogueandwolf.com/collections/show-me-everything/products/witch-cauldron-mug>
 - <https://rogueandwolf.com/collections/show-me-everything/products/crystal-queen-long-sleeve-tee-men>
 
 ## Штуки от Disturbia
@@ -370,11 +369,6 @@
 [Купить тут](http://shirt.woot.com/offers/cubicles-and-coworkers?ref=cnt_ctlg_dgn_2)
 
 # Кухня  
-
-## Фартук
-![IKEA Gunsig](img/ikea_gunstig.jpg)
-
-[IKEA Гунстиг из серии "365+"](http://www.ikea.com/ru/ru/catalog/products/60182115/)  
 
 # DIY  
 
