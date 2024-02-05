@@ -169,6 +169,11 @@
 
 Есть [на оффсайте](https://www.xencelabs.com/store/accessories/xencelabs-quick-keys-remote)
 
+## Педали для ПК от Kinesis-Ergo
+![image](https://github.com/anmcarrow/anmcarrow.wishlist/assets/968194/61f36633-42dd-4e6e-8191-d255d07bb026)
+
+Есть [на офсайте](https://kinesis-ergo.com/shop/savant-elite2-triple-pedal/)
+
 ## Elgato stream deck (обычную или XL)
 ![image](https://user-images.githubusercontent.com/968194/113795400-7a9c2580-9755-11eb-80b9-f35f8a5e9821.png)
 
