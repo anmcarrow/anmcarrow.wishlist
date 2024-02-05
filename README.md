@@ -164,6 +164,11 @@
 
 Есть [на Amazon](https://www.amazon.com/Genovation-CP48-USBHID-48KEY-CONTROLPAD-BLACK/dp/B00UH3E23G/ref=sr_1_4?dchild=1&keywords=Genovation&qid=1621025167&sr=8-4)
 
+## Qisk keys block by Xencelabs
+![image](https://github.com/anmcarrow/anmcarrow.wishlist/assets/968194/60fd400a-ea13-42bb-a25b-ab5606bc02c0)
+
+Есть [на оффсайте](https://www.xencelabs.com/store/accessories/xencelabs-quick-keys-remote)
+
 ## Elgato stream deck (обычную или XL)
 ![image](https://user-images.githubusercontent.com/968194/113795400-7a9c2580-9755-11eb-80b9-f35f8a5e9821.png)
 
