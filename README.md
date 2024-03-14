@@ -196,12 +196,6 @@
 
 В чёрном цвете. Есть [на Aliexpress](https://aliexpress.ru/item/32958185753.html), например.
 
-## Sensu brush
-![](img/sensu.jpg)
-Такая вот кисточка для рисования по iPad-у.
-
-[Есть на Amazon](https://www.amazon.com/Sensu-Stylus-Brush-Tablets-creative/dp/B00BZFXXRG/)
-
 ## Apple iPod nano 3 Black
 ![](img/ipod.jpg)
 
