@@ -15,7 +15,7 @@
 6. [Eclipse Phase](http://www.eclipsephase.com/)
 7. [Red Markets](https://www.drivethrurpg.com/product/226794/Red-Markets-A-Game-of-Economic-Horror?src=also_purchased)
 8. [HeroQuest](https://www.chaosium.com/heroquest/)
-9.  [Technoir](http://www.technoirrpg.com/)
+9. [Technoir](http://www.technoirrpg.com/)
 10. [The company RPG](https://mega-corp.itch.io/the-company) и, в особенности [Project Ricochet](https://meatcastlegameware.itch.io/project-ricochet)
 11. [PbTA tremulus](https://realityblurs.com/shop/product/tremulus-hardcover-print-pdf/)
 12. [Mindjammer](https://mindjammerpress.com/mindjammer/)
@@ -28,9 +28,9 @@
 19. [Ultima Forsan: Макабрическая Русь](https://studio101.ru/savageworlds/ultimaforsan/ST5702)
 20. [Bulldogs!](https://www.drivethrurpg.com/product/94493/Bulldogs-d20-Edition)
 21. [S/Lay w/Me](http://adept-press.com/games-fantasy-horror/slay-wme/)
-22. [Alice is missing](https://www.huntersentertainment.com/alice-is-missing)
+22. [Geiger Counter](http://www.jwalton.media/geiger)
 23. [Misspent Youth](http://misspentyouth.robertbohl.com/)
-24. [Driftwood Verses](https://www.kickstarter.com/projects/464014331/the-driftwood-verses)
+24. [Contenders](https://www.drivethrurpg.com/product/20233/Contenders)
 25. [The Sword, the Crown and the Unspeakable Power](https://www.drivethrurpg.com/product/239692/The-Sword-The-Crown-and-The-Unspeakable-Power))
 26. [Night’s Black Agents](http://site.pelgranepress.com/index.php/nights-black-agents/)
 27. [Conspiracy X](http://www.edenstudios.net/conspiracyx.html)
@@ -86,29 +86,25 @@
 77. [Microscope](https://lamemage.itch.io/microscope)
 78. [A Spark in Fate Core](https://www.drivethrurpg.com/product/117868/A-Spark-in-Fate-Core)
 79. [Monmtsegur 1244](https://www.drivethrurpg.com/product/429235/Montsegur-1244)
-80. [Mutant Year Zero](https://freeleaguepublishing.com/en/games/mutant-year-zero/)
+80. [The World Wide Wrestrling RPG](https://ndpdesign.com/wwwrpg)
 81. [The Mustang](http://www.onesevendesign.com/mustang/)
 82. [Night Witches](https://bullypulpitgames.com/products/night-witches)
 83. [Poison'd](https://www.nobleknight.com/P/2147389135/Poisond---A-Pirate-RPG)
 84. [Under Hollow Hills](https://www.drivethrurpg.com/product/381079/Under-Hollow-Hills?manufacturers_id=3701)
 85. [Polaris RPG](https://www.drivethrurpg.com/product/184944/POLARIS-RPG--Core-Rulebook-1--ENGLISH)
 86. [PSI*RUN](https://lumpley.itch.io/psirun)
-87. [Scum and Villainy](https://evilhat.com/product/scum-and-villainy/)
+87. [Trollbabe](https://www.nobleknight.com/P/2147528017/Trollbabe)
 88. [Tha Shab-al-Hiri Roach](https://bullypulpitgames.com/products/roach)
 89. [The Shadow of Yesterday](https://mattmachell.github.io/minimum-viable-ebook/examples/tsoy/index.html)
 90. [Shooting in Tha Moon](http://www.blackgreengames.com/shop/shooting-the-moon-pdf)
 91. [Steal Away Jordan](https://www.indiepressrevolution.com/xcart/Steal-Away-Jordan-PDF.html)
 92. [Swords Without Master](https://www.worldswithoutmaster.com/swords-without-master-about)
 93. [Thou Art But A Warrior](https://www.drivethrurpg.com/product/142220/Thou-Art-But-A-Warrior)
-94. [Trollbabe](https://www.nobleknight.com/P/2147528017/Trollbabe)
-95. [The World Wide Wrestrling RPG](https://ndpdesign.com/wwwrpg)
-96. [Contenders](https://www.drivethrurpg.com/product/20233/Contenders)
-97.  [Geiger Counter](http://www.jwalton.media/geiger)
 </details>
 
 ## Ну и настолки
 1. [Exploding Kittens](https://www.explodingkittens.com/)
-~~2. [Cards Against Humanity](https://www.cardsagainsthumanity.com/)~~
+2. ~~[Cards Against Humanity](https://www.cardsagainsthumanity.com/)~~
 
 # Декор
 
