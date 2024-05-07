@@ -108,7 +108,7 @@
 
 ## Ну и настолки
 1. [Exploding Kittens](https://www.explodingkittens.com/)
-2. [Cards Against Humanity](https://www.cardsagainsthumanity.com/)
+~~2. [Cards Against Humanity](https://www.cardsagainsthumanity.com/)~~
 
 # Декор
 
