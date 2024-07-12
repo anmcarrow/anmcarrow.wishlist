@@ -61,7 +61,7 @@
 52. [Dark Ages: Fae](https://www.drivethrurpg.com/product/710/Dark-Ages-Fae)
 53. [Degenesis](https://degenesis.com/)
 54. [Shadow of The Demon Lord](https://schwalbentertainment.com/shadow-of-the-demon-lord/)
-55. [PbTA: Палеолит](https://www.drivethrurpg.com/product/322672/)
+55. [Brindlewood Bay](https://www.gauntlet-rpg.com/brindlewood-bay.html)
 56. [Mausritter](https://mausritter.com/)
 57. [PbTA: Злодеяние](https://indigogames.ru/shop/zlodeyanie-pdf/)
 58. [Cold City](https://www.indiepressrevolution.com/xcart/Cold-City-PDF.html)
