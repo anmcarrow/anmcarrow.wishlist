@@ -294,6 +294,10 @@
 # Футболки
 <small>**Примечание:** Все нижеперечисленные футболки также актуальны в виде «longsleeve» (с длинным рукавом), если такая опция вообще доступна на сайте магазина.</small>
 
+## Футболки от Comrade Dmitry
+![image](https://github.com/user-attachments/assets/20c35d5d-347f-42d3-8157-4d790eb1049d)
+[Отсюда]([url](https://sharkrobot.com/products/flick-the-bean?_pos=2&_sid=48ac710cb&_ss=r)) и [отсюда]([url](https://sharkrobot.com/products/comrade?_pos=1&_sid=efd74d7eb&_ss=r)).
+
 ## Футболку "Дёшево и сердито"
 ![image](https://user-images.githubusercontent.com/968194/227749509-c0f8ab91-5129-45f9-b470-78045bcfbd89.png)
 
