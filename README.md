@@ -100,6 +100,7 @@
 91. [Steal Away Jordan](https://www.indiepressrevolution.com/xcart/Steal-Away-Jordan-PDF.html)
 92. [Swords Without Master](https://www.worldswithoutmaster.com/swords-without-master-about)
 93. [Thou Art But A Warrior](https://www.drivethrurpg.com/product/142220/Thou-Art-But-A-Warrior)
+94. [Cobwebs TTRPG]([url](https://worldchampgameco.itch.io/cobwebs))
 </details>
 
 ## Ну и настолки
