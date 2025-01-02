@@ -387,11 +387,6 @@
 
 [Покупать здесь](https://www.hexflex.com/shop/?v=f24485ae434a)
 
-## Камень для точильной системы Lansky ультра тонкий (S1000)
-![Весчь!](img/s1000.jpg)
-
-Тоже [много где](https://market.yandex.ru/catalog/68155/list?text=Lansky%20s1000&hid=14246003&rt=11&was_redir=1&rs=eJwzileS5uLxScwrzq5UKDY0MDAQOPboIbMSCweDAJsGg5EDlx0XL8eqI6wCTBIMqvfuLN0H5B4BcpmBXN1wuf1cfBwLtuxnFmAE8pP_PN0L5H8-8JRNgEGCXTX22Q57AOE3G5k%2C&glfilter=7893318%3A12184754&local-offers-first=0&deliveryincluded=0&onstock=0)
-
 ## Камень для точильной системы Lansky ультра-ультра тонкий (LS2000)
 ![Весчь!](img/ls2000.jpg)
 
