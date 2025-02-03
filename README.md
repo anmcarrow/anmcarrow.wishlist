@@ -4,8 +4,8 @@
 
 Игровая встреча или короткая, в пределах пяти встреч, сюжетная кампания по любой системе правил для НРИ из ниже приведённого списка.
 
-<details>
-  <summary><em>Щёлкните, чтобы развернуть список...</em></summary>
+<details
+  <summary><em>Щёлкните, чтобы развернуть список...</em></summary
 
 1. [Ars Magica](http://www.atlas-games.com/arm5/)
 2. [FFG SW: Edge of Empire](https://www.fantasyflightgames.com/en/products/star-wars-edge-of-the-empire/)
@@ -102,7 +102,7 @@
 93. [Thou Art But A Warrior](https://www.drivethrurpg.com/product/142220/Thou-Art-But-A-Warrior)
 94. [Cobwebs TTRPG]([url](https://worldchampgameco.itch.io/cobwebs))
 95. [Sleepaway]([url](https://possumcreekgames.itch.io/sleepaway))
-</details>
+</details
 
 ## Ну и настолки
 1. [Exploding Kittens](https://www.explodingkittens.com/)
@@ -261,27 +261,27 @@
 
 ## И другие штуки от Killstar тоже
 
-- <https://us.killstar.com/products/seven-knit-sweater-black>
-- <https://us.killstar.com/products/hayzel-velvet-leggings>
-- <https://us.killstar.com/products/hecate-slouch-socks>
-- <https://us.killstar.com/products/matrix-pull-over-hoodie>
-- <https://us.killstar.com/products/goddess-long-sleeve-top>
-- <https://us.killstar.com/products/nicole-fishnet-bodycon-dress-b>
-- <https://us.killstar.com/products/last-rites-fringe-kimono>
-- <https://us.killstar.com/products/fight-like-a-witch-relaxed-top-b>
-- <https://us.killstar.com/products/karma-handbag>
-- <https://us.killstar.com/products/playtime-relaxed-top>
-- <https://us.killstar.com/products/karma-sweater-dress>
-- <https://us.killstar.com/products/space-kitty-sunglasses-purple>
-- <https://us.killstar.com/products/black-sun-raglan-top-b>
-- <https://us.killstar.com/products/saiph-burnout-velvet-leggings-wine>
-- <https://us.killstar.com/products/saiph-burnout-velvet-leggings-b>
-- <https://us.killstar.com/products/duchess-leggings>
-- <https://us.killstar.com/products/book-of-shadows-handbag-b>
-- <https://us.killstar.com/products/never-surrender-long-sleeve-top>
-- <https://us.killstar.com/products/trashed-fishnet-long-sleeve-top-b>
-- <https://us.killstar.com/products/cult-ritual-hoodie-b>
-- <https://us.killstar.com/products/bloodlust-trousers-b>
+- https://us.killstar.com/products/seven-knit-sweater-black
+- https://us.killstar.com/products/hayzel-velvet-leggings
+- https://us.killstar.com/products/hecate-slouch-socks
+- ~~https://us.killstar.com/products/matrix-pull-over-hoodie~~
+- ~~https://us.killstar.com/products/goddess-long-sleeve-top~~
+- https://us.killstar.com/products/nicole-fishnet-bodycon-dress-b
+- https://us.killstar.com/products/last-rites-fringe-kimono
+- https://us.killstar.com/products/fight-like-a-witch-relaxed-top-b
+- https://us.killstar.com/products/karma-handbag
+- https://us.killstar.com/products/playtime-relaxed-top
+- https://us.killstar.com/products/karma-sweater-dress
+- ~~https://us.killstar.com/products/space-kitty-sunglasses-purple~~
+- https://us.killstar.com/products/black-sun-raglan-top-b
+- https://us.killstar.com/products/saiph-burnout-velvet-leggings-wine
+- https://us.killstar.com/products/saiph-burnout-velvet-leggings-b
+- https://us.killstar.com/products/duchess-leggings
+- https://us.killstar.com/products/book-of-shadows-handbag-b
+- https://us.killstar.com/products/never-surrender-long-sleeve-top
+- https://us.killstar.com/products/trashed-fishnet-long-sleeve-top-b
+- https://us.killstar.com/products/cult-ritual-hoodie-b
+- ~~https://us.killstar.com/products/bloodlust-trousers-b~~
 
 ## Ну и вообще всякое от Killstar
 -  https://us.killstar.com/collections/mens-clearance-tops/products/voodoo-sweatshirt-b
@@ -294,7 +294,7 @@
 Кулон с цепочкой ["ICP Hatchet man"](https://www.amazon.com/dp/B01ACRI4EO/ref=cm_wl_huc_continue).
 
 # Футболки
-<small>**Примечание:** Все нижеперечисленные футболки также актуальны в виде «longsleeve» (с длинным рукавом), если такая опция вообще доступна на сайте магазина.</small>
+<small>**Примечание:** Все нижеперечисленные футболки также актуальны в виде «longsleeve» (с длинным рукавом), если такая опция вообще доступна на сайте магазина.</small
 
 ## Футболки от Comrade Dmitry
 ![image](https://github.com/user-attachments/assets/20c35d5d-347f-42d3-8157-4d790eb1049d)
@@ -323,31 +323,31 @@
 ## Множество отличных футболок с Zazzle.com
 ![](img/zazzle_tshirt.jpg)
 
-- <https://www.zazzle.com/kali_t_shirt-235854008983640786>
-- <https://www.zazzle.com/miskatonic_university_t_shirt-235430999754366098>
-- <https://www.zazzle.com/cthulhu_caution_t_shirt-235279601253633822>
-- <https://www.zazzle.com/postmodern_summoning_t_shirt-235066430517886001>
-- <https://www.zazzle.com/cthulhu_t_shirt-235622896783733667>
-- <https://www.zazzle.com/mythos_elder_thing_old_one_t_shirt-235357922211266197>
-- <https://www.zazzle.com/necronomicon_bleached_talk_t_shirt-235202178165633197>
-- <https://www.zazzle.com/necronomicon_bleached_cream_white_t_shirt-235912579871673448>
-- <https://www.zazzle.com/miskatonic_university_antarctic_expedition_t_shirt-235409043430069889>
-- <https://www.zazzle.com/rebis_t_shirt-235996081230660655>
-- <https://www.zazzle.com/hekate_dark_t_shirt-235987445013351217>
-- <https://www.zazzle.com/outlandish_esoteric_t_shirt-235590697409030175>
-- <https://www.zazzle.com/esoteric_order_of_dagon_symbol_t_shirt-235945264151439389>
-- <https://www.zazzle.com/relalize_real_lies_t_shirt-235496062662316468>
-- <https://www.zazzle.com/have_you_found_the_yellow_sign_symbol_on_back_t_shirt-235025547363056946>
-- <https://www.zazzle.com/game_master_power_corrupts_t_shirt-235406111502626734>
-- <https://www.zazzle.com/game_masters_do_it_on_the_table_t_shirt-235819707247425341>
-- <https://www.zazzle.com/real_gamers_white_t_shirt-235587120282723336>
-- <https://www.zazzle.com/occasional_evil_t_shirt-235598518120508269>
-- <https://www.zazzle.com/osr_dark_edition_t_shirt-235056116775382095>
-- <https://www.zazzle.com/isometric_osr_t_shirt-235653562529271801>
+- ~~https://www.zazzle.com/kali_t_shirt-235854008983640786~~
+- ~~https://www.zazzle.com/miskatonic_university_t_shirt-235430999754366098~~
+- ~~https://www.zazzle.com/cthulhu_caution_t_shirt-235279601253633822~~
+- ~~https://www.zazzle.com/postmodern_summoning_t_shirt-235066430517886001~~
+- ~~https://www.zazzle.com/cthulhu_t_shirt-235622896783733667~~
+- ~~https://www.zazzle.com/mythos_elder_thing_old_one_t_shirt-235357922211266197~~
+- ~~https://www.zazzle.com/necronomicon_bleached_talk_t_shirt-235202178165633197~~
+- ~~https://www.zazzle.com/necronomicon_bleached_cream_white_t_shirt-235912579871673448~~
+- ~~https://www.zazzle.com/miskatonic_university_antarctic_expedition_t_shirt-235409043430069889~~
+- ~~https://www.zazzle.com/rebis_t_shirt-235996081230660655~~
+- ~~https://www.zazzle.com/hekate_dark_t_shirt-235987445013351217~~
+- ~~https://www.zazzle.com/outlandish_esoteric_t_shirt-235590697409030175~~
+- ~~https://www.zazzle.com/esoteric_order_of_dagon_symbol_t_shirt-235945264151439389~~
+- ~~https://www.zazzle.com/relalize_real_lies_t_shirt-235496062662316468~~
+- ~~https://www.zazzle.com/have_you_found_the_yellow_sign_symbol_on_back_t_shirt-235025547363056946~~
+- ~~https://www.zazzle.com/game_master_power_corrupts_t_shirt-235406111502626734~~
+- ~~https://www.zazzle.com/game_masters_do_it_on_the_table_t_shirt-235819707247425341~~
+- ~~https://www.zazzle.com/real_gamers_white_t_shirt-235587120282723336~~
+- ~~https://www.zazzle.com/occasional_evil_t_shirt-235598518120508269~~
+- ~~https://www.zazzle.com/osr_dark_edition_t_shirt-235056116775382095~~
+- ~~https://www.zazzle.com/isometric_osr_t_shirt-235653562529271801~~
 
 ## Штуки от Rogue + Wolf
 
-- <https://rogueandwolf.com/collections/show-me-everything/products/crystal-queen-long-sleeve-tee-men>
+- ~~https://rogueandwolf.com/collections/show-me-everything/products/crystal-queen-long-sleeve-tee-men~~
 
 ## Штуки от Disturbia
 
