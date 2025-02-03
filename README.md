@@ -198,7 +198,8 @@
 
 
 ## Педали для ПК
-![](http://img.dxcdn.com/productimages/sku_56508_1.jpg)
+![image](https://github.com/user-attachments/assets/4d42f4f4-f8ae-4506-87be-5607e8a3ee9a)
+
 
 > "For those who use computer in alternative ways."©
 
