@@ -371,7 +371,7 @@
 
 ## Футболку «Dragon of few words», мужскую, серого цвета, размер «S»
 ![](img/dragon_words.jpg)
-[Купить тут](http://www.welovefine.com/t-shirts-425-434/dragon-of-few-words-10325/sort/p.sort_order.html?order=DESC)
+[Купить тут](~~http://www.welovefine.com/t-shirts-425-434/dragon-of-few-words-10325/sort/p.sort_order.html?order=DESC~~)
 
 ## Футболку «Cubicles & Coworkers», мужскую, серого цвета, размер «S»
 ![](img/cubicles_and_coworkers.png)
@@ -392,15 +392,6 @@
 
 Есть [на Rezat.ru](http://rezat.ru/instrumenty_dlja_zatochki/komplektujushchie_k_tochilkam/kamen_keramicheskij_dlja_tochil_nogo_nabora_lansky_super_sapphire_polishing_grit_s2000)
 
-## Полировочный брусок для точильной системы Lansky
-![Весчь!](img/lansky_leather.jpg)
-
-Есть [Rezat.ru](http://rezat.ru/instrumenty_dlja_zatochki/komplektujushchie_k_tochilkam/kamen_polirovochnyj_kozha_dlja_tochil_nogo_nabora_lansky_hstrop)
-
-## Универсальный стенд для точильной системы Lansky
-![Весчь!](img/lansky_stand.jpg)
-
-Есть [на Rezat.ru](http://rezat.ru/instrumenty_dlja_zatochki/komplektujushchie_k_tochilkam/p_edestal_dlja_zatochnyh_sistem_lansky_lm009)
 
 # Прочее
 
