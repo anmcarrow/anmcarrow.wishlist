@@ -351,8 +351,8 @@
 
 ## Штуки от Disturbia
 
-- <https://www.disturbia.co.uk/products/womens-new/nebula-sweatshirt>
-- <https://www.disturbia.co.uk/products/mens-new/Lightning-sweatshirt>
+- https://www.disturbia.co.uk/products/womens-new/nebula-sweatshirt
+- https://www.disturbia.co.uk/products/mens-new/Lightning-sweatshirt
 
 ## Мерч от fcknzs.co.uk
 ![image](https://user-images.githubusercontent.com/968194/224489299-d751afc6-7502-4bad-af6f-a91a4a65658d.png)
