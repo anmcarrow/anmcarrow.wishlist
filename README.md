@@ -371,7 +371,7 @@
 
 ## Футболку «Dragon of few words», мужскую, серого цвета, размер «S»
 ![](img/dragon_words.jpg)
-[Купить тут](~~http://www.welovefine.com/t-shirts-425-434/dragon-of-few-words-10325/sort/p.sort_order.html?order=DESC~~)
+[Купить тут](http://www.welovefine.com/t-shirts-425-434/dragon-of-few-words-10325/sort/p.sort_order.html?order=DESC)
 
 ## Футболку «Cubicles & Coworkers», мужскую, серого цвета, размер «S»
 ![](img/cubicles_and_coworkers.png)
