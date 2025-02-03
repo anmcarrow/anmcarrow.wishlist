@@ -108,16 +108,6 @@
 1. [Exploding Kittens](https://www.explodingkittens.com/)
 2. ~~[Cards Against Humanity](https://www.cardsagainsthumanity.com/)~~
 
-# Декор
-
-## Всеразличные настольно-ролевые наклейки
-![](img/rpg_sticker.jpg)
-
-Не обязательно, на русском. Не брендированные. Забавные.
-
-[Например, с Redbubble](https://www.redbubble.com/shop/dnd+stickers?cat_context=u-stationery&page=1&accordion=product)
-
-- [Ещё есть на Zazzle.com](https://www.redbubble.com/shop/stickers+tabletop+rpg?cat_context=u-stationery&page=1&accordion=product)
 
 # Гаджеты и прочая техника  
 
@@ -125,16 +115,6 @@
 ![image](https://user-images.githubusercontent.com/968194/162278867-e2716091-592c-4182-8b6d-f060a0c0fc9c.png)
 [Here it is!](https://www.keymouse.com/catalog/keymouse/keymouse-track-125-3d-printed-assembled)
 
-
-## Azeron Keypad
-![image](https://user-images.githubusercontent.com/968194/162276982-a2e05c79-68b4-4899-a28b-bf9dfe35763e.png)
-
-Собственно [тут](https://www.azeron.eu/)
-
-## Смазка для механической клавиатуры от Kryptox
-![image](https://user-images.githubusercontent.com/968194/115989275-47b3b780-a5c6-11eb-9dec-5163de7d5100.png)
-
-Например, [такая](https://geekboards.ru/product/smazka-krytox-205g2).
 
 ## Contour RollerMouse Mobile
 ![image](https://github.com/anmcarrow/anmcarrow.wishlist/assets/968194/66183332-0dca-41a7-b012-23311b51869a)
@@ -172,8 +152,6 @@
 
 Есть [на оффсайте](https://www.xencelabs.com/store/accessories/xencelabs-quick-keys-remote)
 
-## Педали для ПК от Kinesis-Ergo
-![image](https://github.com/anmcarrow/anmcarrow.wishlist/assets/968194/61f36633-42dd-4e6e-8191-d255d07bb026)
 
 Есть [на офсайте](https://kinesis-ergo.com/shop/savant-elite2-triple-pedal/)
 
@@ -218,13 +196,6 @@
 
 [Есть много где.](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Logitech+Spotlight+Advanced+Presentation+Remote&rh=i%3Aaps%2Ck%3ALogitech+Spotlight+Advanced+Presentation+Remote)
 
-## The Ergonimic Touchpad
-
-![](http://www.ergonomictouchpad.com/images/ergonomictouchpad3.jpg)
-
-Небольшой гибкий тачпэд в дополнение к моим странным клавиатурам.
-
-[Покупать у производителя](http://www.ergonomictouchpad.com/ergonomic_touchpad.php)
 
 ## Педали для ПК
 ![](http://img.dxcdn.com/productimages/sku_56508_1.jpg)
@@ -233,68 +204,14 @@
 
 Брать [здесь](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-pedal/) или, на худой конец — [здесь](http://www.dx.com/p/usb-triple-action-foot-switch-keyboard-control-foot-pedal-56508#.VmFnZFjhDRY).
 
-## Убермышь "Swiftpoint GT"
+## Убермышь от Swiftpoint
 ![Swiftpoint Mouse as IS](img/swiftpoint_mouse.jpg)
 
-Реально крутая и чертовски удобная для меня мышь.  
 [Купить тут](https://www.swiftpoint.com/product/swiftpoint-gt-mouse-2/)
-
-## Wacom Intuos Personalisation Kit
-![](img/wacom_custom_kit.jpg)
-
-[Купить тут](http://cvp.com/index.php?t=product/wacom_wacack40801)
-
-### Не гаджеты, но тем не менее
-
-#### Что угодно из моего "wishlist" на Steam.
-
-![Just Steam it](img/steam_pony.png)
-
-[Смотреть wishlist здесь](https://steamcommunity.com/id/anmcarrow/wishlist/)
 
 # Одежда и аксессуары  
 
-## Пафосную робу телемиста-любителя от Killstar
-![](img/robe_kult.jpg)
-
-Размера "S". [Покупать здесь.](https://us.killstar.com//products/cult-ritual-hoodie-b?redirect=true&variant=36615570372)
-
-## И другие штуки от Killstar тоже
-
-- https://us.killstar.com/products/seven-knit-sweater-black
-- https://us.killstar.com/products/hayzel-velvet-leggings
-- https://us.killstar.com/products/hecate-slouch-socks
-- ~~https://us.killstar.com/products/matrix-pull-over-hoodie~~
-- ~~https://us.killstar.com/products/goddess-long-sleeve-top~~
-- https://us.killstar.com/products/nicole-fishnet-bodycon-dress-b
-- https://us.killstar.com/products/last-rites-fringe-kimono
-- https://us.killstar.com/products/fight-like-a-witch-relaxed-top-b
-- https://us.killstar.com/products/karma-handbag
-- https://us.killstar.com/products/playtime-relaxed-top
-- https://us.killstar.com/products/karma-sweater-dress
-- ~~https://us.killstar.com/products/space-kitty-sunglasses-purple~~
-- https://us.killstar.com/products/black-sun-raglan-top-b
-- https://us.killstar.com/products/saiph-burnout-velvet-leggings-wine
-- https://us.killstar.com/products/saiph-burnout-velvet-leggings-b
-- https://us.killstar.com/products/duchess-leggings
-- https://us.killstar.com/products/book-of-shadows-handbag-b
-- https://us.killstar.com/products/never-surrender-long-sleeve-top
-- https://us.killstar.com/products/trashed-fishnet-long-sleeve-top-b
-- https://us.killstar.com/products/cult-ritual-hoodie-b
-- ~~https://us.killstar.com/products/bloodlust-trousers-b~~
-
-## Ну и вообще всякое от Killstar
--  https://us.killstar.com/collections/mens-clearance-tops/products/voodoo-sweatshirt-b
-- ~~https://us.killstar.com/collections/mens-clearance-tops/products/story-time-sweatshirt-b~~
-- ~~https://us.killstar.com/collections/mens-tops/products/go-to-hell-t-shirt-b~~
-
-# Украшения
-![](img/hatchet.jpg)
-
-Кулон с цепочкой ["ICP Hatchet man"](https://www.amazon.com/dp/B01ACRI4EO/ref=cm_wl_huc_continue).
-
 # Футболки
-<small>**Примечание:** Все нижеперечисленные футболки также актуальны в виде «longsleeve» (с длинным рукавом), если такая опция вообще доступна на сайте магазина.</small
 
 ## Футболки от Comrade Dmitry
 ![image](https://github.com/user-attachments/assets/20c35d5d-347f-42d3-8157-4d790eb1049d)
@@ -320,65 +237,10 @@
 
 [Есть на Amazon](https://www.amazon.com/Gorgoroth-Under-Sign-Hell-t-shirt/dp/B01H4LC5S2/ref=sr_1_43?ie=UTF8&qid=1487409843&sr=8-43&keywords=gorgoroth+tshirt)
 
-## Множество отличных футболок с Zazzle.com
-![](img/zazzle_tshirt.jpg)
-
-- ~~https://www.zazzle.com/kali_t_shirt-235854008983640786~~
-- ~~https://www.zazzle.com/miskatonic_university_t_shirt-235430999754366098~~
-- ~~https://www.zazzle.com/cthulhu_caution_t_shirt-235279601253633822~~
-- ~~https://www.zazzle.com/postmodern_summoning_t_shirt-235066430517886001~~
-- ~~https://www.zazzle.com/cthulhu_t_shirt-235622896783733667~~
-- ~~https://www.zazzle.com/mythos_elder_thing_old_one_t_shirt-235357922211266197~~
-- ~~https://www.zazzle.com/necronomicon_bleached_talk_t_shirt-235202178165633197~~
-- ~~https://www.zazzle.com/necronomicon_bleached_cream_white_t_shirt-235912579871673448~~
-- ~~https://www.zazzle.com/miskatonic_university_antarctic_expedition_t_shirt-235409043430069889~~
-- ~~https://www.zazzle.com/rebis_t_shirt-235996081230660655~~
-- ~~https://www.zazzle.com/hekate_dark_t_shirt-235987445013351217~~
-- ~~https://www.zazzle.com/outlandish_esoteric_t_shirt-235590697409030175~~
-- ~~https://www.zazzle.com/esoteric_order_of_dagon_symbol_t_shirt-235945264151439389~~
-- ~~https://www.zazzle.com/relalize_real_lies_t_shirt-235496062662316468~~
-- ~~https://www.zazzle.com/have_you_found_the_yellow_sign_symbol_on_back_t_shirt-235025547363056946~~
-- ~~https://www.zazzle.com/game_master_power_corrupts_t_shirt-235406111502626734~~
-- ~~https://www.zazzle.com/game_masters_do_it_on_the_table_t_shirt-235819707247425341~~
-- ~~https://www.zazzle.com/real_gamers_white_t_shirt-235587120282723336~~
-- ~~https://www.zazzle.com/occasional_evil_t_shirt-235598518120508269~~
-- ~~https://www.zazzle.com/osr_dark_edition_t_shirt-235056116775382095~~
-- ~~https://www.zazzle.com/isometric_osr_t_shirt-235653562529271801~~
-
-## Штуки от Rogue + Wolf
-
-- ~~https://rogueandwolf.com/collections/show-me-everything/products/crystal-queen-long-sleeve-tee-men~~
-
-## Штуки от Disturbia
-
-- ~~https://www.disturbia.co.uk/products/womens-new/nebula-sweatshirt~~
-- ~~https://www.disturbia.co.uk/products/mens-new/Lightning-sweatshirt~~
-
 ## Мерч от fcknzs.co.uk
 ![image](https://user-images.githubusercontent.com/968194/224489299-d751afc6-7502-4bad-af6f-a91a4a65658d.png)
 
 [Лонгслив](https://fcknzs.co.uk/product/antifa-iron-front-3-arrows-3-4-sleeve-raglan-shirt) или [свитшот](https://fcknzs.co.uk/product/fck-ptn-fuck-putin-unisex-organic-sweatshirt), например.
-
-## Футболку «Fellowship of the dungeon», мужскую, размер «S»
-![](img/fellow_tshirt.jpg)
-
-[Купить тут](http://shirt.woot.com/offers/fellowship-of-the-dungeon?utm_campaign=Commission+Junction+-+10836837&utm_source=Commission+Junction+Publisher+-+3497954&utm_medium=affiliate+-+shirt.woot)
-
-## Футболку «Me and Ms.Tiamat», мужскую, бежевого цвета, размер «S»
-![](img/tiamat_shirt.jpg)
-
-[Купить тут](https://www.amazon.com/Dungeons-Dragons-Mens-T-Shirt-Tiamat/dp/B01MTIRDXF?th=1&psc=1)
-
-## Футболку «Dragon of few words», мужскую, серого цвета, размер «S»
-![](img/dragon_words.jpg)
-[Купить тут](http://www.welovefine.com/t-shirts-425-434/dragon-of-few-words-10325/sort/p.sort_order.html?order=DESC)
-
-## Футболку «Cubicles & Coworkers», мужскую, серого цвета, размер «S»
-![](img/cubicles_and_coworkers.png)
-
-[Купить тут](http://shirt.woot.com/offers/cubicles-and-coworkers?ref=cnt_ctlg_dgn_2)
-
-# Кухня  
 
 # DIY  
 
@@ -387,18 +249,12 @@
 
 [Покупать здесь](https://www.hexflex.com/shop/?v=f24485ae434a)
 
-## Камень для точильной системы Lansky ультра-ультра тонкий (LS2000)
-![Весчь!](img/ls2000.jpg)
-
-Есть [на Rezat.ru](http://rezat.ru/instrumenty_dlja_zatochki/komplektujushchie_k_tochilkam/kamen_keramicheskij_dlja_tochil_nogo_nabora_lansky_super_sapphire_polishing_grit_s2000)
-
-
 # Прочее
 
 ## Монокль
 ![](img/monocle.jpg)
 
-Да, вот эта винтажная штука. Встречается на Avito и барахолках.
+Да, вот эта винтажная штука. Встречается на Avito и других барахолках.
 
 ## Сертификаты на SkyEng
 ![](img/language_courses.jpg)
