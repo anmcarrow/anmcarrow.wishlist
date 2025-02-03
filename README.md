@@ -285,8 +285,8 @@
 
 ## Ну и вообще всякое от Killstar
 -  https://us.killstar.com/collections/mens-clearance-tops/products/voodoo-sweatshirt-b
-- https://us.killstar.com/collections/mens-clearance-tops/products/story-time-sweatshirt-b
-- https://us.killstar.com/collections/mens-tops/products/go-to-hell-t-shirt-b
+- ~~https://us.killstar.com/collections/mens-clearance-tops/products/story-time-sweatshirt-b~~
+- ~~https://us.killstar.com/collections/mens-tops/products/go-to-hell-t-shirt-b~~
 
 # Украшения
 ![](img/hatchet.jpg)
@@ -351,8 +351,8 @@
 
 ## Штуки от Disturbia
 
-- https://www.disturbia.co.uk/products/womens-new/nebula-sweatshirt
-- https://www.disturbia.co.uk/products/mens-new/Lightning-sweatshirt
+- ~~https://www.disturbia.co.uk/products/womens-new/nebula-sweatshirt~~
+- ~~https://www.disturbia.co.uk/products/mens-new/Lightning-sweatshirt~~
 
 ## Мерч от fcknzs.co.uk
 ![image](https://user-images.githubusercontent.com/968194/224489299-d751afc6-7502-4bad-af6f-a91a4a65658d.png)
