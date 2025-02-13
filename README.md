@@ -102,7 +102,8 @@
 93. [Thou Art But A Warrior](https://www.drivethrurpg.com/product/142220/Thou-Art-But-A-Warrior)
 94. [Cobwebs TTRPG]([url](https://worldchampgameco.itch.io/cobwebs))
 95. [Sleepaway]([url](https://possumcreekgames.itch.io/sleepaway))
-</details
+96. [The Electric State RPG](https://freeleaguepublishing.com/shop/the-electric-state-rpg/core-rulebook/)
+</details>
 
 ## Ну и настолки
 1. [Exploding Kittens](https://www.explodingkittens.com/)
