@@ -103,6 +103,7 @@
 94. [Cobwebs TTRPG]([url](https://worldchampgameco.itch.io/cobwebs))
 95. [Sleepaway]([url](https://possumcreekgames.itch.io/sleepaway))
 96. [The Electric State RPG](https://freeleaguepublishing.com/shop/the-electric-state-rpg/core-rulebook/)
+97. [Slugblaster](https://slugblaster.com/)
 </details>
 
 ## Ну и настолки
