@@ -105,7 +105,7 @@
 96. [The Electric State RPG](https://freeleaguepublishing.com/shop/the-electric-state-rpg/core-rulebook/)
 97. [Slugblaster](https://slugblaster.com/)
 98. [For The Queen](https://evilhat.com/product/for-the-queen/)
-99. 
+99. [The Veil](https://www.drivethrurpg.com/en/product/199467/the-veil-cyberpunk-roleplaying-powered-by-the-apocalypse)
 </details>
 
 ## Ну и настолки
