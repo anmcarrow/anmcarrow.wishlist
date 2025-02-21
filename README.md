@@ -171,6 +171,7 @@ This vintage item. Can be used, in good condition.
 
 ## Central Processor for My Test Rig
 ![](img/cpu.jpg)
+
 New or used, in good condition.
 
 #### LGA1150, Sandy Bridge, something from this list:
@@ -188,6 +189,7 @@ Remote control for presentations by Logitech.
 ![image](https://m.media-amazon.com/images/I/81PHrXDUO8L._AC_UF894,1000_QL80_.jpg)
 
 > "For those who use computers in alternative ways."©
+
 Buy [here](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-pedal/) or, as a last resort — [here](http://www.dx.com/p/usb-triple-action-foot-switch-keyboard-control-foot-pedal-56508#.VmFnZFjhDRY) or [here](https://www.elgato.com/us/en/p/stream-deck-pedal).
 
 ## Swiftpoint Mouse
@@ -196,8 +198,6 @@ Buy [here](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-peda
 [Buy here](https://www.swiftpoint.com/product/swiftpoint-gt-mouse-2/)
 
 # Clothing and Accessories
-
-# T-Shirts
 
 ## T-Shirts by Comrade Dmitry
 ![image](https://github.com/user-attachments/assets/20c35d5d-347f-42d3-8157-4d790eb1049d)
