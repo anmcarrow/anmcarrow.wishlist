@@ -117,30 +117,37 @@ A gaming session or a short (within five sessions) TTRPG campaign using any of t
 
 ## KeyMouse Track 304
 ![image](https://user-images.githubusercontent.com/968194/162278867-e2716091-592c-4182-8b6d-f060a0c0fc9c.png)
+
 [Here it is!](https://www.keymouse.com/catalog/keymouse/keymouse-track-125-3d-printed-assembled)
 
 ## Contour RollerMouse Mobile
 ![image](https://github.com/anmcarrow/anmcarrow.wishlist/assets/968194/66183332-0dca-41a7-b012-23311b51869a)
+
 [Available here](https://contourdesign.store/collections/all-products/products/rollermouse-mobile#details)
 
 ## Mini-popfilter by Samson
 ![image](https://user-images.githubusercontent.com/968194/115162812-3f331c80-a0ae-11eb-9920-538fabb8ca8c.png)
+
 Available [on BigTV](https://www.bigtv.ru/product/pop-filtr-samson-ps05-621606/?event=gmerchant&roistat=merchant3_g_108475618259_online:ru:RU:621606&roistat_referrer=&roistat_pos=&utm_source=gmerchant&utm_medium=cpc&utm_campaign=10305589913&utm_content=621606&gclid=Cj0KCQjwse-DBhC7ARIsAI8YcWIAihDmeMTyLdZexeNIrJxdn-k5yvNxWTCtY0lKBEd2o3nOkKU-vT4aAn_aEALw_wcB)
 
 ## Xiaomi Mijia Wiha Electric 24-in-1 Screwdriver
 ![image](https://user-images.githubusercontent.com/968194/114421235-c4ee2e00-9bbd-11eb-8f67-70081b999479.png)
+
 Available [in many places](https://market.yandex.ru/offer/a7ZDCU1PUhpUyHhEFCe4fg?lr=194&cpa=0&onstock=1)
 
 ## Viozon Selfie Desktop Live Stand
 ![image](https://user-images.githubusercontent.com/968194/117597141-a859fd00-b14d-11eb-96df-45a6879cf70e.png)
-[Review and accessory links](https://www.youtube.com/watch?v=xrWpkZix_sI)
+
 Available [on Amazon](https://www.amazon.com/Viozon-Desktop-Microphone-competiable-Teaching/dp/B086W3L2XB/ref=as_li_ss_tl?ref_=ast_sto_dp&linkCode=sl1&tag=tecbri-20&linkId=0bde27c83a9f70ca1bc682f65f123908&language=en_US)
 
 ## 8Bitdo Wireless Bluetooth USB Adapter
 ![image](https://user-images.githubusercontent.com/968194/128595007-cae86e7b-b0fc-4324-8232-3324f84a755d.png)
+
 For example, [from the official site](https://shop.8bitdo.com/products/8bitdo-wireless-bluetooth-adapter-for-nintendo-switch-windows-mac-raspberry-pi).
 
 ## Genovation CP48 USB Controlpad
+[Genovation CP48](https://www.genovation.com/wp-content/uploads/2022/11/cp48_v4_front.png)
+
 Available [on Amazon](https://www.amazon.com/Genovation-CP48-USBHID-48KEY-CONTROLPAD-BLACK/dp/B00UH3E23G/ref=sr_1_4?dchild=1&keywords=Genovation&qid=1621025167&sr=8-4)
 
 ## Quick Keys Block by Xencelabs
@@ -176,11 +183,15 @@ Remote control for presentations by Logitech.
 
 ## Pedals for PC
 ![image](https://github.com/user-attachments/assets/4d42f4f4-f8ae-4506-87be-5607e8a3ee9a)
+
+![image](https://m.media-amazon.com/images/I/81PHrXDUO8L._AC_UF894,1000_QL80_.jpg)
+
 > "For those who use computers in alternative ways."©
 Buy [here](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-pedal/) or, as a last resort — [here](http://www.dx.com/p/usb-triple-action-foot-switch-keyboard-control-foot-pedal-56508#.VmFnZFjhDRY) or [here](https://www.elgato.com/us/en/p/stream-deck-pedal).
 
 ## Swiftpoint Mouse
 ![Swiftpoint Mouse as IS](img/swiftpoint_mouse.jpg)
+
 [Buy here](https://www.swiftpoint.com/product/swiftpoint-gt-mouse-2/)
 
 # Clothing and Accessories
@@ -189,27 +200,33 @@ Buy [here](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-peda
 
 ## T-Shirts by Comrade Dmitry
 ![image](https://github.com/user-attachments/assets/20c35d5d-347f-42d3-8157-4d790eb1049d)
+
 [From here](https://sharkrobot.com/products/flick-the-bean?_pos=2&_sid=48ac710cb&_ss=r) and [from here](https://sharkrobot.com/products/comrade?_pos=1&_sid=efd74d7eb&_ss=r).
 
 ## "Cheap and Angry" T-Shirt
 ![image](https://user-images.githubusercontent.com/968194/227749509-c0f8ab91-5129-45f9-b470-78045bcfbd89.png)
+
 [For example, from here](https://hiphoptochka.com/YUG_Deshevo_y_Serdito_tee_ru)
 
 ## "Antisocial Media" T-Shirt
 ![image](https://user-images.githubusercontent.com/968194/226492327-3de38b0c-84cf-4828-a447-74c8d428a138.png)
+
 [Available on Bonfire](https://www.bonfire.com/one-million-dead-birdsites/)
 
 ## Any T-Shirt by Shiroi Neko, Men's, Size "S"
 ![Nya, desu!](img/shiroi_neko.jpg)
+
 More precisely, any [from this list](https://www.evernote.com/shard/s278/sh/7017da53-f9cd-4948-be86-2627fc7a4002/3af1e1f76b23666019606b7dce29068b)
 
 ## Gorgoroth "Under the Sign of Hell" Band T-Shirt, Men's, Size "S"
 ![](img/gorgoroth_tshirt.jpg)
+
 [Available on Amazon](https://www.amazon.com/Gorgoroth-Under-Sign-Hell-t-shirt/dp/B01H4LC5S2/ref=sr_1_43?ie=UTF8&qid=1487409843&sr=8-43&keywords=gorgoroth+tshirt)
 
 ## Merchandise from fcknzs.co.uk
 ![image](https://user-images.githubusercontent.com/968194/224489299-d751afc6-7502-4bad-af6f-a91a4a65658d.png)
-[Long Sleeve](https://fcknzs.co.uk/product/antifa-iron-front-3-arrows-3-4-sleeve-raglan-shirt) or [Sweatshirt](https://fcknzs.co.uk/product/fck-
+
+[Long Sleeve](https://fcknzs.co.uk/product/antifa-iron-front-3-arrows-3-4-sleeve-raglan-shirt) or [Sweatshirt](https://fcknzs.co.uk/product/antifa-iron-front-3-arrows-unisex-sweatshirt).
 
 # DIY  
 
