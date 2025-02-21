@@ -1,5 +1,5 @@
 
-# Новый настольно-ролевой опыт
+# A new TTRPG experience
 ![](img/new_experience.jpg)
 
 A gaming session or a short (within five sessions) TTRPG campaign using any of the products from the list below.
@@ -118,7 +118,8 @@ A gaming session or a short (within five sessions) TTRPG campaign using any of t
 ## KeyMouse Track 304
 ![image](https://user-images.githubusercontent.com/968194/162278867-e2716091-592c-4182-8b6d-f060a0c0fc9c.png)
 
-[Here it is!](https://www.keymouse.com/catalog/keymouse/keymouse-track-125-3d-printed-assembled)
+Or something similar, with at least one trackbal, scroll wheel and separate parts. The curving is not so required.
+Anyway [here it is!](https://www.keymouse.com/catalog/keymouse/keymouse-track-125-3d-printed-assembled)
 
 ## Contour RollerMouse Mobile
 ![image](https://github.com/anmcarrow/anmcarrow.wishlist/assets/968194/66183332-0dca-41a7-b012-23311b51869a)
