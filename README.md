@@ -147,7 +147,7 @@ Available [on Amazon](https://www.amazon.com/Viozon-Desktop-Microphone-competiab
 For example, [from the official site](https://shop.8bitdo.com/products/8bitdo-wireless-bluetooth-adapter-for-nintendo-switch-windows-mac-raspberry-pi).
 
 ## Genovation CP48 USB Controlpad
-[Genovation CP48](https://www.genovation.com/wp-content/uploads/2022/11/cp48_v4_front.png)
+![Genovation CP48](https://www.genovation.com/wp-content/uploads/2022/11/cp48_v4_front.png)
 
 Available [on Amazon](https://www.amazon.com/Genovation-CP48-USBHID-48KEY-CONTROLPAD-BLACK/dp/B00UH3E23G/ref=sr_1_4?dchild=1&keywords=Genovation&qid=1621025167&sr=8-4)
 
