@@ -4,8 +4,8 @@
 
 A gaming session or a short (within five sessions) TTRPG campaign using any of the products from the list below.
 
-<details
-  <summary><em>Щёлкните, чтобы развернуть список...</em></summary
+<details>
+  <summary><em>Click to unroll the list...</em></summary
 
 1. [Ars Magica](http://www.atlas-games.com/arm5/)
 2. [FFG SW: Edge of Empire](https://www.fantasyflightgames.com/en/products/star-wars-edge-of-the-empire/)
