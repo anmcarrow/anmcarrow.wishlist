@@ -109,160 +109,118 @@
 100. [Belly of the beast](https://www.drivethrurpg.com/en/product/192736/belly-of-the-beast-rpg)
 </details>
 
-## Ну и настолки
+## Board Games also
 1. [Exploding Kittens](https://www.explodingkittens.com/)
 2. ~~[Cards Against Humanity](https://www.cardsagainsthumanity.com/)~~
 
-
-# Гаджеты и прочая техника  
+# Gadgets and Other Tech
 
 ## KeyMouse Track 304
 ![image](https://user-images.githubusercontent.com/968194/162278867-e2716091-592c-4182-8b6d-f060a0c0fc9c.png)
 [Here it is!](https://www.keymouse.com/catalog/keymouse/keymouse-track-125-3d-printed-assembled)
 
-
 ## Contour RollerMouse Mobile
 ![image](https://github.com/anmcarrow/anmcarrow.wishlist/assets/968194/66183332-0dca-41a7-b012-23311b51869a)
+[Available here](https://contourdesign.store/collections/all-products/products/rollermouse-mobile#details)
 
-[Есть тут](https://contourdesign.store/collections/all-products/products/rollermouse-mobile#details)
-
-## Мини-popfilter от Samson
+## Mini-popfilter by Samson
 ![image](https://user-images.githubusercontent.com/968194/115162812-3f331c80-a0ae-11eb-9920-538fabb8ca8c.png)
+Available [on BigTV](https://www.bigtv.ru/product/pop-filtr-samson-ps05-621606/?event=gmerchant&roistat=merchant3_g_108475618259_online:ru:RU:621606&roistat_referrer=&roistat_pos=&utm_source=gmerchant&utm_medium=cpc&utm_campaign=10305589913&utm_content=621606&gclid=Cj0KCQjwse-DBhC7ARIsAI8YcWIAihDmeMTyLdZexeNIrJxdn-k5yvNxWTCtY0lKBEd2o3nOkKU-vT4aAn_aEALw_wcB)
 
-Есть [на BigTV](https://www.bigtv.ru/product/pop-filtr-samson-ps05-621606/?event=gmerchant&roistat=merchant3_g_108475618259_online:ru:RU:621606&roistat_referrer=&roistat_pos=&utm_source=gmerchant&utm_medium=cpc&utm_campaign=10305589913&utm_content=621606&gclid=Cj0KCQjwse-DBhC7ARIsAI8YcWIAihDmeMTyLdZexeNIrJxdn-k5yvNxWTCtY0lKBEd2o3nOkKU-vT4aAn_aEALw_wcB)
-
-## Электроотвёртка Xiaomi Mijia Wiha Electric 24-in-1
+## Xiaomi Mijia Wiha Electric 24-in-1 Screwdriver
 ![image](https://user-images.githubusercontent.com/968194/114421235-c4ee2e00-9bbd-11eb-8f67-70081b999479.png)
-
-Есть [много где](https://market.yandex.ru/offer/a7ZDCU1PUhpUyHhEFCe4fg?lr=194&cpa=0&onstock=1)
+Available [in many places](https://market.yandex.ru/offer/a7ZDCU1PUhpUyHhEFCe4fg?lr=194&cpa=0&onstock=1)
 
 ## Viozon Selfie Desktop Live Stand
 ![image](https://user-images.githubusercontent.com/968194/117597141-a859fd00-b14d-11eb-96df-45a6879cf70e.png)
-
-[Обзор и ссылки на доп. аксессуары](https://www.youtube.com/watch?v=xrWpkZix_sI)
-
-Есть [на Amazon](https://www.amazon.com/Viozon-Desktop-Microphone-competiable-Teaching/dp/B086W3L2XB/ref=as_li_ss_tl?ref_=ast_sto_dp&linkCode=sl1&tag=tecbri-20&linkId=0bde27c83a9f70ca1bc682f65f123908&language=en_US)
+[Review and accessory links](https://www.youtube.com/watch?v=xrWpkZix_sI)
+Available [on Amazon](https://www.amazon.com/Viozon-Desktop-Microphone-competiable-Teaching/dp/B086W3L2XB/ref=as_li_ss_tl?ref_=ast_sto_dp&linkCode=sl1&tag=tecbri-20&linkId=0bde27c83a9f70ca1bc682f65f123908&language=en_US)
 
 ## 8Bitdo Wireless Bluetooth USB Adapter
 ![image](https://user-images.githubusercontent.com/968194/128595007-cae86e7b-b0fc-4324-8232-3324f84a755d.png)
-
-Например, [с официального сайта](https://shop.8bitdo.com/products/8bitdo-wireless-bluetooth-adapter-for-nintendo-switch-windows-mac-raspberry-pi).
+For example, [from the official site](https://shop.8bitdo.com/products/8bitdo-wireless-bluetooth-adapter-for-nintendo-switch-windows-mac-raspberry-pi).
 
 ## Genovation CP48 USB Controlpad
+Available [on Amazon](https://www.amazon.com/Genovation-CP48-USBHID-48KEY-CONTROLPAD-BLACK/dp/B00UH3E23G/ref=sr_1_4?dchild=1&keywords=Genovation&qid=1621025167&sr=8-4)
 
-Есть [на Amazon](https://www.amazon.com/Genovation-CP48-USBHID-48KEY-CONTROLPAD-BLACK/dp/B00UH3E23G/ref=sr_1_4?dchild=1&keywords=Genovation&qid=1621025167&sr=8-4)
-
-## Qisk keys block by Xencelabs
+## Quick Keys Block by Xencelabs
 ![image](https://github.com/anmcarrow/anmcarrow.wishlist/assets/968194/60fd400a-ea13-42bb-a25b-ab5606bc02c0)
+Available [on the official site](https://www.xencelabs.com/store/accessories/xencelabs-quick-keys-remote)
 
-Есть [на оффсайте](https://www.xencelabs.com/store/accessories/xencelabs-quick-keys-remote)
-
-
-Есть [на офсайте](https://kinesis-ergo.com/shop/savant-elite2-triple-pedal/)
-
-## Elgato stream deck (обычную или XL)
+## Elgato Stream Deck (Standard or XL)
 ![image](https://user-images.githubusercontent.com/968194/113795400-7a9c2580-9755-11eb-80b9-f35f8a5e9821.png)
+Available [in many places](https://market.yandex.ru/search?text=Elgato%20stream%20deck&cvredirect=2&cpa=0&onstock=0&local-offers-first=0)
 
-Есть [много где](https://market.yandex.ru/search?text=Elgato%20stream%20deck&cvredirect=2&cpa=0&onstock=0&local-offers-first=0)
-
-## AfterShokz OpenComm 
+## AfterShokz OpenComm
 ![image](https://user-images.githubusercontent.com/968194/113945126-5fd9b780-980e-11eb-9a33-9e3336357c47.png)
+Available [on the official site](https://us.aftershokz.com/products/opencomm) and [on Amazon](https://www.amazon.com/AfterShokz-Conduction-Noise-Canceling-Microphone-Commercial/dp/B08DW2SJCQ)
 
-Есть [на оффсайте](https://us.aftershokz.com/products/opencomm) и [на Amazon](https://www.amazon.com/AfterShokz-Conduction-Noise-Canceling-Microphone-Commercial/dp/B08DW2SJCQ)
-
-Например [отсюда](https://market.yandex.ru/product--kompiuternaia-garnitura-plantronics-voyager-legend-uc/9238351)
-
-## Компактная BT/USB клавиатура Motospeed ck62 bs
-![image](https://user-images.githubusercontent.com/968194/113795556-e3839d80-9755-11eb-9516-47673c71eeaf.png)
-
-В чёрном цвете. Есть [на Aliexpress](https://aliexpress.ru/item/32958185753.html), например.
-
-## Apple iPod nano 3 Black
+## Apple iPod Nano 3 Black
 ![](img/ipod.jpg)
+This vintage item. Can be used, in good condition.
+- [For example, on Amazon](https://www.amazon.com/Apple-Generation-Black-Discontinued-Manufacturer/dp/B000JO3N3S/ref=sr_1_7?s=mp3&ie=UTF8&qid=1511646448&sr=1-7&keywords=ipod+nano+3+black)
+- [For example, on eBay](https://www.ebay.com/sch/i.html?_odkw=apple+ipod+nano+3+black&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xapple+ipod+nano+3rd+black.TRS1&_nkw=apple+ipod+nano+3rd+black&_sacat=0)
 
-Такая винтажная штука. Можно б/у, х/с
-
-- [Например, на Amazon ](https://www.amazon.com/Apple-Generation-Black-Discontinued-Manufacturer/dp/B000JO3N3S/ref=sr_1_7?s=mp3&ie=UTF8&qid=1511646448&sr=1-7&keywords=ipod+nano+3+black)
-- [Например на eBay](https://www.ebay.com/sch/i.html?_odkw=apple+ipod+nano+3+black&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xapple+ipod+nano+3rd+black.TRS1&_nkw=apple+ipod+nano+3rd+black&_sacat=0)
-
-## Центральный процессор для моего стендового PC
+## Central Processor for My Test Rig
 ![](img/cpu.jpg)
+New or used, in good condition.
 
-Новый или не очень или вообще бу/хс.
-
-#### LGA1150, Sandy Bridge, что-нибудь из вот этого списка:
+#### LGA1150, Sandy Bridge, something from this list:
 - Xeon E3-1220 v3, Xeon E3-1220L v3, Xeon E3-1225 v3, Xeon E3-1230 v3, Xeon E3-1235 v3, Xeon E3-1240 v3, Xeon E3-1245 v3, Xeon E3-1270 v3, Xeon E3-1275 v3, Xeon E3-1280 v3, Xeon E3-1290 v3;
-- Core i7-2600, Core i7-2600K, Core i7-2600S, Core i7-2700K, Core i7-3770,  i7-3770K, Core i7-3770S, Core i7-3770T
+- Core i7-2600, Core i7-2600K, Core i7-2600S, Core i7-2700K, Core i7-3770, i7-3770K, Core i7-3770S, Core i7-3770T
 
 ## Logitech Spotlight Advanced Presentation Remote
 ![](img/presenter.jpg)
+Remote control for presentations by Logitech.
+[Available in many places](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Logitech+Spotlight+Advanced+Presentation+Remote&rh=i%3Aaps%2Ck%3ALogitech+Spotlight+Advanced+Presentation+Remote)
 
-Дистанционный пульт для презентаций от Logitech.
-
-[Есть много где.](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Logitech+Spotlight+Advanced+Presentation+Remote&rh=i%3Aaps%2Ck%3ALogitech+Spotlight+Advanced+Presentation+Remote)
-
-
-## Педали для ПК
+## Pedals for PC
 ![image](https://github.com/user-attachments/assets/4d42f4f4-f8ae-4506-87be-5607e8a3ee9a)
+> "For those who use computers in alternative ways."©
+Buy [here](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-pedal/) or, as a last resort — [here](http://www.dx.com/p/usb-triple-action-foot-switch-keyboard-control-foot-pedal-56508#.VmFnZFjhDRY) or [here](https://www.elgato.com/us/en/p/stream-deck-pedal).
 
-
-> "For those who use computer in alternative ways."©
-
-Брать [здесь](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-pedal/) или, на худой конец — [здесь](http://www.dx.com/p/usb-triple-action-foot-switch-keyboard-control-foot-pedal-56508#.VmFnZFjhDRY).
-
-## Убермышь от Swiftpoint
+## Swiftpoint Mouse
 ![Swiftpoint Mouse as IS](img/swiftpoint_mouse.jpg)
+[Buy here](https://www.swiftpoint.com/product/swiftpoint-gt-mouse-2/)
 
-[Купить тут](https://www.swiftpoint.com/product/swiftpoint-gt-mouse-2/)
+# Clothing and Accessories
 
-# Одежда и аксессуары  
+# T-Shirts
 
-# Футболки
-
-## Футболки от Comrade Dmitry
+## T-Shirts by Comrade Dmitry
 ![image](https://github.com/user-attachments/assets/20c35d5d-347f-42d3-8157-4d790eb1049d)
-[Отсюда]([url](https://sharkrobot.com/products/flick-the-bean?_pos=2&_sid=48ac710cb&_ss=r)) и [отсюда]([url](https://sharkrobot.com/products/comrade?_pos=1&_sid=efd74d7eb&_ss=r)).
+[From here](https://sharkrobot.com/products/flick-the-bean?_pos=2&_sid=48ac710cb&_ss=r) and [from here](https://sharkrobot.com/products/comrade?_pos=1&_sid=efd74d7eb&_ss=r).
 
-## Футболку "Дёшево и сердито"
+## "Cheap and Angry" T-Shirt
 ![image](https://user-images.githubusercontent.com/968194/227749509-c0f8ab91-5129-45f9-b470-78045bcfbd89.png)
+[For example, from here](https://hiphoptochka.com/YUG_Deshevo_y_Serdito_tee_ru)
 
-[Например, отсюда](https://hiphoptochka.com/YUG_Deshevo_y_Serdito_tee_ru)
-
-## Футболку "Antisocial media"
+## "Antisocial Media" T-Shirt
 ![image](https://user-images.githubusercontent.com/968194/226492327-3de38b0c-84cf-4828-a447-74c8d428a138.png)
+[Available on Bonfire](https://www.bonfire.com/one-million-dead-birdsites/)
 
-[Есть на Bonfire](https://www.bonfire.com/one-million-dead-birdsites/)
-
-## Любую футболку от Shiroi Neko, мужскую, размера «S»
+## Any T-Shirt by Shiroi Neko, Men's, Size "S"
 ![Nya, desu!](img/shiroi_neko.jpg)
+More precisely, any [from this list](https://www.evernote.com/shard/s278/sh/7017da53-f9cd-4948-be86-2627fc7a4002/3af1e1f76b23666019606b7dce29068b)
 
-Точнее, любую [из этого  списка](https://www.evernote.com/shard/s278/sh/7017da53-f9cd-4948-be86-2627fc7a4002/3af1e1f76b23666019606b7dce29068b)  
-
-## Мерчевую футболку группы Gorgoroth "Under the sign of Hell", мужскую, размера «S»
+## Gorgoroth "Under the Sign of Hell" Band T-Shirt, Men's, Size "S"
 ![](img/gorgoroth_tshirt.jpg)
+[Available on Amazon](https://www.amazon.com/Gorgoroth-Under-Sign-Hell-t-shirt/dp/B01H4LC5S2/ref=sr_1_43?ie=UTF8&qid=1487409843&sr=8-43&keywords=gorgoroth+tshirt)
 
-[Есть на Amazon](https://www.amazon.com/Gorgoroth-Under-Sign-Hell-t-shirt/dp/B01H4LC5S2/ref=sr_1_43?ie=UTF8&qid=1487409843&sr=8-43&keywords=gorgoroth+tshirt)
-
-## Мерч от fcknzs.co.uk
+## Merchandise from fcknzs.co.uk
 ![image](https://user-images.githubusercontent.com/968194/224489299-d751afc6-7502-4bad-af6f-a91a4a65658d.png)
-
-[Лонгслив](https://fcknzs.co.uk/product/antifa-iron-front-3-arrows-3-4-sleeve-raglan-shirt) или [свитшот](https://fcknzs.co.uk/product/fck-ptn-fuck-putin-unisex-organic-sweatshirt), например.
+[Long Sleeve](https://fcknzs.co.uk/product/antifa-iron-front-3-arrows-3-4-sleeve-raglan-shirt) or [Sweatshirt](https://fcknzs.co.uk/product/fck-
 
 # DIY  
 
-## Мультитул-снежинка от HexFlex
+## Multitool-snowflake by HexFlex
 ![](img/snowflake_tool.jpg)
 
-[Покупать здесь](https://www.hexflex.com/shop/?v=f24485ae434a)
+[From here](https://www.hexflex.com/shop/?v=f24485ae434a)
 
-# Прочее
+# Misc
 
-## Монокль
+## Monocle
 ![](img/monocle.jpg)
 
-Да, вот эта винтажная штука. Встречается на Avito и других барахолках.
-
-## Сертификаты на SkyEng
-![](img/language_courses.jpg)
-
-[Продаются здесь.](https://school.skyeng.ru/gift/)
+Can be on eBay, OLX and so on.
