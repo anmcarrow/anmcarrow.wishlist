@@ -165,6 +165,7 @@ Available [on the official site](https://us.aftershokz.com/products/opencomm) an
 
 ## Apple iPod Nano 3 Black
 ![](img/ipod.jpg)
+
 This vintage item. Can be used, in good condition.
 - [For example, on Amazon](https://www.amazon.com/Apple-Generation-Black-Discontinued-Manufacturer/dp/B000JO3N3S/ref=sr_1_7?s=mp3&ie=UTF8&qid=1511646448&sr=1-7&keywords=ipod+nano+3+black)
 - [For example, on eBay](https://www.ebay.com/sch/i.html?_odkw=apple+ipod+nano+3+black&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xapple+ipod+nano+3rd+black.TRS1&_nkw=apple+ipod+nano+3rd+black&_sacat=0)
