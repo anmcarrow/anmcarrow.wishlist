@@ -2,7 +2,7 @@
 # Новый настольно-ролевой опыт
 ![](img/new_experience.jpg)
 
-Игровая встреча или короткая, в пределах пяти встреч, сюжетная кампания по любой системе правил для НРИ из ниже приведённого списка.
+A gaming session or a short (within five sessions) TTRPG campaign using any of the products from the list below.
 
 <details
   <summary><em>Щёлкните, чтобы развернуть список...</em></summary
