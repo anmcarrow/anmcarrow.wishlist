@@ -199,32 +199,32 @@ Buy [here](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-peda
 
 # Clothing and Accessories
 
-## T-Shirts by Comrade Dmitry
+## T-Shirts by Comrade Dmitry (XS/44)
 ![image](https://github.com/user-attachments/assets/20c35d5d-347f-42d3-8157-4d790eb1049d)
 
 [From here](https://sharkrobot.com/products/flick-the-bean?_pos=2&_sid=48ac710cb&_ss=r) and [from here](https://sharkrobot.com/products/comrade?_pos=1&_sid=efd74d7eb&_ss=r).
 
-## "Cheap and Angry" T-Shirt
+## "Cheap and Angry" T-Shirt (XS/44)
 ![image](https://user-images.githubusercontent.com/968194/227749509-c0f8ab91-5129-45f9-b470-78045bcfbd89.png)
 
 [For example, from here](https://hiphoptochka.com/YUG_Deshevo_y_Serdito_tee_ru)
 
-## "Antisocial Media" T-Shirt
+## "Antisocial Media" T-Shirt (XS/44)
 ![image](https://user-images.githubusercontent.com/968194/226492327-3de38b0c-84cf-4828-a447-74c8d428a138.png)
 
 [Available on Bonfire](https://www.bonfire.com/one-million-dead-birdsites/)
 
-## Any T-Shirt by Shiroi Neko, Men's, Size "S"
+## Any T-Shirt by Shiroi Neko  (XS/44)
 ![Nya, desu!](img/shiroi_neko.jpg)
 
 More precisely, any [from this list](https://www.evernote.com/shard/s278/sh/7017da53-f9cd-4948-be86-2627fc7a4002/3af1e1f76b23666019606b7dce29068b)
 
-## Gorgoroth "Under the Sign of Hell" Band T-Shirt, Men's, Size "S"
+## Gorgoroth "Under the Sign of Hell" Band T-Shirt (XS/44)
 ![](img/gorgoroth_tshirt.jpg)
 
 [Available on Amazon](https://www.amazon.com/Gorgoroth-Under-Sign-Hell-t-shirt/dp/B01H4LC5S2/ref=sr_1_43?ie=UTF8&qid=1487409843&sr=8-43&keywords=gorgoroth+tshirt)
 
-## Merchandise from fcknzs.co.uk
+## Merchandise from fcknzs.co.uk  (XS/44)
 ![image](https://user-images.githubusercontent.com/968194/224489299-d751afc6-7502-4bad-af6f-a91a4a65658d.png)
 
 [Long Sleeve](https://fcknzs.co.uk/product/antifa-iron-front-3-arrows-3-4-sleeve-raglan-shirt) or [Sweatshirt](https://fcknzs.co.uk/product/antifa-iron-front-3-arrows-unisex-sweatshirt).
