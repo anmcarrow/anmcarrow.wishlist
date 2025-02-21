@@ -106,6 +106,7 @@
 97. [Slugblaster](https://slugblaster.com/)
 98. [For The Queen](https://evilhat.com/product/for-the-queen/)
 99. [The Veil](https://www.drivethrurpg.com/en/product/199467/the-veil-cyberpunk-roleplaying-powered-by-the-apocalypse)
+100. [Belly of the beast](https://www.drivethrurpg.com/en/product/192736/belly-of-the-beast-rpg)
 </details>
 
 ## Ну и настолки
