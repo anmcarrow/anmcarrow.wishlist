@@ -179,6 +179,10 @@ New or used, in good condition.
 - Xeon E3-1220 v3, Xeon E3-1220L v3, Xeon E3-1225 v3, Xeon E3-1230 v3, Xeon E3-1235 v3, Xeon E3-1240 v3, Xeon E3-1245 v3, Xeon E3-1270 v3, Xeon E3-1275 v3, Xeon E3-1280 v3, Xeon E3-1290 v3;
 - Core i7-2600, Core i7-2600K, Core i7-2600S, Core i7-2700K, Core i7-3770, i7-3770K, Core i7-3770S, Core i7-3770T
 
+## Tascam FR-AV2 field recorder
+![image](https://github.com/user-attachments/assets/c781e073-7b8e-41b6-82af-46f759314b7b)
+[Compact 2-channel audio processing device](https://www.bhphotovideo.com/c/product/1852610-REG/tascam_fr_av2_32_bit_float_recorder_timecode_generator.html)
+
 ## Logitech Spotlight Advanced Presentation Remote
 ![](img/presenter.jpg)
 Remote control for presentations by Logitech.
