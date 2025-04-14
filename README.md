@@ -115,6 +115,12 @@ A gaming session or a short (within five sessions) TTRPG campaign using any of t
 
 # Gadgets and Other Tech
 
+## Better Web cam
+![image](https://github.com/user-attachments/assets/0e2b7b25-ebcc-4d08-801e-187016532ee1)
+
+[Opal Tadpole]([url]([https://www.ebay.com/sch/i.html?_nkw=opal+tadpole&_sacat=0&_from=R40&_trksid=p4432023.m570.l1313](https://www.amazon.com/Opal-Tadpole-Laptops-Directional-Microphones/dp/B0CM949QRS/))
+) or [Obsbot Tiny 2]([url](https://www.amazon.com/OBSBOT-Multi-mode-Correction-Streaming-Conference/dp/B0C3B6ZR1V/)) should be just fine.
+
 ## KeyMouse Track 304
 ![image](https://user-images.githubusercontent.com/968194/162278867-e2716091-592c-4182-8b6d-f060a0c0fc9c.png)
 
