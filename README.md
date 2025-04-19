@@ -107,6 +107,7 @@ A gaming session or a short (within five sessions) TTRPG campaign using any of t
 98. [For The Queen](https://evilhat.com/product/for-the-queen/)
 99. [The Veil](https://www.drivethrurpg.com/en/product/199467/the-veil-cyberpunk-roleplaying-powered-by-the-apocalypse)
 100. [Belly of the beast](https://www.drivethrurpg.com/en/product/192736/belly-of-the-beast-rpg)
+101. [Rebels of the outlaw wastes](https://nerdypupgames.itch.io/rebels-of-the-outlaw-wastes)
 </details>
 
 ## Board Games also
