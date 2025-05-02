@@ -177,15 +177,6 @@ This vintage item. Can be used, in good condition.
 - [For example, on Amazon](https://www.amazon.com/Apple-Generation-Black-Discontinued-Manufacturer/dp/B000JO3N3S/ref=sr_1_7?s=mp3&ie=UTF8&qid=1511646448&sr=1-7&keywords=ipod+nano+3+black)
 - [For example, on eBay](https://www.ebay.com/sch/i.html?_odkw=apple+ipod+nano+3+black&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xapple+ipod+nano+3rd+black.TRS1&_nkw=apple+ipod+nano+3rd+black&_sacat=0)
 
-## Central Processor for My Test Rig
-![](img/cpu.jpg)
-
-New or used, in good condition.
-
-#### LGA1150, Sandy Bridge, something from this list:
-- Xeon E3-1220 v3, Xeon E3-1220L v3, Xeon E3-1225 v3, Xeon E3-1230 v3, Xeon E3-1235 v3, Xeon E3-1240 v3, Xeon E3-1245 v3, Xeon E3-1270 v3, Xeon E3-1275 v3, Xeon E3-1280 v3, Xeon E3-1290 v3;
-- Core i7-2600, Core i7-2600K, Core i7-2600S, Core i7-2700K, Core i7-3770, i7-3770K, Core i7-3770S, Core i7-3770T
-
 ## Tascam FR-AV2 field recorder
 ![image](https://github.com/user-attachments/assets/c781e073-7b8e-41b6-82af-46f759314b7b)
 [Compact 2-channel audio processing device](https://www.bhphotovideo.com/c/product/1852610-REG/tascam_fr_av2_32_bit_float_recorder_timecode_generator.html)
