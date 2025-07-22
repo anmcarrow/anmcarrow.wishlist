@@ -200,6 +200,10 @@ Buy [here](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-peda
 
 [Buy here](https://www.swiftpoint.com/product/swiftpoint-gt-mouse-2/)
 
+## MoveMaster RSG controller
+<img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/2712c818-ad32-47bd-93e8-02eac7256709" />
+From the [brand's shop](https://movemaster.tech/en-eu).
+
 # Clothing and Accessories
 
 ## T-Shirts by Comrade Dmitry (XS/44)
