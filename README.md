@@ -133,10 +133,6 @@ Anyway [here it is!](https://www.keymouse.com/catalog/keymouse/keymouse-track-12
 
 [Available here](https://contourdesign.store/collections/all-products/products/rollermouse-mobile#details)
 
-## Mini-popfilter by Samson
-![image](https://user-images.githubusercontent.com/968194/115162812-3f331c80-a0ae-11eb-9920-538fabb8ca8c.png)
-
-Available [on BigTV](https://www.bigtv.ru/product/pop-filtr-samson-ps05-621606/?event=gmerchant&roistat=merchant3_g_108475618259_online:ru:RU:621606&roistat_referrer=&roistat_pos=&utm_source=gmerchant&utm_medium=cpc&utm_campaign=10305589913&utm_content=621606&gclid=Cj0KCQjwse-DBhC7ARIsAI8YcWIAihDmeMTyLdZexeNIrJxdn-k5yvNxWTCtY0lKBEd2o3nOkKU-vT4aAn_aEALw_wcB)
 
 ## Xiaomi Mijia Wiha Electric 24-in-1 Screwdriver
 ![image](https://user-images.githubusercontent.com/968194/114421235-c4ee2e00-9bbd-11eb-8f67-70081b999479.png)
