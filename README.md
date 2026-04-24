@@ -42,7 +42,7 @@ A gaming session or a short (within five sessions) TTRPG campaign using any of t
 33. [Ten Candles](http://cavalrygames.com/ten-candles/)
 34. [Murderous Ghosts](https://payhip.com/b/jGPB)
 35. [Over The Edge](http://www.atlas-games.com/overtheedge/)
-36. [Sorcerer](http://adept-press.com/games-fantasy-horror/sorcerer/)
+36. [Rebels of the outlaw wastes](https://nerdypupgames.itch.io/rebels-of-the-outlaw-wastes)
 37. [Ocean](http://www.drivethrurpg.com/product/63429/Ocean?manufacturers_id=385)
 38. [Open Adventure](http://geekguild.com/openadventure/)
 39. [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year/)
@@ -107,7 +107,6 @@ A gaming session or a short (within five sessions) TTRPG campaign using any of t
 98. [For The Queen](https://evilhat.com/product/for-the-queen/)
 99. [The Veil](https://www.drivethrurpg.com/en/product/199467/the-veil-cyberpunk-roleplaying-powered-by-the-apocalypse)
 100. [Belly of the beast](https://www.drivethrurpg.com/en/product/192736/belly-of-the-beast-rpg)
-101. [Rebels of the outlaw wastes](https://nerdypupgames.itch.io/rebels-of-the-outlaw-wastes)
 </details>
 
 ## Board Games also
@@ -193,15 +192,6 @@ This vintage item. Can be used, in good condition.
 ![](img/presenter.jpg)
 Remote control for presentations by Logitech.
 [Available in many places](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Logitech+Spotlight+Advanced+Presentation+Remote&rh=i%3Aaps%2Ck%3ALogitech+Spotlight+Advanced+Presentation+Remote)
-
-## Pedals for PC
-![image](https://github.com/user-attachments/assets/4d42f4f4-f8ae-4506-87be-5607e8a3ee9a)
-
-![image](https://m.media-amazon.com/images/I/81PHrXDUO8L._AC_UF894,1000_QL80_.jpg)
-
-> "For those who use computers in alternative ways."©
-
-Buy [here](http://www.kinesis-ergo.com/shop/savant-elite2-waterproof-triple-pedal/) or, as a last resort — [here](http://www.dx.com/p/usb-triple-action-foot-switch-keyboard-control-foot-pedal-56508#.VmFnZFjhDRY) or [here](https://www.elgato.com/us/en/p/stream-deck-pedal).
 
 ## Swiftpoint Mouse
 ![Swiftpoint Mouse as IS](img/swiftpoint_mouse.jpg)
