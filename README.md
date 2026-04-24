@@ -114,6 +114,18 @@ A gaming session or a short (within five sessions) TTRPG campaign using any of t
 1. [Exploding Kittens](https://www.explodingkittens.com/)
 2. ~~[Cards Against Humanity](https://www.cardsagainsthumanity.com/)~~
 
+# Photo and video gear
+
+## BBGv2 Boomerang Flash Bracket
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/01706eb9-fdac-4ec6-8b52-30e3595c145f" />
+
+[Frof off. site.](https://promediagear.com/collections/camera-flash-brackets/products/bbgv2-boomerang-flash-bracket)
+
+## BP1 Paparazzi Compact Mini Flash Bracket
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/678cde3f-b6d2-4d5f-b668-c182de377052" />
+
+[Frof off. site.]([https://promediagear.com/collections/camera-flash-brackets/products/bbgv2-boomerang-flash-bracket](https://promediagear.com/products/bp1-paparazzi-compact-mini-flash-bracket))
+
 # Gadgets and Other Tech
 
 ## Better Web cam
